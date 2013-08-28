@@ -77,8 +77,6 @@ Papier en pen voor discussies en college.
 - Mooi toneelspel met de 'foute code'
 - Ik heb je koffie opgedronken
 
-
-
 ##2. College - 20 minuten (35/200)
 **Materiaal:** Papier en pen voor aantekeningen
 **Opstelling:** Rijen, college opstelling
@@ -155,7 +153,7 @@ Kijk bijvoorbeeld eens naar deze uitspraak:
 **Materiaal** Laptop en internet
 **Opstelling** Werkeilanden waar twee duo’s aan kunnen zitten
 
-Github Clone lesprogramma KoopReynders / CMDA1213-Fed2
+Github Clone lesprogramma CMDA / FED2
 Github account om opdrachten te bespreken
 Github account voor de eindopdracht
 
