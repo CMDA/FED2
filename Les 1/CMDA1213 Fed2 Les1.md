@@ -203,7 +203,7 @@ Maak met een object constructor een ‘Persoon’-object aan met de property ‘
 **Opdracht 2.2: Prototype**  
 Voeg de methods ‘walk’ en ‘eat’ toe aan het ‘Persoon’-object met de prototype function van het object
 
-**Opdracht 2.3: Object Literal**
+**Opdracht 2.3: Object Literal**  
 Maak nu hetzelfde object, met dezelfde properties en methods aan met een object literal
 
 #####*3: Scope (30 minuten)*
@@ -211,18 +211,18 @@ Maak nu hetzelfde object, met dezelfde properties en methods aan met een object 
 **Opdracht 3.1: Local Scope**  
 Maak met behulp van een function een local scope aan en definieer in deze local scope de variables ‘iterator’, ‘max’ en ‘min’ aan
 
-**Opdracht 3.2: Global Scope**
+**Opdracht 3.2: Global Scope**  
 Maak dezelfde variables nu ook aan in de global scope
 
-**Opdracht 3.3: Closure**
+**Opdracht 3.3: Closure**  
 Leg uit wat een closure is en maak een code voorbeeld
 
 #####*4: Refactoring GEO Script (30 minuten)*
 ---
-**Opdracht 4.1: Breakdown script**  
+**Opdracht 4.1: Breakdown script**    
 Het GEO script is niet gestructureerd en bestaat uit losse (globale) variabelen en functies. Maak op papier een breakdown van het Geo Script. schrijf de verschillende functionaliteiten op en leid er objecten met properties en methods uit af
 
-**Opdracht 4.2: Create objects**  
+**Opdracht 4.2: Create objects**    
 Werk de breakdown uit in JavaScript  
 
 ####Vooruit kijken
