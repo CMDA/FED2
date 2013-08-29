@@ -4,13 +4,12 @@ CMDA201213-Fed2 Les 2
 #Les 2: I'm an Object
 **Javascript: Leren denken in objecten / OOP**
 
-Ter voorbereiding op het werken met een MVC framework (les 3) leer je gestructureerd werken met behulp van JavaScript. In deze les gaan we verder met de principes van Object Oriented Programming. De les eindigt met het omzetten van een aantal functies naar een script gebaseerd op objecten.
+Ter voorbereiding op het bouwen van een gestructureerde Web Applicatie (les 3) leer je een aantalm veelgebruikte design patterns. In deze les gaan we verder met de principes van Object Oriented Programming. De les eindigt met het omzetten van een aantal functies naar een script gebaseerd op objecten.
 
 [tShirt_ImAnObject](http://www.zazzle.com/i_am_an_object_shirts-235241989977734317)
 
 ###Docenten
 Koop Reynders k.g.reynders@hva.nl 
-
 Joost Faber j.faber@hva.nl
 
 ###Lesdoelen
@@ -35,11 +34,11 @@ Wat gaan we vandaag doen?
 Kledingvoorschriften (wat staat er op dit shirt?)
 
 In les 1 en 2 leer je Object georiënteerd programmeren in Javascript.  Dat betekent een script kunnen maken gebaseerd op objecten.
-Waarom? Om vanaf les 3 aan de slag te kunnen met MVC. Wat moeten studenten kunnen om MVC in les 3 te begrijpen? 
+Waarom? Om vanaf les 3 aan de slag te kunnen met het bouwen van een gestructureerde Web Applicatie.
 
 les 1 was leren denken in objecten
 Les 2 Eindopdracht: Functie van CMD Aan omzetten naar een script gebaseerd op objecten.
-Les 3 Introductie naar MVC
+Les 3 Routers & Templating
 
 Hoe ging het met het huiswerk en voorbereidende leeswerk Elequent JavaScript?
 Wie heeft Codecadamy thuis gedaan? Ging dat goed?
@@ -93,7 +92,7 @@ Wat zie je nog meer?
 
 **Volgende week**
 Onderwerp van de Weekly Nerd voor volgende week bespreken. 
-Redactieteam 1.2 en 2.2 samenstellen. Deze teams pushen naar MVC artikelen: [TodoMVC - Helping you select an MV* Framework](http://addyosmani.github.com/todomvc/)
+Redactieteam 1.2 en 2.2 samenstellen.
 
 
 ##4. Werkopdrachten - 150 minuten (195/200)
@@ -152,7 +151,7 @@ Tijens de artikel bespreking werd genoemd
 
 
 **Werkwijze en planning** van het vak
-	Introductie naar MVC voor het huiswerk
+	
 
 **Huiswerk aankondigen**
 
@@ -188,18 +187,6 @@ Leren denken in Objecten: Lesopdracht IcanHasGeo verder uitwerken.
 			app();	
 		});
 	};
-
-
-Wat is MVC?
-	
-- Bekijk eerst deze video [Nailing the Interactions on Pageless Apps](http://vimeo.com/22685608) (half uur)
-- Doe dan level 1 van [Codeschool: the anatomy of Backbone.js](http://www.codeschool.com/courses/anatomy-of-backbonejs) (één uur)
-- Bekijk daarna deze [slideshow presentatie over Backbone](http://backbone-dot-js-intro.heroku.com) (half uur)
-- Tot slot kun je [de code](http://backbonejs.org/docs/todos.html#section-16) bekijken van deze eenvoudige [todo app](http://documentcloud.github.com/backbone/examples/todos/index.html). Die moet je dan begrijpen.
-
-Extra informatie nodig? Voor deze les kun je ook nog deze hoofdstukken lezen uit het boek: [O'Reilly JavaScript Web Applications](http://shop.oreilly.com/product/0636920018421.do) (Dit boek kun je online kopen voor 28 euro).
-Hoofdstuk 1 Over MVC
-Hoofdstuk 12 The Backbone Library
 
 Meer leren over JavaScript?
 Kijk ook eens bij de JavaScript Cursussen [Lynda.com](http://www.lynda.com/JavaScript-training-tutorials/244-0.html)
