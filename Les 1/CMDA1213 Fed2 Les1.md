@@ -47,7 +47,7 @@ Werken in duo’s. Je werkt wel een je eigen project.
 
 Methode Stackoverflow:
 Vragen kost niets, op het antwoord moet je soms wachten.
-Javascript is soms abstract of de documentatie van libraries is onvolledig. Joost weet hoe het toe te passen, uitleggen kan lastig zijn. Hoe gaan we hiermee om? We verzamelen vragen waar we niet meteen het antwoord van kunnen ophoesten en deze komen volgende week aan bod en/of worden meegegeven als huiswerk. Een student uit de verdieping moet in staat zijn een leerstrategie te ontwikkelen. 
+Javascript is soms abstract of de documentatie van libraries is onvolledig. Hoe gaan we hiermee om? We verzamelen vragen waar we niet meteen het antwoord van kunnen ophoesten en deze komen volgende week aan bod en/of worden meegegeven als huiswerk. Een student uit de verdieping moet in staat zijn een leerstrategie te ontwikkelen. 
 
 Dingen zelf kunnen onderzoeken en oplossen.
 
@@ -183,7 +183,7 @@ JavaScript in een pagina bekijken? Inspect element met de Webinspector. Debuggin
 
 #### Opdrachten
 
-####1 Context
+#####*1 Context*
 **Opdracht 1.1: No jQuery**  
 Noteer voor- en nadelen van jQuery (minimaal 5 van ieder)
 
@@ -193,6 +193,15 @@ Noem de belangrijkste functionaliteiten van jQuery (minimaal 5)
 **Opdracht 1.3: Micro libraries**  
 Zoek op http://microjs.org naar libraries voor elke van de functionaliteiten gevonden bij opdracht 1.2 
 (deel jQuery op in verschillende micro libs)
+
+#####*2 Objects* 
+**Opdracht 2.1: Constructor object**  
+Maak met een object constructor een ‘Persoon’-object aan met de property ‘name’ en de method ‘speak’. En maak een nieuwe instantie aan van dit object waarbij je de naam ‘Bob’ meegeeft als parameter van het object. 
+
+**Opdracht 2.2: Prototype**  
+Voeg de methods ‘walk’ en ‘eat’ toe aan het ‘Persoon’-object met de prototype function van het object
+Opdracht 3.1: Object Literal
+Doe hetzelfde als bij opdracht 1, maar nu met een object literal.
 
 ####Vooruit kijken
 - Als je nog meer wilt: Codecadamy: Project: Building an Adress Book
