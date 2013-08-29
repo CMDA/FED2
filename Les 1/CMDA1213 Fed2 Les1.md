@@ -295,13 +295,10 @@ Werken in teams
 In les 1 en 2 leer je Object Oriented programming in JavaScript.  Dat betekent een script kunnen maken gebaseerd op objecten. Eindopdracht les 2: Functie van CMD Aan omzetten naar een script gebaseerd op objecten.
 Welk stappen moet je hiervoor ondernemen? Dat zijn de lesopdrachten les 1 & 2
 
-Waarom? Om vanaf les 3 aan de slag te kunnen met MVC. 
+Waarom? Om vanaf les 3 aan de slag te kunnen met het bouwen van een gestructureerde Web Applicatie 
 
-MVC is een ontwerp patroon voor je code. Door het opsplitsen van functionaliteiten van je code in verschillende objecten en classes wordt je code modulair, het bevordert de leesbaarheid en herbruikbaarheid.
+Structuur aanbrengen aan je code is belangrijk. Door het opsplitsen van functionaliteiten van je code in verschillende objecten wordt je code modulair, het bevordert de leesbaarheid en herbruikbaarheid.
 Dit is een belangrijk onderdeel van de lessenreeks. Met een team van meerdere developers op een gestructureerde manier aan een webapp werken. Denk aan code organiseren, versie controle van je app, bugtracking en commenting. Code hergebruiken. Modulair opbouwen van je scripts. Uiteindelijk is het makkelijker en leuker.
-
-
-
 
 **Huiswerk aankondigen**
 Zie intranet lesweek 2
