@@ -113,20 +113,21 @@ Welk stappen moet je hiervoor ondernemen? Dat zijn de lesopdrachten les 2
 ###Les 2: Object Geörienteerd Programeren
 
 - Mini college over ...
-- Codecadamy: Introduction to Objects II - Closer look at Objects
-	- Over Classes en Prototype
-	- Inheritance / Overerving
-	- Public, private and methods
 - Omzetten van een aantal functies naar een script gebaseerd op objecten
 	- Functie samen lezen
 	- Breakdown maken met de klas van Geo script
 	- In stappen naar het script werken, die overeenkomen met de volgorde van lesopdrachten
+- Best practices (ivm codereviews)
 Outro 
 - Recap 
 	- Over objecten uit les 1, events en script dat we hebben gemaakt
 - Vooruit kijken
- 	- Volgende week: MVC 
-	- huiswerk
+ 	- Volgende week: Routers en Templating
+	- huiswerk:
+		-Codecadamy: Introduction to Objects II - Closer look at Objects
+			- Over Classes en Prototype
+			- Inheritance / Overerving
+			- Public, private and methods
 
 Events? In de cursussen op Codecademy staat dit nog niet in de introductie lessen. Misschien kunnen we het doorschuiven naar MVC in les 3?
 Nog iets anders dat van belang is om script met objecten te maken? Voordat we die opdracht kunnen laten maken?
@@ -137,7 +138,7 @@ Nog iets anders dat van belang is om script met objecten te maken? Voordat we di
 **Materiaal** Intranet
 **Opstelling** - 
 
-**Lesdoelen**: Wat hebben we vanaag behandeld? 
+**Lesdoelen**: Wat hebben we vandaag behandeld? 
 
 - Wat is een frontend developer? > Weekly Nerd
 	- Artikelen bespreking op Weekly Nerd ging over Waarom moet een UX designer code kennen en Is javaScript de toekomst van FeD.
