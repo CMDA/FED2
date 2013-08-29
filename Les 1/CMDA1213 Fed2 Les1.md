@@ -184,13 +184,13 @@ JavaScript in een pagina bekijken? Inspect element met de Webinspector. Debuggin
 #### Opdrachten
 
 ####1 Context
-**Opdracht 1.1: No jQuery**
+**Opdracht 1.1: No jQuery**  
 Noteer voor- en nadelen van jQuery (minimaal 5 van ieder)
 
-**Opdracht 1.2: Functionaliteiten jQuery**
+**Opdracht 1.2: Functionaliteiten jQuery**  
 Noem de belangrijkste functionaliteiten van jQuery (minimaal 5)
 
-**Opdracht 1.3: Micro libraries**
+**Opdracht 1.3: Micro libraries**  
 Zoek op http://microjs.org naar libraries voor elke van de functionaliteiten gevonden bij opdracht 1.2 
 (deel jQuery op in verschillende micro libs)
 
