@@ -218,10 +218,9 @@ Maak dezelfde variables nu ook aan in de global scope
 Leg uit wat een closure is en maak een code voorbeeld
 
 #####*4: Refactoring GEO Script (30 minuten)*
-Het geo script is niet gestructureerd en bestaat uit losse (globale) variabelen en functies.
 ---
 **Opdracht 4.1: Breakdown script**  
-Maak op papier een breakdown van het Geo Script. schrijf de verschillende functionaliteiten op en leid er objecten met properties en methods uit af
+Het GEO script is niet gestructureerd en bestaat uit losse (globale) variabelen en functies. Maak op papier een breakdown van het Geo Script. schrijf de verschillende functionaliteiten op en leid er objecten met properties en methods uit af
 
 **Opdracht 4.2: Create objects**  
 Werk de breakdown uit in JavaScript  
