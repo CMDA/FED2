@@ -184,6 +184,7 @@ JavaScript in een pagina bekijken? Inspect element met de Webinspector. Debuggin
 #### Opdrachten
 
 #####*1 Context*
+---
 **Opdracht 1.1: No jQuery**  
 Noteer voor- en nadelen van jQuery (minimaal 5 van ieder)
 
@@ -194,7 +195,8 @@ Noem de belangrijkste functionaliteiten van jQuery (minimaal 5)
 Zoek op http://microjs.org naar libraries voor elke van de functionaliteiten gevonden bij opdracht 1.2 
 (deel jQuery op in verschillende micro libs)
 
-#####*2 Objects* 
+#####*2 Objects*
+---
 **Opdracht 2.1: Constructor object**  
 Maak met een object constructor een ‘Persoon’-object aan met de property ‘name’ en de method ‘speak’. En maak een nieuwe instantie aan van dit object waarbij je de naam ‘Bob’ meegeeft als parameter van het object. 
 
@@ -202,6 +204,17 @@ Maak met een object constructor een ‘Persoon’-object aan met de property ‘
 Voeg de methods ‘walk’ en ‘eat’ toe aan het ‘Persoon’-object met de prototype function van het object
 Opdracht 3.1: Object Literal
 Doe hetzelfde als bij opdracht 1, maar nu met een object literal.
+
+#####*3 Scope*
+---
+**Opdracht 3.1: Local Scope**  
+Maak met behulp van een function een local scope aan en definieer in deze local scope de variables ‘iterator’, ‘max’ en ‘min’ aan.
+
+**Opdracht 3.2: Global Scope**
+Maak dezelfde variables nu ook aan in de global scope.
+
+**Opdracht 3.3: Closure**
+Leg uit wat een closure is en maak een code voorbeeld
 
 ####Vooruit kijken
 - Als je nog meer wilt: Codecadamy: Project: Building an Adress Book
