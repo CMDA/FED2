@@ -272,19 +272,19 @@ Werken in teams
 	Volgende week eerste groep de blog post bespreken met studentassistenten voor lesweek 3
 	
 	Eindredactie 1.1
-	- Pim Plaatsman
-	- Rowdy Boon
-	- Stefan Kuijers
-	- Sjoerd van Gestel
-	- Tara de Ruijter
+	- 
+	- 
+	- 
+	- 
+	- 
 
 
-	Eindredactie 2.1 ?
-	- Chris Snoek
-	- Marvin van het Zand
-	- Nico Brinkkemper
-	- Ron Geertsma
-	- Tjerk Smit
+	Eindredactie 2.1 
+	- 
+	- 
+	- 
+	- 
+	- 
 	
 	
 * Wat is HTML5 ook alweer? > html5rocks slides overzicht
