@@ -4,7 +4,7 @@ CMDA201213-Fed2 Les 1
 #Les 1: Codemonkies
 **Javascript: Leren denken in objecten**
 
-Deze les geeft een snelle introductie in programmeren in JavaScript. Op basis van de 'Fundamentals' die je moest lezen ter voorbereiding wordt tijdens de les een basis gelegd voor Object georiënteerd programmeren: Leren denken in objecten.
+Deze les geeft een snelle introductie in programmeren in JavaScript. Aan de hand van de 'Fundamentals' die je moest lezen ter voorbereiding wordt tijdens de les een basis gelegd voor Object georiënteerd programmeren: Leren denken in objecten.
 
 [tShirt_codeMonkey](http://www.swag-city.com/code-monkey-computer-geek-shirt-p-21072.html)
 
@@ -47,7 +47,7 @@ Werken in duo’s. Je werkt wel een je eigen project.
 
 Methode Stackoverflow:
 Vragen kost niets, op het antwoord moet je soms wachten.
-Javascript is soms abstract of de documentatie van bij voorbeeld MVC frameworks is onvolledig. Joost weet hoe het toe te passen, uitleggen kan lastig zijn. Hoe gaan we hiermee om? We verzamelen vragen waar we niet meteen het antwoord van kunnen ophoesten en deze komen volgende week aan bod en/of worden meegegeven als huiswerk. Een student uit de verdieping moet in staat zijn een leerstrategie te ontwikkelen. 
+Javascript is soms abstract of de documentatie van libraries is onvolledig. Joost weet hoe het toe te passen, uitleggen kan lastig zijn. Hoe gaan we hiermee om? We verzamelen vragen waar we niet meteen het antwoord van kunnen ophoesten en deze komen volgende week aan bod en/of worden meegegeven als huiswerk. Een student uit de verdieping moet in staat zijn een leerstrategie te ontwikkelen. 
 
 Dingen zelf kunnen onderzoeken en oplossen.
 
@@ -163,50 +163,60 @@ Aan de slag met Javascript
 
 Vertellen over scope van les 1 en 2 : Geo script uit de P ombouwen naar Objecten. Even script laten zien.
 
-Vertellen over relatie naar de eindopdracht: MVC app voor score app. Even MVC laten zien van de Score app
+Vertellen over relatie naar de eindopdracht: Score app zonder jQuery, op basis van native javascript structuur en micro libraries. 
 
-Dus je moet object georiënteerd kunnen denken om met MVC te werken
+Dus je moet object georiënteerd kunnen denken een gestructureerde web app te kunnen maken
 
 Je moet leren denken in objecten
 
 
-
-
 ###Les 1: Leren denken in objecten
 
-- Mini college over local, global en objecten, met behulp van een eenvoudig script opgebouwd uit objecten
-	- Object constructor
-	- Prototype
-	- Object literal
-	- Scope
-	- Events
+####Mini college over local, global en objecten, met behulp van een eenvoudig script opgebouwd uit objecten
+- Object constructor
+- Prototype
+- Object literal
+- Scope / This
+- Events
+
 JavaScript in een pagina bekijken? Inspect element met de Webinspector. Debugging met de console. Je kunt een breakpoint zetten om de flow van je code te stoppen > handig!
 
-- Self invoked function: Scope / This / Closure / Locale en globale variabelen
-- Codecadamy: Introduction to Objects I - What is an Object 
-	- Over Methods en Properties
-- Recap
-	- Bespreken eerste script over objecten
-- Vooruit kijken
+#### Opdrachten
+
+####1 Context
+- Opdracht 1.1: No jQuery
+Schrijf voor- en nadelen van jQuery op
+
+- Opdracht 1.2: Functions jQuery
+Noem de belangrijkste functionaliteiten van jQuery 
+
+- Opdracht 1.3: Micro libs
+Zoek op http://microjs.org naar libraries voor elke van de functionaliteiten gevonden bij opdracht 1.2 (deel jQuery op in verschillende micro libs)
+
+####Vooruit kijken
 	- Als je nog meer wilt: Codecadamy: Project: Building an Adress Book
-	- Volgende week: Events en Objecten
+	- Volgende week: OOP & Structuur
 	- huiswerk
+		- Codecadamy: Introduction to Objects I - What is an Object 
 
 
 
-###Les 2: Object Geörienteerd Programeren
+###Les 2: Structuur
+- Namespace
+- Self invoked function: Scope / This / Closure / Locale en globale variabelen
 
-- Codecadamy: Introduction to Objects II - Closer look at Objects
-	- Over Classes en Prototype
-	- Inheritance
-	- Public, private and methods
 - Omzetten van een aantal functies naar een script gebaseerd op objecten
 	- Functie samen lezen
 	- Breakdown maken met de klas van Geo script
+- Huiswerk:
+	- Codecadamy: Introduction to Objects II - Closer look at Objects
+		- Over Classes en Prototype
+		- Inheritance
+		- Public, private and methods
 
-###Les 3: Introductie MVC
+###Les 3: Routers en Templates
 
-We gaan werken met Backbone, een JavaScript MVC framework. MVC is een ontwerp patroon voor je code. Door het opsplitsen van functionaliteiten van je code in verschillende objecten en classes wordt je code modulair, het bevordert de leesbaarheid en herbruikbaarheid.
+Om tussen de verschillende 'states' of pagina's van je webapplicatie te kunnen navigeren maken we gebruik van een router.  De pagina's worden opgebouwd met behulp van templates, zodat gedrag en inhoud van elkaar gescheiden kunnen worden.
 
 
 ###Eindopdracht
@@ -217,10 +227,6 @@ Denk aan code organiseren, versie controle van je app, bugtracking en commenting
 
 Werken toevoegen aan Github - Social Coding
 Werken in teams
-
-
-
-
 
 
 ##5. Terugkijken - 10 minuten (200/200)
