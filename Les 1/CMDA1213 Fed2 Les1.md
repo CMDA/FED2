@@ -172,7 +172,7 @@ Je moet leren denken in objecten
 
 ###Les 1: Leren denken in objecten
 
-####Mini college over local, global en objecten, met behulp van een eenvoudig script opgebouwd uit objecten
+####Mini college over local, global en objecten, met behulp van een eenvoudig script opgebouwd uit objecten (30 minuten)
 - Object constructor
 - Prototype
 - Object literal
@@ -183,7 +183,7 @@ JavaScript in een pagina bekijken? Inspect element met de Webinspector. Debuggin
 
 #### Opdrachten
 
-#####*1 Context*
+#####*1: Context (30 minuten)*
 ---
 **Opdracht 1.1: No jQuery**  
 Noteer voor- en nadelen van jQuery (minimaal 5 van ieder)
@@ -193,28 +193,38 @@ Noem de belangrijkste functionaliteiten van jQuery (minimaal 5)
 
 **Opdracht 1.3: Micro libraries**  
 Zoek op http://microjs.org naar libraries voor elke van de functionaliteiten gevonden bij opdracht 1.2 
-(deel jQuery op in verschillende micro libs)
+(deel jQuery op in verschillende micro libs). Kies voor elke functie een micro library (vergelijk en beoordeel op kwaliteit)
 
-#####*2 Objects*
+#####*2: Objects (30 minuten)*
 ---
 **Opdracht 2.1: Constructor object**  
-Maak met een object constructor een ‘Persoon’-object aan met de property ‘name’ en de method ‘speak’. En maak een nieuwe instantie aan van dit object waarbij je de naam ‘Bob’ meegeeft als parameter van het object. 
+Maak met een object constructor een ‘Persoon’-object aan met de property ‘name’ en de method ‘speak’. En maak een nieuwe instantie aan van dit object waarbij je de naam ‘Bob’ meegeeft als parameter van het object 
 
 **Opdracht 2.2: Prototype**  
 Voeg de methods ‘walk’ en ‘eat’ toe aan het ‘Persoon’-object met de prototype function van het object
-Opdracht 3.1: Object Literal
-Doe hetzelfde als bij opdracht 1, maar nu met een object literal.
 
-#####*3 Scope*
+**Opdracht 2.3: Object Literal**
+Maak nu hetzelfde object, met dezelfde properties en methods aan met een object literal
+
+#####*3: Scope (30 minuten)*
 ---
 **Opdracht 3.1: Local Scope**  
-Maak met behulp van een function een local scope aan en definieer in deze local scope de variables ‘iterator’, ‘max’ en ‘min’ aan.
+Maak met behulp van een function een local scope aan en definieer in deze local scope de variables ‘iterator’, ‘max’ en ‘min’ aan
 
 **Opdracht 3.2: Global Scope**
-Maak dezelfde variables nu ook aan in de global scope.
+Maak dezelfde variables nu ook aan in de global scope
 
 **Opdracht 3.3: Closure**
 Leg uit wat een closure is en maak een code voorbeeld
+
+#####*4: Refactoring GEO Script (30 minuten)*
+Het geo script is niet gestructureerd en bestaat uit losse (globale) variabelen en functies.
+---
+**Opdracht 4.1: Breakdown script**  
+Maak op papier een breakdown van het Geo Script. schrijf de verschillende functionaliteiten op en leid er objecten met properties en methods uit af
+
+**Opdracht 4.2: Create objects**  
+Werk de breakdown uit in JavaScript  
 
 ####Vooruit kijken
 - Als je nog meer wilt: Codecadamy: Project: Building an Adress Book
