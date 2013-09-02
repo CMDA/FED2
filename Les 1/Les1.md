@@ -77,7 +77,7 @@ Papier en pen voor discussies en college.
 - Mooi toneelspel met de 'foute code'
 - Ik heb je koffie opgedronken
 
-##2. College - 20 minuten (35/200)
+##2. College - 15 minuten (30/200)
 **Materiaal:** Papier en pen voor aantekeningen
 **Opstelling:** Rijen, college opstelling
 
@@ -106,7 +106,7 @@ Wat gaan we deze lessen reeks behandelen?
 - Nuts & Bolts
 
 
-##3. De Weekly Nerd - 10 minuten (45/200)
+##3. De Weekly Nerd - 10 minuten (40/200)
 **Materiaal:** -
 **Opstelling:** klas in 2 groepen? 2 grote eilanden
 
@@ -149,7 +149,7 @@ Kijk bijvoorbeeld eens naar deze uitspraak:
 - Welke artikelen horen hierbij?
 
 
-##4. Werkopdrachten - 150 minuten (195/200)
+##4. Werkopdrachten - 150 minuten (190/200)
 **Materiaal** Laptop en internet
 **Opstelling** Werkeilanden waar twee duo’s aan kunnen zitten
 
