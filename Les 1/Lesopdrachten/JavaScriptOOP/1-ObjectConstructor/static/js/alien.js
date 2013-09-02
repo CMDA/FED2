@@ -1,7 +1,7 @@
 /**
  *	Object constructor with argument, property & method
  *	
- *
+ *  var, this, comment, console (log, command line)
  */
 
 
