@@ -219,7 +219,8 @@ Leg uit wat een closure is en maak een code voorbeeld
 
 #####*4: Refactoring GEO Script (30 minuten)*
 ---
-**Opdracht 4.1: Breakdown script**    
+**Opdracht 4.1: Breakdown script**
+URL: https://github.com/ju5tu5/cmdgeo/blob/master/src/cmdgeo-0.1.js      
 Het GEO script is niet gestructureerd en bestaat uit losse (globale) variabelen en functies. Maak op papier een breakdown van het Geo Script. schrijf de verschillende functionaliteiten op en leid er objecten met properties en methods uit af
 
 **Opdracht 4.2: Create objects**    
