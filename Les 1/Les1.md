@@ -6,7 +6,7 @@ CMDA201314-Fed2 Les 1
 
 Deze les geeft een snelle introductie in programmeren in JavaScript. Aan de hand van de 'Fundamentals' die je moest lezen ter voorbereiding wordt tijdens de les een basis gelegd voor Object georiënteerd programmeren: Leren denken in objecten.
 
-[tShirt_codeMonkey](http://www.swag-city.com/code-monkey-computer-geek-shirt-p-21072.html)
+[Kleding voorschriften](http://www.swag-city.com/code-monkey-computer-geek-shirt-p-21072.html)
 
 ###Docenten
 Koop Reynders k.g.reynders@hva.nl 
@@ -29,60 +29,61 @@ Joost Faber j.faber@hva.nl
 5. Terugkijken (10) 
 
 
-##1. Huishoudelijke mededelingen - 15 minuten (15/200)
+##1. Huishoudelijke mededelingen - 30 minuten (30/200)
 **Materiaal:** - 
-**Opstelling:** College opstelling
+**Opstelling:** College opstelling, tafels van 2
 
 
 ###Introductie Docenten
+Koop & 
+Joost &
+Dennis of Nico
+
 
 
 ###Werkwijze
 Hoe zien de lessen eruit?
 Intranet > pagina Frontend 2: werkwijze
-Intranet > pagina Frontend 2: lesprogramma week tot week
-Huiswerk
-Artikelen lezen voor discussie
-Werken in duo’s. Je werkt wel een je eigen project.
 
-Methode Stackoverflow:
+Intranet > pagina Frontend 2: lesprogramma week tot week
+
+**Huiswerk**
+Artikelen lezen voor discussie
+Werken in duo’s. Je werkt aan je eigen project.
+
+**Methode Stackoverflow**
 Vragen kost niets, op het antwoord moet je soms wachten.
 Javascript is soms abstract of de documentatie van libraries is onvolledig. Hoe gaan we hiermee om? We verzamelen vragen waar we niet meteen het antwoord van kunnen ophoesten en deze komen volgende week aan bod en/of worden meegegeven als huiswerk. Een student uit de verdieping moet in staat zijn een leerstrategie te ontwikkelen. 
 
 Dingen zelf kunnen onderzoeken en oplossen.
 
 ###Leerdoelen
-Technology driven design vak
+Technology driven design vak:
+Het vak is bedoeld voor studenten die Frontend developer willen worden. Heb je stage gelopen als developer bij een webbureau? Heb je Server side scripting en Datamodelleren gekozen in jaar 2? Heb je Frontend development gehad en wil je technisch worden uitgedaagd? Dan is dit vak voor jou.
 
 ###Planning
 Lesprogramma, toetsen en criteria 
 Eindopdracht Frisbee toernooi score Webapp
-Voorbeeld app: Leaguevine (frisbee) scoring ding 
+Voorbeeld app: van [Leaguevine (frisbee) scoring ding](http://m.leaguevine.com) naar [studentenwerk](http://dl.dropboxusercontent.com/u/10977129/fed2_2/index.html#/ranking)
+ 
 
 ###Huishoudelijke mededelingen
-Op tijd komen voor het college, anders wachten tot we klaar zijn.
-
-Niet mailen, mededelingen op intranet,
-
-Vraag zoveel mogelijk aan je medestudenten of wacht tot volgende week 
+1. Op tijd komen voor het college, anders wachten tot we klaar zijn: deur dicht/open
+2. Niet mailen, wij zijn op maandag de hele dag bereikbaar, voor, tijdens of na de les
+3. mededelingen op intranet
+4. Lesprogramma staat open source op Github. 
+5. Vraag zoveel mogelijk aan je medestudenten of wacht tot volgende week 
 Vragen stellen en elkaar helpen
-Laptop voor werkopdrachten
-Papier en pen voor discussies en college.
+6. Laptop voor werkopdrachten
+7. Papier en pen voor discussies en college.
 
-	
-**Opmerkingen voor Joost**
 
-- Aanwijs ding aanvragen
-- Goede duidelijke gestructureerde uitleg
-- Mooi toneelspel met de 'foute code'
-- Ik heb je koffie opgedronken
-
-##2. College - 15 minuten (30/200)
+##2. College - 15 minuten (45/200)
 **Materiaal:** Papier en pen voor aantekeningen
 **Opstelling:** Rijen, college opstelling
 
 Wat is HTML5? 
-HTML 5 = Nieuwe HTML sematiek, CSS3 én JavaScript
+HTML 5 = Nieuwe HTML semantiek, CSS3 én JavaScript
 
 HTML5 API == JavaScript
 
@@ -106,9 +107,9 @@ Wat gaan we deze lessen reeks behandelen?
 - Nuts & Bolts
 
 
-##3. De Weekly Nerd - 10 minuten (40/200)
+##3. De Weekly Nerd - 10 minuten (55/200)
 **Materiaal:** -
-**Opstelling:** klas in 2 groepen? 2 grote eilanden
+**Opstelling:** -
 
 De Frontend developer wie is dat?
 [Intranet Beroepsrol Frontend developer](http://intra.iam.hva.nl/content/algemeen/beroepsrollen/frontend_developer/)
@@ -122,15 +123,20 @@ Maar ook: Huidige ontwikkelingen & Toekomst visie?
 [UX Magazine](http://uxmagazine.com "The Field of UX")
 
 Blog: De opleiding heeft een eigen Daily Nerd nodig: De Weekly Nerd
-Elkaar beoordelen
-Redactieteams posten 2 daily nerds in 6 weken
 Iedere week Weekly Nerd lezen en bespreken en begin maken met de nieuwe redactie
+Redactieteams posten 1 Weekly Nerds en zitten de bespreking voor met een inleiding en vragen. 
+Elkaar beoordelen
 [the Daily Nerd - Vasilis van Gemert](http://dailynerd.nl)
 [the Weekly Nerd](http://weeklynerd.tumblr.com)
 
 
 Hoe gaan we aan deze blog werken?
-6 Redactieteams per klas gaan 
+6 Redactieteams per klas gaan een aantal artikelen selecteren en posten op de Weekkly Nerd. Dit gebeurt in overleg met de studentenassist.
+
+Een redactie team werkt een week vooruit. Dus tijdens les 2 moet de Nerd voor les 3 klaar staan. Dus moet je die in lesweek 1 gefiateerd krijgen bij de studentassistent.
+
+
+
 Kijk nog eens naar een aantal artikelen van Frontend development V1. Dit is interessant om je klasgenoten te laten lezen en daarna te bespreken.
 
 - [Concept to Code : Code literacy in UX van Ryan Betts](http://uxmag.com/articles/concept-to-code)
@@ -138,10 +144,10 @@ Kijk nog eens naar een aantal artikelen van Frontend development V1. Dit is inte
 - Het artikel der artikelen. "The journey begins by letting go of control, and becoming flexible" [A Dao of Web Design by John Allsopp](http://www.alistapart.com/articles/dao)
 
 Volgende week over de toekomst van webdevelopment. Waarom hebben we gekozen voor Javascript?
-http://mashable.com/2012/11/12/javascript/
-http://mashable.com/tag/future-web-series/
+[deze](http://mashable.com/2012/11/12/javascript/)
+[deze ook](http://mashable.com/tag/future-web-series/)
 
-Tip voor een redactiegroep:
+Tip voor een redactiegroep voor lesweek 3:
 Kijk bijvoorbeeld eens naar deze uitspraak: 
 
 *[We've had] a total of 880 million Android & iOS devices entering the market in just over five years. Consider the shift that occurs when iOS & Android put a combined billion [mobile] devices in people’s hands. That’s almost half the Internet population of the world and equivalent to the total number of (Windows) PCs in use around the world. Mobile first yet?*
@@ -149,12 +155,14 @@ Kijk bijvoorbeeld eens naar deze uitspraak:
 - Welke artikelen horen hierbij?
 
 
-##4. Werkopdrachten - 150 minuten (190/200)
+##4. Werkopdrachten - 120 minuten (175/200)
 **Materiaal** Laptop en internet
 **Opstelling** Werkeilanden waar twee duo’s aan kunnen zitten
 
 Github Clone lesprogramma CMDA / FED2
+
 Github account om opdrachten te bespreken
+
 Github account voor de eindopdracht
 
 Aan de slag met Javascript
@@ -182,11 +190,20 @@ Je moet leren denken in objecten
 JavaScript in een pagina bekijken? Inspect element met de Webinspector. Debugging met de console. Je kunt een breakpoint zetten om de flow van je code te stoppen > handig!
 
 #### Opdrachten
+**Materiaal:** Laptop en verlengsnoeren
+**Opstelling:** Groepjes van 2
 
-#####*1: Context (30 minuten)*
+#####*0: Werken (10 minuten)*
+1 Maak een Github account aan
+2 Clone lesprogramma naar je digitale ding
+3 Maak een repo aan voor deze lessenreeks
+4 Let op: Hier staat nog niet alles in, alleen les 1 is actueel dus je moet regelmatig de 'code' updaten.
+
+
+#####*1: Context (20 minuten)*
 ---
 **Opdracht 1.1: No jQuery**  
-Noteer voor- en nadelen van jQuery (minimaal 5 van ieder)
+In 2tallen: Noteer voor- en nadelen van jQuery (minimaal 5 van ieder)
 
 **Opdracht 1.2: Functionaliteiten jQuery**  
 Noem de belangrijkste functionaliteiten van jQuery (minimaal 5)
@@ -194,6 +211,7 @@ Noem de belangrijkste functionaliteiten van jQuery (minimaal 5)
 **Opdracht 1.3: Micro libraries**  
 Zoek op http://microjs.org naar libraries voor elke van de functionaliteiten gevonden bij opdracht 1.2 
 (deel jQuery op in verschillende micro libs). Kies voor elke functie een micro library (vergelijk en beoordeel op kwaliteit)
+
 
 #####*2: Objects (30 minuten)*
 ---
@@ -227,41 +245,24 @@ Het GEO script is niet gestructureerd en bestaat uit losse (globale) variabelen 
 Werk de breakdown uit in JavaScript  
 
 ####Vooruit kijken
+Wat hebben we gedaan, waarom? wat heb je geleerd?
 - Als je nog meer wilt: 
 	- Codecadamy: Introduction to Objects I - What is an Object
 	- Codecadamy: Project: Building an Adress Book
 - Volgende week: JavaScript & Structuur
 
 
-###Les 2: Structuur
-- Namespace
-- Self invoked function: Scope / This / Closure / Locale en globale variabelen
-
-- Omzetten van een aantal functies naar een script gebaseerd op objecten
-	- Functie samen lezen
-	- Breakdown maken met de klas van Geo script
-- Huiswerk:
-	- Codecadamy: Introduction to Objects II - Closer look at Objects
-		- Over Classes en Prototype
-		- Inheritance
-		- Public, private and methods
-
-###Les 3: Routers en Templates
-
-Om tussen de verschillende 'states' of pagina's van je webapplicatie te kunnen navigeren maken we gebruik van een router.  De pagina's worden opgebouwd met behulp van templates, zodat gedrag en inhoud van elkaar gescheiden kunnen worden.
-
-
 ###Eindopdracht
 
-Webapp Score App voor een sport toernooi.
+Webapp Score App voor een sporttoernooi.
 Met een team van meerdere developers op een gestructureerde manier aan een webapp werken. 
 Denk aan code organiseren, versie controle van je app, bugtracking en commenting. 
 
-Werken toevoegen aan Github - Social Coding
-Werken in teams
+Al je werk toevoegen aan Github - Social Coding
+'Samenwerken' aan je individuele opdracht
 
 
-##5. Terugkijken - 10 minuten (200/200)
+##5. Terugkijken - 10 minuten (185/200)
 **Materiaal** Intranet
 **Opstelling** - 
 
@@ -273,11 +274,13 @@ Werken in teams
 	Volgende week eerste groep de blog post bespreken met studentassistenten voor lesweek 3
 	
 	Eindredactie 1.1
-	- 
-	- 
-	- 
-	- 
-	- 
+	- Jurian
+	- Jeffrey
+	- Nan
+	- Rizki
+	- Hidde
+	- Guus
+	- Michelle
 
 
 	Eindredactie 2.1 
