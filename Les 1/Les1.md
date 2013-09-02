@@ -227,10 +227,10 @@ Het GEO script is niet gestructureerd en bestaat uit losse (globale) variabelen 
 Werk de breakdown uit in JavaScript  
 
 ####Vooruit kijken
-- Als je nog meer wilt: Codecadamy: Project: Building an Adress Book
-- Volgende week: OOP & Structuur
-- huiswerk
-	- Codecadamy: Introduction to Objects I - What is an Object 
+- Als je nog meer wilt: 
+	- Codecadamy: Introduction to Objects I - What is an Object
+	- Codecadamy: Project: Building an Adress Book
+- Volgende week: JavaScript & Structuur
 
 
 ###Les 2: Structuur
