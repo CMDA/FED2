@@ -23,10 +23,10 @@ Joost Faber j.faber@hva.nl
 ###Programma (200 minuten)
 
 1. Huishoudelijke mededelingen (15) 
-2. College (20) 
+2. College (15) 
 3. Weekly Nerd (10) 
 4. Werkopdrachten (150) 
-5. Terugkijken (5) 
+5. Terugkijken (10) 
 
 
 ##1. Huishoudelijke mededelingen - 15 minuten (15/200)
