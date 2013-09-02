@@ -9,7 +9,6 @@
  * its outer function.
  */
 
-
 function Alien(name) {
 	this.name = name;
 
@@ -17,11 +16,11 @@ function Alien(name) {
 	
 	this.speak = function () {
 		setTimeout(function(){
-			console.log("Monster alive: " + alive);
+			console.log("Alien alive: " + alive);
 		}, 5000);
 	}
 
-	console.log("Monster alive: " + alive);
+	console.log("Alien alive: " + alive);
 }
 
 var rob = new Alien('Robert Rock');
