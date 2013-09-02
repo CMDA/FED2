@@ -5,7 +5,7 @@
  */
 
 
-function Alien(name) {
+function Alien(name) { 
 	this.name = name;
 	
 	this.speak = function () {
