@@ -1,10 +1,10 @@
-CMDA201213-Fed2 Les 2
+CMDA201314-Fed2 Les 2
 =====================
 
 #Les 2: I'm an Object
 **Javascript: Leren denken in objecten / OOP**
 
-Ter voorbereiding op het bouwen van een gestructureerde Web Applicatie (les 3) leer je een aantalm veelgebruikte design patterns. In deze les gaan we verder met de principes van Object Oriented Programming. De les eindigt met het omzetten van een aantal functies naar een script gebaseerd op objecten.
+Ter voorbereiding op het bouwen van een gestructureerde Web Applicatie (les 3) leer je een aantal veelgebruikte design patterns. In deze les gaan we verder met de principes van Object Oriented Programming. De les eindigt met het omzetten van een aantal functies naar een script gebaseerd op objecten.
 
 [tShirt_ImAnObject](http://www.zazzle.com/i_am_an_object_shirts-235241989977734317)
 
@@ -40,7 +40,7 @@ les 1 was leren denken in objecten
 Les 2 Eindopdracht: Functie van CMD Aan omzetten naar een script gebaseerd op objecten.
 Les 3 Routers & Templating
 
-Hoe ging het met het huiswerk en voorbereidende leeswerk Elequent JavaScript?
+Hoe ging het met het huiswerk en voorbereidende leeswerk Eloquent JavaScript?
 Wie heeft Codecadamy thuis gedaan? Ging dat goed?
 
 Lesdoelen en programma van vandaag doorspreken.
@@ -112,7 +112,28 @@ Welk stappen moet je hiervoor ondernemen? Dat zijn de lesopdrachten les 2
 
 ###Les 2: Object Geörienteerd Programeren
 
-- Mini college over ...
+####Mini college over events en structuur in JavaScript
+- Events  
+- Self Invoking Function
+- Name Space
+- Application Init
+
+#####5: Refactoring Geo Script structure
+---
+**Opdracht 5.1: Name space**  
+...
+
+**Opdracht 5.2: Self invoking function**  
+...
+
+**Opdracht 5.3: Controller / Flow**  
+…
+
+**Opdracht 5.4: Events**
+…
+
+####Outro
+
 - Omzetten van een aantal functies naar een script gebaseerd op objecten
 	- Functie samen lezen
 	- Breakdown maken met de klas van Geo script
@@ -121,17 +142,14 @@ Welk stappen moet je hiervoor ondernemen? Dat zijn de lesopdrachten les 2
 Outro 
 - Recap 
 	- Over objecten uit les 1, events en script dat we hebben gemaakt
-- Vooruit kijken
- 	- Volgende week: Routers en Templating
-	- huiswerk:
-		-Codecadamy: Introduction to Objects II - Closer look at Objects
-			- Over Classes en Prototype
-			- Inheritance / Overerving
-			- Public, private and methods
-
-Events? In de cursussen op Codecademy staat dit nog niet in de introductie lessen. Misschien kunnen we het doorschuiven naar MVC in les 3?
-Nog iets anders dat van belang is om script met objecten te maken? Voordat we die opdracht kunnen laten maken?
-
+	
+#### Vooruit kijken
+- Volgende week: Routers en Templating
+- huiswerk:
+	-Codecadamy: Introduction to Objects II - Closer look at Objects
+		- Over Classes en Prototype
+		- Inheritance / Overerving
+		- Public, private and methods
 
 
 ##5. Terugkijken - 10 minuten (200/200)
@@ -149,9 +167,7 @@ Tijens de artikel bespreking werd genoemd
 - Weekley Nerd, je mag niet meer dan 1 keer missen. (namen noemen van studenten die nu op -1 staan)
 
 
-
-
-**Werkwijze en planning** van het vak
+**Werkwijze en planning**
 	
 
 **Huiswerk aankondigen**
@@ -162,30 +178,29 @@ Leren denken in Objecten: Lesopdracht IcanHasGeo verder uitwerken.
 		//Object literal of Constructor? Object literal: we hebben maar 1 object nodig en geen instances. 
 		var app = {
 			init:function(){
-				//deze runt vanzelf als je app() aanroept
+				// called at onready event
 			
 			}
 		};
-		var variables =""; //declareer variabelen in App functie
-
+		
 		//Location Object
 		var location = {
 		
 		};
 
 		//Google Maps object
-		var maps(){};
+		var maps = {};
 
-			};
+		};
 			
 		//Debugger object
-		var debugger(){
+		var debugger = {
 
-			};
+		};
 
 		//Run app
 		$(function () {
-			app();	
+			app.init();	
 		});
 	};
 

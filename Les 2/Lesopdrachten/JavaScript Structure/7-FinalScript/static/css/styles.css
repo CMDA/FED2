@@ -1,0 +1,30 @@
+body {
+	background-color:#000;
+	background-image:url("../images/stars.jpg");
+	background-size:100%;
+}
+section {
+	width:500px;
+	margin:0 auto;
+	text-align:center;
+}
+figcaption {
+	margin-bottom:1em;
+	font-family: 'Modern Antiqua', cursive;
+	font-size:1.5em;
+	color:#fff;
+}
+button {
+	font-size:1em;
+	border-radius:10px;
+	cursor:pointer;
+	border-style:solid;
+	margin:0 10px;
+	background-color:#693;
+	-webkit-transition: all .2s ease-in-out;
+}
+button:hover {
+	color:#fff;
+	background-color:#930;
+	-webkit-transform: scale(1.1);
+}
