@@ -194,10 +194,10 @@ JavaScript in een pagina bekijken? Inspect element met de Webinspector. Debuggin
 **Opstelling:** Groepjes van 2
 
 #####*0: Werken (10 minuten)*
-1 Maak een Github account aan
-2 Clone lesprogramma naar je digitale ding
-3 Maak een repo aan voor deze lessenreeks
-4 Let op: Hier staat nog niet alles in, alleen les 1 is actueel dus je moet regelmatig de 'code' updaten.
+1 Maak een Github account aan  
+2 Clone lesprogramma naar je digitale ding  
+3 Maak een repo aan voor deze lessenreeks  
+4 Let op: Hier staat nog niet alles in, alleen les 1 is actueel dus je moet regelmatig de 'code' updaten.  
 
 
 #####*1: Context (20 minuten)*
@@ -245,11 +245,11 @@ Het GEO script is niet gestructureerd en bestaat uit losse (globale) variabelen 
 Werk de breakdown uit in JavaScript  
 
 ####Vooruit kijken
-Wat hebben we gedaan, waarom? wat heb je geleerd?
-- Als je nog meer wilt: 
-	- Codecadamy: Introduction to Objects I - What is an Object
-	- Codecadamy: Project: Building an Adress Book
-- Volgende week: JavaScript & Structuur
+Wat hebben we gedaan, waarom? wat heb je geleerd?  
+- Als je nog meer wilt:   
+	- Codecadamy: Introduction to Objects I - What is an Object  
+	- Codecadamy: Project: Building an Adress Book  
+- Volgende week: JavaScript & Structuur  
 
 
 ###Eindopdracht
