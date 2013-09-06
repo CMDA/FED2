@@ -16,14 +16,14 @@ function Alien(name) {
 	
 	this.speak = function () {
 		setTimeout(function(){
-			console.log("Alien alive: " + alive);
+			console.log("1. Alien alive: " + alive);
 		}, 5000);
 	}
 
-	console.log("Alien alive: " + alive);
+	console.log("2. Alien alive: " + alive);
 }
 
 var rob = new Alien('Robert Rock');
 rob.speak();
 
-console.log('script continues');
+console.log('3. script continues');
