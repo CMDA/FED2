@@ -194,23 +194,45 @@ JavaScript in een pagina bekijken? Inspect element met de Webinspector. Debuggin
 **Opstelling:** Groepjes van 2
 
 #####*0: Werken (10 minuten)*
-1 Maak een Github account aan
-2 Clone lesprogramma naar je digitale ding
-3 Maak een repo aan voor deze lessenreeks
-4 Let op: Hier staat nog niet alles in, alleen les 1 is actueel dus je moet regelmatig de 'code' updaten.
+1 Maak een Github account aan  
+2 Clone lesprogramma naar je digitale ding  
+3 Maak een repo aan voor deze lessenreeks  
+4 Let op: Hier staat nog niet alles in, alleen les   1 is actueel dus je moet regelmatig de 'code' (lesprogramma)  updaten.
 
 
 #####*1: Context (20 minuten)*
 ---
 **Opdracht 1.1: No jQuery**  
-In 2tallen: Noteer voor- en nadelen van jQuery (minimaal 5 van ieder)
+In 2 tallen: Noteer voor- en nadelen van jQuery (minimaal 5 van ieder)
+
+Voordelen:	
+1.- Makkelijk te gebruiken, in vergelijking tot native javaScript     
+2.- Crossbrowser  
+3.- Grote community, documentati e4.- Handige pre-fabs: Ajax calls, animaties …  
+
+Nadelen:  
+1. Kost veel rekenkracht = batterij  
+2. Het is "makkelijk" Je weet niet echt wat er gebeurt, je begrijpt de code niet  
+3. Er zitten veel functionaliteiten in die je niet allemaal gebruikt. 
+4. Battery drain
+5. Niet altijd CallBacks mogelijk 
+6. JQuery is een schil op Javascipt, Je leert geen echte JavaScript
+
+Kijk ook naar [Paul Irish - 10 things I learned from the jquery source](http://www.paulirish.com/2010/10-things-i-learned-from-the-jquery-source/)
 
 **Opdracht 1.2: Functionaliteiten jQuery**  
 Noem de belangrijkste functionaliteiten van jQuery (minimaal 5)
 
+1. Animaties   
+2. Bewerken van de DOM  
+3. 
+
+
+
 **Opdracht 1.3: Micro libraries**  
 Zoek op http://microjs.org naar libraries voor elke van de functionaliteiten gevonden bij opdracht 1.2 
 (deel jQuery op in verschillende micro libs). Kies voor elke functie een micro library (vergelijk en beoordeel op kwaliteit)
+
 
 
 #####*2: Objects (30 minuten)*
@@ -238,7 +260,7 @@ Leg uit wat een closure is en maak een code voorbeeld
 #####*4: Refactoring GEO Script (30 minuten)*
 ---
 **Opdracht 4.1: Breakdown script**
-URL: https://github.com/ju5tu5/cmdgeo/blob/master/src/cmdgeo-0.1.js      
+URL: [CMD GEO](https://github.com/ju5tu5/cmdgeo/blob/master/src/cmdgeo-0.1.js)      
 Het GEO script is niet gestructureerd en bestaat uit losse (globale) variabelen en functies. Maak op papier een breakdown van het Geo Script. schrijf de verschillende functionaliteiten op en leid er objecten met properties en methods uit af
 
 **Opdracht 4.2: Create objects**    
@@ -246,16 +268,15 @@ Werk de breakdown uit in JavaScript
 
 ####Vooruit kijken
 Wat hebben we gedaan, waarom? wat heb je geleerd?
-- Als je nog meer wilt: 
-	- Codecadamy: Introduction to Objects I - What is an Object
-	- Codecadamy: Project: Building an Adress Book
+- Als je nog meer wilt:   
+	- Codecadamy: Introduction to Objects I - What is an Object  
+	- Codecadamy: Project: Building an Adress Book  
 - Volgende week: JavaScript & Structuur
 
 
 ###Eindopdracht
 
 Webapp Score App voor een sporttoernooi.
-Met een team van meerdere developers op een gestructureerde manier aan een webapp werken. 
 Denk aan code organiseren, versie controle van je app, bugtracking en commenting. 
 
 Al je werk toevoegen aan Github - Social Coding
@@ -268,46 +289,65 @@ Al je werk toevoegen aan Github - Social Coding
 
 **Lesdoelen: Wat hebben we behandeld?**
 
-* Werkwijze, leerdoelen en planning van het vak bespreken > Is dit vak voor jou? Kom met mij praten als je twijfelt.
-* Wat is een Frontend developer? > Aan de slag met Weekly Nerd, wie o wie?
-	30 studenten in 6 weken 30/6=redactiegroepen van 5 
-	Volgende week eerste groep de blog post bespreken met studentassistenten voor lesweek 3
+* Werkwijze, leerdoelen en planning van het vak bespreken > Is dit vak voor jou? Kom  praten als je twijfelt.
+* Wat is een Frontend developer? > Aan de slag met de Weekly Nerd, wie o wie?
+	48 studenten in 6 weken 48/6=8 redactiegroepen van … 6 
+	Komende week moet de eerste groep de blog post bespreken met studentassistenten voor lesweek 3. Meteen na les 2 moet de post beschikbaar zijn.
 	
-	Eindredactie 1.1
-	- Jurian
-	- Jeffrey
-	- Nan
-	- Rizki
-	- Hidde
-	- Guus
-	- Michelle
+	Eindredactie 1.2 (klas 1 - les 2)
+	- Koop  
+	- Joost
+	
+	Eindredactie 1.3 (klas 1 - les 3)
+	- Jurian Koning
+	- Jeffrey Bouva
+	- Nan Damhuis
+	- Rizki Calame
+	- Hidde Statema
+	- Guus Kolk
+	- Michelle Gemmeke 
+	
+	Eindredactie 2.3 (klas )
+	- Mik de Vries
+	- David van Toon
+	- Toni Maat
+	- Levi Zimmerman
+	- Tadeus Siudak
+	- Bram Swier
+	- ?
 
-
-	Eindredactie 2.1 
-	- 
-	- 
-	- 
-	- 
-	- 
 	
 	
 * Wat is HTML5 ook alweer? > html5rocks slides overzicht
-* Leren denken in Objecten > Introductie en Beginnen met object georiënteerd programmeren in Javascript > Codecadamy
+* Leren denken in Objecten > Introductie en Beginnen met object georiënteerd programmeren in Javascript > Lesopdrachten en college
 
 
 **Werkwijze en planning van het vak**
-In les 1 en 2 leer je Object Oriented programming in JavaScript.  Dat betekent een script kunnen maken gebaseerd op objecten. Eindopdracht les 2: Functie van CMD Aan omzetten naar een script gebaseerd op objecten.
+In les 1, 2 en 3 leer je Object Oriented programming in JavaScript.  Dat betekent een script kunnen maken gebaseerd op objecten. Eindopdracht les 2: Functie van CMD Aan omzetten naar een script gebaseerd op objecten.
 Welk stappen moet je hiervoor ondernemen? Dat zijn de lesopdrachten les 1 & 2
 
-Waarom? Om vanaf les 3 aan de slag te kunnen met het bouwen van een gestructureerde Web Applicatie 
+ 
 
 Structuur aanbrengen aan je code is belangrijk. Door het opsplitsen van functionaliteiten van je code in verschillende objecten wordt je code modulair, het bevordert de leesbaarheid en herbruikbaarheid.
 Dit is een belangrijk onderdeel van de lessenreeks. Met een team van meerdere developers op een gestructureerde manier aan een webapp werken. Denk aan code organiseren, versie controle van je app, bugtracking en commenting. Code hergebruiken. Modulair opbouwen van je scripts. Uiteindelijk is het makkelijker en leuker.
 
 **Huiswerk aankondigen**
-Zie intranet lesweek 2
+Zie intranet lesweek 2:
 
-Mensen die niet het huiswerk hebben gedaan lopen hier tegen de lamp. Die studenten moeten volgende week alles lezen + Intro lessen Codeacademy
+Weekly nerd [les 2](http://weeklynerd.tumblr.com/post/36015580665/future-javascript-true)
+
+Werkopdracht 2,3,4 uit les 1 gaan we behandelen aan het begin van les 2
+
+
+Mensen die niet het huiswerk hebben gedaan lopen hier tegen de lamp. Die studenten moeten volgende week alles lezen + Intro lessen Codeacademy opdrachten over objecten
+
+- Codecadamy: Introduction to Objects I - What is an Object  
+
+- Codecadamy: Project: Building an Adress Book  
+
+
+
+
 
 
 
