@@ -185,7 +185,7 @@ Je moet leren denken in objecten
 - Prototype
 - Object literal
 - Scope / This
-- Events
+
 
 JavaScript in een pagina bekijken? Inspect element met de Webinspector. Debugging met de console. Je kunt een breakpoint zetten om de flow van je code te stoppen > handig!
 
@@ -272,7 +272,6 @@ Wat hebben we gedaan, waarom? wat heb je geleerd?
 	- Codecadamy: Introduction to Objects I - What is an Object  
 	- Codecadamy: Project: Building an Adress Book  
 - Volgende week: JavaScript & Structuur
-
 
 ###Eindopdracht
 
