@@ -133,7 +133,14 @@ Voeg een 'controller' object toe aan je script van waaruit je de flow van je app
 **Opdracht 5.4: Finish up**
 Maak het GEO script compleet door de objecten te vullen met de code uit het originele script en alle verwijzingen kloppend te maken. Kijk ook nog even kritisch waar het script niet voldoet aan de hieronder genoemde best practices en corrigeer waar nodig.
 
-**Best practices** 
+**Best practices**  
+- Don't use global variables/objects  
+- Use short clear (meaningful) names  
+- Constructor function start with capital  
+- Constants with all captials  
+- camelCase the rest  
+- Place external scripts at the bottom of the page  
+- Comment your code  
 
 ####Outro
 
