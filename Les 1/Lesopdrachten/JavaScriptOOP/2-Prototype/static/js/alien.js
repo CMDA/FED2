@@ -12,6 +12,7 @@ Alien.prototype.speak = function () {
 	console.log('Hi, my name is ' + this.name);
 };
 
+
 var rob = new Alien('Robert Rock');
 var roberta = new Alien('Roberta Rock');
 
