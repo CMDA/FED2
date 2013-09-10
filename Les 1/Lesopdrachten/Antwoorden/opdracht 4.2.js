@@ -5,7 +5,13 @@ var gps = {
 	},
 	
 	startInterval: function () {
-	
+		var self = this;
+		debug_message("GPS is beschikbaar, vraag positie.");
+	    //_update_position();
+	    this.updatePosition();
+	    interval = self.setInterval(_update_position, REFRESH_RATE);
+	    // ET.addListener(POSITION_UPDATED, _check_locations);
+	    ET.addListener(POSITION_UPDATED, self.checkLocations);
 	},
 	
 	updatePosition: function () {
@@ -54,3 +60,9 @@ var debug = {
 
 	}
 };
+
+var helper = {
+	isNumber: function () {
+
+	}
+}

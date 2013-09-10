@@ -20,7 +20,7 @@
 		this.speak();
 		
 		// Safe Alien scope in local variable for later use
-		var alienScope = this;
+		var self = this;
 		
 		// Add click handler to element
 		$(element).click(function(){
@@ -28,7 +28,7 @@
 			var animation = $(this).attr('data-animation');
 			
 			// Call behave() method within Alien scope
-			alienScope.behave(action, animation);
+			self.behave(action, animation);
 		});
 	}
 	
@@ -44,3 +44,13 @@
 	var rob = new Alien('Robert Rock','button');
 
 })(jQuery)
+
+
+
+
+
+
+
+
+
+
