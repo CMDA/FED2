@@ -10,8 +10,10 @@ Deze les geeft een snelle introductie in programmeren in JavaScript. Aan de hand
 
 ###Docenten
 Koop Reynders k.g.reynders@hva.nl 
-
 Joost Faber j.faber@hva.nl
+Dennis Tel dennis.tel@hva.nl
+
+
 
 ###Lesdoelen
 
@@ -282,7 +284,7 @@ Al je werk toevoegen aan Github - Social Coding
 'Samenwerken' aan je individuele opdracht
 
 
-##5. Terugkijken - 10 minuten (185/200)
+##5. Terugkijken & Huiswerk - 10 minuten (185/200)
 **Materiaal** Intranet
 **Opstelling** - 
 
@@ -296,8 +298,17 @@ Al je werk toevoegen aan Github - Social Coding
 	Eindredactie 1.2 (klas 1 - les 2)
 	- Koop  
 	- Joost
+
+	Eindredactie 1.3 (klas )
+	- Mik de Vries
+	- David van Toon
+	- Toni Maat
+	- Levi Zimmerman
+	- Tadeusz Siudak
+	- Bram Swier
+	- ?
 	
-	Eindredactie 1.3 (klas 1 - les 3)
+	Eindredactie 2.3 (klas 1 - les 3)
 	- Jurian Koning
 	- Jeffrey Bouva
 	- Nan Damhuis
@@ -306,14 +317,6 @@ Al je werk toevoegen aan Github - Social Coding
 	- Guus Kolk
 	- Michelle Gemmeke 
 	
-	Eindredactie 2.3 (klas )
-	- Mik de Vries
-	- David van Toon
-	- Toni Maat
-	- Levi Zimmerman
-	- Tadeus Siudak
-	- Bram Swier
-	- ?
 
 	
 	

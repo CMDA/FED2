@@ -95,13 +95,13 @@ Onderwerp van de Weekly Nerd voor volgende week bespreken.
 Redactieteam 1.2 en 2.2 samenstellen.
 
 
-##4. Werkopdrachten - 150 minuten (195/200)
+##4. Werkopdrachten - 150 minuten (190/200)
 **Materiaal** Laptop en internet
 **Opstelling** Werkeilanden waar twee duo’s aan kunnen zitten
 
 
 In les 1 en 2 leer je Object georiënteerd programmeren in Javascript.  Dat betekent een script kunnen maken gebaseerd op objecten.
-Waarom? Om vanaf les 3 aan de slag te kunnen met MVC. Wat moeten studenten kunnen om MVC in les 3 te begrijpen? 
+Waarom? Om vanaf les 3 aan de slag te kunnen het bouwen van een gestructureerde webapplicatie. 
 
 les 1 was leren denken in objecten
 
@@ -120,17 +120,27 @@ Welk stappen moet je hiervoor ondernemen? Dat zijn de lesopdrachten les 2
 
 #####5: Refactoring Geo Script structure
 ---
-**Opdracht 5.1: Name space**  
-...
+**Opdracht 5.1: Namespace**  
+Maak een namespace aan voor het GEO script en koppel de objecten aan deze namespace
 
 **Opdracht 5.2: Self invoking function**  
-...
+Creëer een local scope voor het GEO script met een self-invoking function  
+[Self invoking functions](http://javascript.about.com/od/byexample/a/usingfunctions-selfinvoking-example.htm)
 
 **Opdracht 5.3: Controller / Flow**  
-…
+Voeg een 'controller' object toe aan je script van waaruit je de flow van je applicatie start.
 
-**Opdracht 5.4: Events**
-…
+**Opdracht 5.4: Finish up**
+Maak het GEO script compleet door de objecten te vullen met de code uit het originele script en alle verwijzingen kloppend te maken. Kijk ook nog even kritisch waar het script niet voldoet aan de hieronder genoemde best practices en corrigeer waar nodig.
+
+**Best practices**  
+- Don't use global variables/objects  
+- Use short clear (meaningful) names  
+- Constructor function start with capital  
+- Constants with all captials  
+- camelCase the rest  
+- Place external scripts at the bottom of the page  
+- Comment your code  
 
 ####Outro
 
