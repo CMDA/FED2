@@ -4,8 +4,7 @@
  *
  */
 
-var SPACE = SPACE || {};
-
+var WINDOW = SPACE || {};
 
 SPACE.alien = {
 	name: 'Robert Rock',
@@ -18,3 +17,11 @@ SPACE.alien = {
 }
 
 SPACE.alien.speak();
+
+
+
+
+
+
+
+
