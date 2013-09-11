@@ -35,7 +35,7 @@ Nico Brinkkemper n.brinkkemper@hva.nl
 * Weekly Nerd
 [les 3](http://weeklynerd.tumblr.com/tagged/fed1314)
 
-* Huiswerk: Werkopdracht uit les 2 afmaken. Lesopdracht IcanHasGeo verder uitwerken 
+* Huiswerk: Werkopdracht 5 uit les 2 afmaken. Lesopdracht IcanHasGeo verder uitwerken 
 Aan het begin van les 3 het -IcanHasGeo script naar Object Structuur- behandelen.
 
 
@@ -69,33 +69,40 @@ Van objecten voorbeeld IcanHasGeo naar Object Structuur.
 
 Deze les gaan we beginnen met het opzetten van de basis score app (Web App Skeleton)
 
-###In les 3 behandelen we: 
-
  1. Web App Skeleton: structuur & libraries
  2. Router
  3. Templates
  4. Breakdown maken van de 3 pagina's Schedule.html, Ranking.html, Game.html
  5. Het script omzetten naar losse bestanden
 
-###Volgende week behandelen we:
+
+###Mini college 
+
+### Opdrachten
+
+####6: Web App Skeleton opzetten (90 minuten)
+
+
+####7: Router
+
+
+####8: Templates
+
+
+####9: Breakdown maken van de 3 pagina's voor de score app: schedule.html, ranking.html, game.html
+
+
+
+
+
+###Wat hebben we gedaan?
+
 
 Werken met een API, Json binnenhalen/GET
 
-	
 
-####1: Web App Skeleton opzetten (90 minuten)
+###Deeltoets 1 uitleggen (10 minuten)
 
-
-####2: Router
-
-
-####3: Templates
-
-
-####4: Breakdown maken van de 3 pagina's voor de score app: schedule.html, ranking.html, game.html
-
-
-####5: Deeltoets 1 uitleggen (10 minuten)
 Opdracht
 Materiaal
 Criteria

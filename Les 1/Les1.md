@@ -194,9 +194,7 @@ Dus je moet object georiënteerd kunnen denken een gestructureerde web app te ku
 Je moet leren denken in objecten
 
 
-###Les 1: Leren denken in objecten
-
-####Mini college over local, global en objecten, met behulp van een eenvoudig script opgebouwd uit objecten (30 minuten)
+###Mini college over local, global en objecten, met behulp van een eenvoudig script opgebouwd uit objecten (30 minuten)
 - Object constructor
 - Prototype
 - Object literal
@@ -205,16 +203,16 @@ Je moet leren denken in objecten
 
 JavaScript in een pagina bekijken? Inspect element met de Webinspector. Debugging met de console. Je kunt een breakpoint zetten om de flow van je code te stoppen > handig!
 
-#### Opdrachten
+###Opdrachten
 
-#####0: Werken (10 minuten)
+####0: Werken (10 minuten)
 1 Maak een Github account aan  
 2 Clone lesprogramma naar je digitale ding  
 3 Maak een repo aan voor deze lessenreeks  
 4 Let op: Hier staat nog niet alles in, alleen les   1 is actueel dus je moet regelmatig de 'code' (lesprogramma)  updaten.
 
 
-#####1: Context (20 minuten)
+####1: Context (20 minuten)
 
 **Opdracht 1.1: No jQuery**
 In 2 tallen: Noteer voor- en nadelen van jQuery (minimaal 5 van ieder)
@@ -280,7 +278,7 @@ Het GEO script is niet gestructureerd en bestaat uit losse (globale) variabelen 
 **Opdracht 4.2: Create objects**    
 Werk de breakdown uit in JavaScript  
 
-####Vooruit kijken
+###Wat hebben we gedaan?
 Wat hebben we gedaan, waarom? wat heb je geleerd?
 - Als je nog meer wilt:   
 	- Codecadamy: Introduction to Objects I - What is an Object  

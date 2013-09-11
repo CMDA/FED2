@@ -155,17 +155,17 @@ Eindopdracht les 2: Functie van CMD Aan omzetten naar een script gebaseerd op ob
 Welk stappen moet je hiervoor ondernemen? Dat zijn de lesopdrachten les 2
 
 
-###Les 2: Object Geörienteerd Programeren
-
-####1 Mini college over events en structuur in JavaScript
+###Mini college over events en structuur in JavaScript
 - Events  
 - Self Invoking Function
 - Name Space
 - Application Init
 
 
-####2 Refactoring Geo Script structure
+###Opdrachten
 
+
+####5 Refactoring Geo Script structure
 
 **Opdracht 5.1: Namespace**  
 Maak een namespace aan voor het GEO script en koppel de objecten aan deze namespace
@@ -189,7 +189,7 @@ Maak het GEO script compleet door de objecten te vullen met de code uit het orig
 - Place external scripts at the bottom of the page  
 - Comment your code  
 
-####3 Outro
+###Wat hebben we gedaan?
 
 - Omzetten van een aantal functies naar een script gebaseerd op objecten
 	- Functie samen lezen
@@ -227,7 +227,7 @@ ICanHasGeo script goed gestruvtureerd e object georienteerd opzetten. Met een na
 
 * Weekly Nerd [les 3](http://weeklynerd.tumblr.com/tagged/fed1314)
 
-* Huiswerk: Werkopdracht uit les 2 afmaken. Lesopdracht IcanHasGeo verder uitwerken 
+* Huiswerk: Werkopdracht 5 uit les 2 afmaken. Lesopdracht IcanHasGeo verder uitwerken 
 Aan het begin van les 3 het -IcanHasGeo script naar Object Structuur- behandelen.
 
 
