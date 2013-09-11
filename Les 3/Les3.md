@@ -1,16 +1,19 @@
 CMDA201314-Fed2 Les 3
 =====================
 
-#Les 3: Web App Skeleton
-**Hoe bouw je een basis web app: introductie**
+#Les 3: Fork You
+**Aan de slag met Router & Templates: Hoe bouw je een Web app Skeleton: introductie**
+
+Hoe bouw je een gestructureerde Web Applicatie? Om tussen de verschillende 'states' of pagina's van je webapplicatie te kunnen navigeren maken we gebruik van een router. De pagina's worden opgebouwd met behulp van templates, zodat gedrag en inhoud van elkaar gescheiden kunnen worden.
+
+[tShirt_forkYou](http://shop.github.com/products/fork-you-shirt-mens-medium)
 
 ###Docenten
 Koop Reynders k.g.reynders@hva.nl   
-Joost Faber j.faber@hva.nl
-Dennis Tel dennis.tel@hva.nl
-Nico Brinkkemper n.brinkkemper@hva.nl
+Joost Faber j.faber@hva.nl  
+Dennis Tel dennis.tel@hva.nl   
+Nico Brinkkemper n.brinkkemper@hva.nl  
 
-[tShirt_forkYou](http://shop.github.com/products/fork-you-shirt-mens-medium)
 
 ###Lesdoelen
 1. Structuur aanbrengen in javascript (leren denken in objecten)
@@ -31,13 +34,21 @@ Nico Brinkkemper n.brinkkemper@hva.nl
 
 **Huiswerk voor les 3:**
 
-
-* Weekly Nerd
-[les 3](http://weeklynerd.tumblr.com/tagged/fed1314)
+* Weekly Nerd [les 3](http://weeklynerd.tumblr.com/tagged/fed1314)
 
 * Huiswerk: Werkopdracht 5 uit les 2 afmaken. Lesopdracht IcanHasGeo verder uitwerken 
 Aan het begin van les 3 het -IcanHasGeo script naar Object Structuur- behandelen.
 
+
+* Nog meer leren over JavaScript?
+Kijk ook eens bij de JavaScript Cursussen [Lynda.com](http://www.lynda.com/JavaScript-training-tutorials/244-0.html)
+
+Als je moeite hebt met object georienteered javascript, dan kun je voor het huiswerk bij Codecadamy deze cursus doen:
+
+Codecadamy: Introduction to Objects II - Closer look at Objects
+	- Over Classes en Prototype
+	- Inheritance / Overerving
+	- Public, private and methods
 
 
 ##1. Huishoudelijke mededelingen - 10 minuten (10/200)

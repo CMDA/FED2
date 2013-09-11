@@ -9,10 +9,10 @@ Deze les geeft een snelle introductie in programmeren in JavaScript. Aan de hand
 [Kleding voorschriften](http://www.swag-city.com/code-monkey-computer-geek-shirt-p-21072.html)
 
 ###Docenten
-Koop Reynders k.g.reynders@hva.nl 
-Joost Faber j.faber@hva.nl
-Dennis Tel dennis.tel@hva.nl
-Nico Brinkkemper n.brinkkemper@hva.nl
+Koop Reynders k.g.reynders@hva.nl   
+Joost Faber j.faber@hva.nl  
+Dennis Tel dennis.tel@hva.nl  
+Nico Brinkkemper n.brinkkemper@hva.nl  
 
 
 

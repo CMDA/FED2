@@ -9,10 +9,10 @@ Ter voorbereiding op het bouwen van een gestructureerde Web Applicatie (les 3) l
 [tShirt_ImAnObject](http://www.zazzle.com/i_am_an_object_shirts-235241989977734317)
 
 ###Docenten
-Koop Reynders k.g.reynders@hva.nl 
-Joost Faber j.faber@hva.nl
-Dennis Tel dennis.tel@hva.nl
-Nico Brinkkemper n.brinkkemper@hva.nl
+Koop Reynders k.g.reynders@hva.nl   
+Joost Faber j.faber@hva.nl  
+Dennis Tel dennis.tel@hva.nl  
+Nico Brinkkemper n.brinkkemper@hva.nl  
 
 ###Lesdoelen
 * Wat is een Frontend developer?
@@ -35,7 +35,8 @@ Nico Brinkkemper n.brinkkemper@hva.nl
 * Huiswerk: Werkopdracht 2,3,4 uit les 1 afmaken.
 Aan het begin van les 2 gaan we de opdrachten behandelen.
 
-
+Tip voor de eerstvolgende redactiegroep. Welke artikelen horen hierbij? 
+[tip voor de redactiegroep voor les 3](http://weeklynerd.tumblr.com/post/36088797701/tip-voor-de-redactiegroep)
 
 
 **Voor les 2 moeten deze hoofdstukken worden gelezen:**
@@ -47,18 +48,6 @@ Hoofdstuk The Document-Object Model
 Hoofdstuk Browser Events
 en
 Hoofdstuk Object-oriented Programming
-
-
-**Weekly Nerd les 2:**
-
-Weekly Nerd [les 2](http://weeklynerd.tumblr.com/post/36015580665/future-javascript-true)
-
-Tip voor de eerstvolgende redactiegroep. Welke artikelen horen hierbij? 
-[tip voor de redactiegroep voor les 3](http://weeklynerd.tumblr.com/post/36088797701/tip-voor-de-redactiegroep)
-
-
-
-
 
 
 
@@ -220,16 +209,7 @@ Tijens de artikel bespreking werd genoemd
 	- Voor de redactieteams: Eerst je artikelen en post voorleggen aan Dennis of Nico. Post je post op [Weekleynerd.tumblr.com/submit](http://weeklynerd.tumblr.com/submit) 
 	
 * Object georiënteerd programmeren in Javascript
-ICanHasGeo script goed gestruvtureerd e object georienteerd opzetten. Met een namespace, Self invoking function en Controler
-
-
-**Huiswerk aankondigen**
-
-* Weekly Nerd [les 3](http://weeklynerd.tumblr.com/tagged/fed1314)
-
-* Huiswerk: Werkopdracht 5 uit les 2 afmaken. Lesopdracht IcanHasGeo verder uitwerken 
-Aan het begin van les 3 het -IcanHasGeo script naar Object Structuur- behandelen.
-
+ICanHasGeo script goed gestructureerd en object georienteerd (OOP) opzetten. Met een namespace, Self invoking function en Controler
 
 		IcanHasGeo function(){
 		//Object literal of Constructor? Object literal: we hebben maar 1 object nodig en geen instances. 
@@ -259,7 +239,16 @@ Aan het begin van les 3 het -IcanHasGeo script naar Object Structuur- behandelen
 		$(function () {
 			app.init();	
 		});
-	};
+		};
+
+
+
+**Huiswerk aankondigen**
+
+* Weekly Nerd [les 3](http://weeklynerd.tumblr.com/tagged/fed1314)
+
+* Huiswerk: Werkopdracht 5 uit les 2 afmaken. Lesopdracht IcanHasGeo verder uitwerken 
+Aan het begin van les 3 het -IcanHasGeo script naar Object Structuur- behandelen.
 
 
 * Nog meer leren over JavaScript?
