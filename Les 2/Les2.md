@@ -11,20 +11,61 @@ Ter voorbereiding op het bouwen van een gestructureerde Web Applicatie (les 3) l
 ###Docenten
 Koop Reynders k.g.reynders@hva.nl 
 Joost Faber j.faber@hva.nl
+Dennis Tel dennis.tel@hva.nl
+Nico Brinkkemper n.brinkkemper@hva.nl
 
 ###Lesdoelen
 * Wat is een Frontend developer?
 * Object georiënteerd programmeren in Javascript
 
 ###Programma (200 minuten)
-1. Huishoudelijke mededelingen (10) 
-2. College (0)
+1. Huishoudelijke mededelingen (5) 
+2. Opdrachten bespreken (30)
 3. Weekly Nerd (30) 
-4. Werkopdrachten (150)
-5. Terugkijken (10) 
+4. Werkopdrachten (rest)
+5. Terugkijken (5) 
+
+##0. Voorbereiding voor deze les
+
+**Huiswerk voor les 2:**
+
+* Weekly Nerd
+[les 2](http://weeklynerd.tumblr.com/post/36015580665/future-javascript-true)
+
+* Huiswerk: Werkopdracht 2,3,4 uit les 1 afmaken.
+Aan het begin van les 2 gaan we de opdrachten behandelen.
 
 
-##1. Huishoudelijke mededelingen - 10 minuten (10/200)
+
+
+**Voor les 2 moeten deze hoofdstukken worden gelezen:**
+
+Boek: Eloquent Javascript - A Modern Introduction to Programming
+Hoofdstuk Error Handling
+Hoofdstuk Functional programming
+Hoofdstuk The Document-Object Model
+Hoofdstuk Browser Events
+en
+Hoofdstuk Object-oriented Programming
+
+
+**Weekly Nerd les 2:**
+
+Weekly Nerd [les 2](http://weeklynerd.tumblr.com/post/36015580665/future-javascript-true)
+
+Tip voor de eerstvolgende redactiegroep. Welke artikelen horen hierbij? 
+[tip voor de redactiegroep voor les 3](http://weeklynerd.tumblr.com/post/36088797701/tip-voor-de-redactiegroep)
+
+
+
+
+
+
+
+
+
+
+##1. Huishoudelijke mededelingen - 5 minuten (5/200)
 **Materiaal:** - 
 **Opstelling:** College opstelling
 
@@ -46,12 +87,20 @@ Wie heeft Codecadamy thuis gedaan? Ging dat goed?
 Lesdoelen en programma van vandaag doorspreken.
 
 
-##2. College - 0 minuten (10/200)
+##2. Opdrachten bespreken - 30 minuten (35/200)
 **Materiaal:** Papier en pen voor aantekeningen
 **Opstelling:** Rijen, college opstelling
 
+####1
 
-##3. De Weekly Nerd - 30 minuten (40/200)
+####2
+
+
+####3
+
+
+
+##3. De Weekly Nerd - 30 minuten (65/200)
 **Materiaal:** -
 **Opstelling:** klas in 2 groepen? 2 grote eilanden
 
@@ -90,12 +139,8 @@ Wat zie je nog meer?
 
 
 
-**Volgende week**
-Onderwerp van de Weekly Nerd voor volgende week bespreken. 
-Redactieteam 1.2 en 2.2 samenstellen.
 
-
-##4. Werkopdrachten - 150 minuten (190/200)
+##4. Werkopdrachten - 130 minuten (185/200)
 **Materiaal** Laptop en internet
 **Opstelling** Werkeilanden waar twee duo’s aan kunnen zitten
 
@@ -112,14 +157,16 @@ Welk stappen moet je hiervoor ondernemen? Dat zijn de lesopdrachten les 2
 
 ###Les 2: Object Geörienteerd Programeren
 
-####Mini college over events en structuur in JavaScript
+####1 Mini college over events en structuur in JavaScript
 - Events  
 - Self Invoking Function
 - Name Space
 - Application Init
 
-#####5: Refactoring Geo Script structure
----
+
+####2 Refactoring Geo Script structure
+
+
 **Opdracht 5.1: Namespace**  
 Maak een namespace aan voor het GEO script en koppel de objecten aan deze namespace
 
@@ -142,7 +189,7 @@ Maak het GEO script compleet door de objecten te vullen met de code uit het orig
 - Place external scripts at the bottom of the page  
 - Comment your code  
 
-####Outro
+####3 Outro
 
 - Omzetten van een aantal functies naar een script gebaseerd op objecten
 	- Functie samen lezen
@@ -152,39 +199,39 @@ Maak het GEO script compleet door de objecten te vullen met de code uit het orig
 Outro 
 - Recap 
 	- Over objecten uit les 1, events en script dat we hebben gemaakt
-	
-#### Vooruit kijken
+
+
 - Volgende week: Routers en Templating
-- huiswerk:
-	-Codecadamy: Introduction to Objects II - Closer look at Objects
-		- Over Classes en Prototype
-		- Inheritance / Overerving
-		- Public, private and methods
 
 
-##5. Terugkijken - 10 minuten (200/200)
+
+##5. Terugkijken - 5 minuten (200/200)
 **Materiaal** Intranet
 **Opstelling** - 
 
 **Lesdoelen**: Wat hebben we vandaag behandeld? 
 
-- Wat is een frontend developer? > Weekly Nerd
+
+* Wat is een frontend developer? > Weekly Nerd
 	- Artikelen bespreking op Weekly Nerd ging over Waarom moet een UX designer code kennen en Is javaScript de toekomst van FeD.
 	- Lees ook dit artikel over [**the Next Big Language**](http://steve-yegge.blogspot.nl/2007/02/next-big-language.html) van Steve Yegge. Een paar jaar geleden schreef hij een blogpost over NBL, de volgende (web) programeer taal, en waarom dit de nieuwe taal hét zal gaan worden. Hij noemt nergens dat het JavaScript was waar hij over schreef. Een paar jaar later heeft hij dat toegegeven.
 Tijens de artikel bespreking werd genoemd
 	- Volg [Douglas Crockford](http://www.yuiblog.com/crockford/). Uber nerd van Yahoo. 
-- Voor de redactieteams: Post je post op [Weekleynerd.tumblr.com/submit](http://weeklynerd.tumblr.com/submit)
-- Weekley Nerd, je mag niet meer dan 1 keer missen. (namen noemen van studenten die nu op -1 staan)
-
-
-**Werkwijze en planning**
+	- Voor de redactieteams: Eerst je artikelen en post voorleggen aan Dennis of Nico. Post je post op [Weekleynerd.tumblr.com/submit](http://weeklynerd.tumblr.com/submit) 
 	
+* Object georiënteerd programmeren in Javascript
+ICanHasGeo script goed gestruvtureerd e object georienteerd opzetten. Met een namespace, Self invoking function en Controler
+
 
 **Huiswerk aankondigen**
 
-Leren denken in Objecten: Lesopdracht IcanHasGeo verder uitwerken.
+* Weekly Nerd [les 3](http://weeklynerd.tumblr.com/tagged/fed1314)
 
-	IcanHasGeo function(){
+* Huiswerk: Werkopdracht uit les 2 afmaken. Lesopdracht IcanHasGeo verder uitwerken 
+Aan het begin van les 3 het -IcanHasGeo script naar Object Structuur- behandelen.
+
+
+		IcanHasGeo function(){
 		//Object literal of Constructor? Object literal: we hebben maar 1 object nodig en geen instances. 
 		var app = {
 			init:function(){
@@ -199,7 +246,7 @@ Leren denken in Objecten: Lesopdracht IcanHasGeo verder uitwerken.
 		};
 
 		//Google Maps object
-		var maps = {};
+		var maps = {
 
 		};
 			
@@ -214,8 +261,16 @@ Leren denken in Objecten: Lesopdracht IcanHasGeo verder uitwerken.
 		});
 	};
 
-Meer leren over JavaScript?
+
+* Nog meer leren over JavaScript?
 Kijk ook eens bij de JavaScript Cursussen [Lynda.com](http://www.lynda.com/JavaScript-training-tutorials/244-0.html)
+
+Als je moeite hebt met object georienteered javascript, dan kun je voor het huiswerk bij Codecadamy deze cursus doen:
+
+Codecadamy: Introduction to Objects II - Closer look at Objects
+	- Over Classes en Prototype
+	- Inheritance / Overerving
+	- Public, private and methods
 
 
 

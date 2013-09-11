@@ -12,6 +12,7 @@ Deze les geeft een snelle introductie in programmeren in JavaScript. Aan de hand
 Koop Reynders k.g.reynders@hva.nl 
 Joost Faber j.faber@hva.nl
 Dennis Tel dennis.tel@hva.nl
+Nico Brinkkemper n.brinkkemper@hva.nl
 
 
 
@@ -29,6 +30,19 @@ Dennis Tel dennis.tel@hva.nl
 3. Weekly Nerd (10) 
 4. Werkopdrachten (150) 
 5. Terugkijken (10) 
+
+
+##0. Voorbereiding voor deze les
+
+**Huiswerk voor les 1:**
+* Ter voorbereiding voor de eerste les moeten deze hoofdstukken worden bestudeerd:
+
+Boek: Eloquent Javascript - A Modern Introduction to Programming
+Hoofdstuk Introduction
+Hoofdstuk Basic JavaScript: values, variables, and control flow
+Hoofdstuk Functions
+Hoofdstuk Data structures: Objects and Arrays
+
 
 
 ##1. Huishoudelijke mededelingen - 30 minuten (30/200)
@@ -192,19 +206,17 @@ Je moet leren denken in objecten
 JavaScript in een pagina bekijken? Inspect element met de Webinspector. Debugging met de console. Je kunt een breakpoint zetten om de flow van je code te stoppen > handig!
 
 #### Opdrachten
-**Materiaal:** Laptop en verlengsnoeren
-**Opstelling:** Groepjes van 2
 
-#####*0: Werken (10 minuten)*
+#####0: Werken (10 minuten)
 1 Maak een Github account aan  
 2 Clone lesprogramma naar je digitale ding  
 3 Maak een repo aan voor deze lessenreeks  
 4 Let op: Hier staat nog niet alles in, alleen les   1 is actueel dus je moet regelmatig de 'code' (lesprogramma)  updaten.
 
 
-#####*1: Context (20 minuten)*
----
-**Opdracht 1.1: No jQuery**  
+#####1: Context (20 minuten)
+
+**Opdracht 1.1: No jQuery**
 In 2 tallen: Noteer voor- en nadelen van jQuery (minimaal 5 van ieder)
 
 Voordelen:	
@@ -237,8 +249,8 @@ Zoek op http://microjs.org naar libraries voor elke van de functionaliteiten gev
 
 
 
-#####*2: Objects (30 minuten)*
----
+####2: Objects (30 minuten)
+
 **Opdracht 2.1: Constructor object**  
 Maak met een object constructor een ‘Persoon’-object aan met de property ‘name’ en de method ‘speak’. En maak een nieuwe instantie aan van dit object waarbij je de naam ‘Bob’ meegeeft als parameter van het object 
 
@@ -248,8 +260,8 @@ Voeg de methods ‘walk’ en ‘eat’ toe aan het ‘Persoon’-object met de 
 **Opdracht 2.3: Object Literal**  
 Maak nu hetzelfde object, met dezelfde properties en methods aan met een object literal
 
-#####*3: Scope (30 minuten)*
----
+####3: Scope (30 minuten)
+
 **Opdracht 3.1: Local Scope**  
 Maak met behulp van een function een local scope aan en definieer in deze local scope de variables ‘iterator’, ‘max’ en ‘min’ aan
 
@@ -259,8 +271,8 @@ Maak dezelfde variables nu ook aan in de global scope
 **Opdracht 3.3: Closure**  
 Leg uit wat een closure is en maak een code voorbeeld
 
-#####*4: Refactoring GEO Script (30 minuten)*
----
+####4: Refactoring GEO Script (30 minuten)
+
 **Opdracht 4.1: Breakdown script**
 URL: [CMD GEO](https://github.com/ju5tu5/cmdgeo/blob/master/src/cmdgeo-0.1.js)      
 Het GEO script is niet gestructureerd en bestaat uit losse (globale) variabelen en functies. Maak op papier een breakdown van het Geo Script. schrijf de verschillende functionaliteiten op en leid er objecten met properties en methods uit af
@@ -334,14 +346,15 @@ Structuur aanbrengen aan je code is belangrijk. Door het opsplitsen van function
 Dit is een belangrijk onderdeel van de lessenreeks. Met een team van meerdere developers op een gestructureerde manier aan een webapp werken. Denk aan code organiseren, versie controle van je app, bugtracking en commenting. Code hergebruiken. Modulair opbouwen van je scripts. Uiteindelijk is het makkelijker en leuker.
 
 **Huiswerk aankondigen**
-Zie intranet lesweek 2:
 
-Weekly nerd [les 2](http://weeklynerd.tumblr.com/post/36015580665/future-javascript-true)
+* Weekly Nerd 
+[les 2](http://weeklynerd.tumblr.com/post/36015580665/future-javascript-true)
 
-Werkopdracht 2,3,4 uit les 1 gaan we behandelen aan het begin van les 2
+* Huiswerk: Werkopdracht 2,3,4 uit les 1 afmaken.
+Aan het begin van les 2 gaan we de opdrachten behandelen.
 
 
-Mensen die niet het huiswerk hebben gedaan lopen hier tegen de lamp. Die studenten moeten volgende week alles lezen + Intro lessen Codeacademy opdrachten over objecten
+* Mensen die niet het huiswerk hebben gedaan voor les 1 lopen hier tegen de lamp. Die studenten moeten volgende week alles lezen + Intro lessen Codeacademy opdrachten over objecten
 
 - Codecadamy: Introduction to Objects I - What is an Object  
 
