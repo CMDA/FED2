@@ -99,9 +99,9 @@ Voeg aan je script een template script toe (micro library: 'transparancy'). Gene
 
 ###Wat hebben we gedaan?
 
+Voor de score app hebben we een eerste basis structuur opgezet, het skeleton. Waarin we routes naar de verschillende pagina's hebben gedfinieerd en data met behulp van templates omzetten naar html.
 
-Werken met een API, Json binnenhalen/GET
-
+Volgende week gaan we werken met een API, Json binnenhalen /GET. Data komt dan niet meer uit een local data object, maar vanaf een server.
 
 ###Deeltoets 1 uitleggen (10 minuten)
 
