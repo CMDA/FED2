@@ -61,11 +61,12 @@ Van objecten voorbeeld IcanHasGeo naar Object Structuur.
 **Opstelling:** klas in 3 groepen van 15
 
 
-
-
 ##4. Werkopdrachten - 120 minuten (190/200)
 **Materiaal** Laptop en internet  
 **Opstelling** Werkeilanden 2- / 3-tallen
+
+
+###Mini college 
 
 Deze les gaan we beginnen met het opzetten van de basis score app (Web App Skeleton)
 
@@ -75,24 +76,25 @@ Deze les gaan we beginnen met het opzetten van de basis score app (Web App Skele
  4. Breakdown maken van de 3 pagina's Schedule.html, Ranking.html, Game.html
  5. Het script omzetten naar losse bestanden
 
-
-###Mini college 
-
 ### Opdrachten
 
-####6: Web App Skeleton opzetten (90 minuten)
+####6: Breakdown maken van de 3 pagina's voor de score app: schedule.html, ranking.html, game.html
+Maak aan de hand van de voorbeeld html pagina's een breakdown van de score app. Welke pagina's zijn er? Hoe noem je je namespace? Welke functionaliteiten gaat de app per pagina bevatten?
+ 
+[voorbeeld html]
 
+####7: Score app skeleton opzetten 
+Maak een eerste opzet van je score app. Het skeleton bevat deze elementen:  
+- Namespace  
+- Self invoking anonymous function  
+- Controller object  
+- Dom ready script (micro library: 'ready') 
 
-####7: Router
+####8: Router
+Voeg aan je score app een router (micro library: 'routie') toe met routes naar de verschillende pagina's
 
-
-####8: Templates
-
-
-####9: Breakdown maken van de 3 pagina's voor de score app: schedule.html, ranking.html, game.html
-
-
-
+####9: Templates
+Voeg aan je script een template script toe (micro library: 'transparancy'). Genereer met het template script en de data-objecten (te vinden in de broncode van de voorbeeld html pagina's) de html van de verschillende pagina's.
 
 
 ###Wat hebben we gedaan?
