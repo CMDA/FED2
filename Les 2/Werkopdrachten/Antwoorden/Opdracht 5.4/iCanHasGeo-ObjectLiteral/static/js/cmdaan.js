@@ -180,8 +180,6 @@
 		}
 	}
 	
-	$(function () {
-		application.init();	
-	});
+	application.init();	
 
 })();
