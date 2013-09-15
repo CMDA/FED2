@@ -74,7 +74,7 @@ var APP = APP || {};
             }
 
             // Default route
-            if (!window.location.hash) {
+            if (!route) {
             	sections[0].classList.add('active');
             }
 
