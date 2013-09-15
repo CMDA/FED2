@@ -180,6 +180,7 @@
 		}
 	}
 	
+	// Kickstart the application
 	application.init();	
 
 })();
