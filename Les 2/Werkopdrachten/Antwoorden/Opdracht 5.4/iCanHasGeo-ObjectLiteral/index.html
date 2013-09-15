@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>I Can Has Geo?</title>
+	<link href="static/css/style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+
+	<div id="wrapper">
+		
+		<header>
+			<h1>I Can Has Geo?</h1>
+			<p>Toolkit voor het maken van een tour gebaseerd op geolocatie.</p>
+		</header>
+		
+		<nav>
+			<ul>
+				<li><a href="map.html">Voorbeeld met Google Maps</a></li>
+				<li><a href="https://github.com/ju5tu5/iCanHasGeo">Github van deze site</a></li>
+				<li><a href="https://github.com/ju5tu5/iCanHasGeo/zipball/master">Zip bestand van deze site</a></li>
+				
+			</ul>
+		</nav>
+		
+		<article>
+			<h1>Where the hell are we?</h1>
+			<p id="lat">latitude: ?</p>
+			<p id="lon">longitude: ?</p>
+			<input type="text" id="poiName" name="poiName" value="Geef een naam op." />
+			<input type="button" id="storePoi" name="storePoi" value="Vasthouden" />
+
+			<table id="poiList">
+				<tr><th>Naam</th><th>Locatie</th></tr>
+			</table>
+		</article>
+
+		<footer><p>Copyleft 2012, all wrongs reversed.</p></footer>
+	</div>
+	
+	<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBnyib0uElbs0LNFobHjWhQMyTq-hiStEg&sensor=true&libraries=geometry"></script>
+	<script src="static/js/jquery-1.8.2.min.js" type="text/javascript"></script>
+	<script src="static/js/geo-min.js" type="text/javascript"></script>
+	<script src="static/js/custom-events-min.js" type="text/javascript"></script>
+	<script src="static/js/cmdaan.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	/*
+		// Controle en aansturing interval
+		if(geo_position_js.init()){
+			interval = self.setInterval(tick, 1000);
+		}
+
+		// Tick functie, roept de huidige positie op
+		function tick(){
+			geo_position_js.getCurrentPosition(positie_ontvangen, debug.geoErrorHandler);
+		}
+
+		// Callback functie, handelt de positionering af
+		function positie_ontvangen(p){
+			$("#lat").html('latitude:&nbsp;'+p.coords.latitude);
+			$("#lon").html('longitude:&nbsp;'+p.coords.longitude);
+		}
+
+		// Functionaliteit om de locatie tijdelijk op te slaan
+		$(document).ready(function(){
+			$("#poiName").focus(function(){($(this).val()=="Geef een naam op.")?$(this).val(''):$(this);});
+			$("#storePoi").click(function(){$("#poiList").append('<tr><td rowspan="2">'+$("#poiName").val()+"</td><td>"+$("#lat").html()+"</td></tr><tr><td>"+$("#lon").html()+"</td></tr>")});
+		});
+		*/
+	</script>
+</body>
+</html>
