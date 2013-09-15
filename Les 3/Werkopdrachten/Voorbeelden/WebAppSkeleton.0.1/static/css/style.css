@@ -1,0 +1,288 @@
+/* General styles, mobile first */
+* {
+	box-sizing:border-box;
+}
+
+body {
+	font-size:100%;
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+	font-weight: 300;
+	color:#333;
+	background-color: #fff;
+}
+h1 {
+	text-shadow: 1px 1px 1px #fff;
+	font-family: "Marker Felt";
+}
+p {
+
+}
+a {
+	font-weight:bold;
+	color:#0fa000;
+	-webkit-transition:all .5s ease;
+}
+a:hover {
+	color:#ffb400;
+	background-color: #f4f4f4;
+}
+ul {
+	list-style:none;
+	margin:0;
+	padding:0;
+}
+	ul li {
+		
+	}
+		ul li a {
+			display:block;
+			border-color:#333;
+			border-style:solid;
+			border-width:1px 0 0;
+			background-color: #f5f5f5;
+			line-height:2;
+			text-decoration: none;
+			padding:0 2%;
+		}
+			ul li a strong {
+				display:block;
+				font-weight:normal;
+				color:#333;
+			}
+		ul li:last-child a {
+			border-bottom-width:1px;
+		}
+
+		ul li a:hover {
+			background-color: #eee;
+		}
+
+section img, video {
+	max-width: 100%;
+	border:10px solid #eee;
+	box-shadow:0 0 5px #aaa;
+	border-radius: 5px;
+	margin-bottom: 1em;
+}
+video {
+	width:100%;
+}
+figure {
+	margin:0;
+}
+figcaption {
+	font-size:.8em;
+	color:#666;
+	font-style: italic;
+}
+
+/* header section */
+header {
+	position:relative;
+	padding:0 .5em;
+}
+	header img {
+		opacity:.3;
+		width:50px;
+		position:absolute;
+		top:-.8em;
+		-webkit-transition:all 1s ease;
+	}
+	header img:hover {
+		opacity:1;
+	}
+	header h1 {
+		font-family: "Marker Felt";
+		color:#000;
+		font-size: 1.6em;
+		margin-left:2.5em;
+
+	}
+
+/* Content section */
+article#content {
+	clear:left;
+}
+	article > section {
+		display:none;
+	}
+	article > section.active {
+		display:block;
+	}
+	article h1 {
+		margin-bottom: .5em;
+	}
+
+	article ul {
+		list-style: none;
+		margin-bottom:3em;
+	}
+/* Aside */
+aside {
+	text-align: center;
+}
+	aside h1 {
+		font-size:1.2em
+	}
+	aside img {
+		margin-bottom:1em;
+	}
+
+/* Dead Simple Grid (c) 2012 Vladimir Agafonkin */
+
+.col {
+	padding: 0 .5em;
+}
+.row .row {
+	margin: 0 -.5em;
+}
+
+.row:before, .row:after {
+	content: "";
+	display: table;
+}
+.row:after {
+	clear: both;
+}
+
+@media only screen {
+	.col {
+		float: left;
+		width: 100%;
+
+		-webkit-box-sizing: border-box;
+		   -moz-box-sizing: border-box;
+		        box-sizing: border-box;
+	}
+}
+
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 480px) {
+/* Styles */
+}
+
+/* Smartphones (landscape) ----------- */
+@media only screen 
+and (min-width : 321px) {
+/* Styles */
+}
+
+/* Smartphones (portrait) ----------- */
+@media only screen 
+and (max-width : 320px) {
+	/* Styles */
+}
+
+/* iPads (portrait and landscape) ----------- */
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) {
+	/* Styles */
+	.col {
+		width:50%;
+	}
+}
+
+/* iPads (landscape) ----------- */
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) 
+and (orientation : landscape) {
+	/* Styles */
+}
+
+/* iPads (portrait) ----------- */
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) 
+and (orientation : portrait) {
+	/* Styles */
+}
+/**********
+iPad 3
+**********/
+@media
+only screen
+and (min-device-width : 768px)
+and (max-device-width : 1024px)
+and (orientation : landscape)
+and (-webkit-min-device-pixel-ratio : 2) {
+	/* Styles */
+}
+
+@media
+only screen
+and (min-device-width : 768px)
+and (max-device-width : 1024px)
+and (orientation : portrait)
+and (-webkit-min-device-pixel-ratio : 2) {
+	/* Styles */
+}
+/* Desktops and laptops ----------- */
+@media only screen 
+and (min-width : 1024px) {
+	nav {
+		position:relative;
+		padding:.2em;
+	}
+		nav ul li {
+			display:inline-block;
+			margin-right:.3em;
+
+		}
+			nav ul li a {
+				font-weight: normal;
+				display: inline-block;
+				background:#eee;
+				padding:5px 10px;
+				color:#333;
+				text-decoration: none;
+				border-radius: 5px;
+				-webkit-transition:all .2s ease;
+				border:none;
+			}
+			nav ul li a:hover {
+				background:#e0e0e0;
+				box-shadow:0 0 5px #aaa;
+				color:#333;
+			}
+
+	.col {
+		width:50%;
+	}
+	aside {
+		text-align:left;
+	}
+		aside img {
+			float:left;
+			width:25%;
+			margin-right:3%;
+		}
+}
+
+/* Large screens ----------- */
+@media only screen 
+and (min-width : 1824px) {
+/* Styles */
+}
+
+/* iPhone 4 ----------- */
+@media
+only screen
+and (min-device-width : 320px)
+and (max-device-width : 480px)
+and (orientation : landscape)
+and (-webkit-min-device-pixel-ratio : 2) {
+/* Styles */
+}
+
+@media
+only screen
+and (min-device-width : 320px)
+and (max-device-width : 480px)
+and (orientation : portrait)
+and (-webkit-min-device-pixel-ratio : 2) {
+/* Styles */
+}

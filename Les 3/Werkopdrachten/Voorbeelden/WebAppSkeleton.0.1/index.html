@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<title>Web App Skeleton v 0.1</title>
+	<link href="static/css/style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+	<header>
+		<img src="media/images/skeleton.png" alt="Web App Skeleton" data-source="http://www.gettyicons.com/free-icon/119/halloween-icon-set/free-skull-icon-png/">
+		<h1>Web App Skeleton</h1>
+		<nav>
+			<ul>
+				<li><a href="#/page1">Pagina 1</a></li>
+				<li><a href="#/page2">Pagina 2</a></li>
+				<li><a href="#/page3">Pagina 3</a></li>
+		    </ul>
+		</nav>
+	</header>
+	
+	<article id="content" class="col">
+		<section data-route="page1" class="active">
+			<h1 data-bind="title"></h1>
+			<p data-bind="description"></p>
+			 <section data-bind="items">
+			    <section>
+			      <h1 data-bind="title"></h1>
+			      <p data-bind="description"></p>
+			    </section>
+			  </section>
+		</section>
+
+		<section data-route="page2">
+			<h1 data-bind="title"></h1>
+			<p data-bind="description"></p>
+		</section>
+
+		<section data-route="page3">
+			<h1 data-bind="title"></h1>
+			<p data-bind="description"></p>
+		</section>
+	</article>
+
+	<!-- Libs -->
+	<script src="static/js/lib/routie.min.js"></script>
+	<script src="static/js/lib/ready.min.js" type="text/javascript"></script>
+	<script src="static/js/lib/qwery.min.js" type="text/javascript"></script>
+	<script src="static/js/lib/transparancy.min.js" type="text/javascript"></script>
+
+	<!-- Application -->
+	<script src="static/js/app.js"></script>
+	
+</body>
+</html>
