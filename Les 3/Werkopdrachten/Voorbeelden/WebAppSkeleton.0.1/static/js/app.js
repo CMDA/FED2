@@ -81,20 +81,20 @@ var APP = APP || {};
 		}
 	};
 
-	// Pages
+	// Page
 	APP.page = {
 		page1: function () {
-			Transparency.render(qwery('[data-route=page1')[0], APP.page1);
+			Transparency.render(qwery('[data-route=page1]')[0], APP.page1);
 			APP.router.change();
 		},
 
 		page2: function () {
-			Transparency.render(qwery('[data-route=page2')[0], APP.page2);
+			Transparency.render(qwery('[data-route=page2]')[0], APP.page2);
 			APP.router.change();
 		},
 
 		page3: function () {
-			Transparency.render(qwery('[data-route=page3')[0], APP.page3);
+			Transparency.render(qwery('[data-route=page3]')[0], APP.page3);
 			APP.router.change();
 		}
 	}

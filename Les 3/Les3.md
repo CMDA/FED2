@@ -112,7 +112,8 @@ Voeg aan je script een template script toe (micro library: 'transparancy'). Gene
 
 Voor de score app hebben we een eerste basis structuur opgezet, het skeleton. Waarin we routes naar de verschillende pagina's hebben gedfinieerd en data met behulp van templates omzetten naar html.
 
-Volgende week gaan we werken met een API, Json binnenhalen /GET. Data komt dan niet meer uit een local data object, maar vanaf een server.
+
+Volgende week gaan we werken met een API, Json binnenhalen /GET. Data komt dan niet meer uit een local data object, maar vanaf een server. (Gezien de voortgang schuiven we dit door naar les 5 en gaan we in les 4 lesstof uit de eerste drie lessen herhalen ter voorbereiding op de mondelinge toets).
 
 ###Deeltoets 1 uitleggen (10 minuten)
 

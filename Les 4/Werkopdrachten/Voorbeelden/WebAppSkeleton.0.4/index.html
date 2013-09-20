@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<title>All time favorite movies</title>
+	<link href="static/css/style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+	<header>
+		<img src="media/images/movie.png" alt="Web App Skeleton" data-source="http://www.smashingmagazine.com/2012/10/09/freebie-movie-icon-set/">
+		<h1>All Time Favorite Movies</h1>
+		<nav>
+			<ul>
+				<li><a href="#/movies">Movies</a></li>
+				<li><a href="#/reviews">Reviews</a></li>
+				<li><a href="#/actors">Actors</a></li>
+			</ul>
+		</nav>
+	</header>
+	
+	<article id="content">
+		<section data-route="movies" class="active">
+			<section class="col">
+				<header>
+					<h1 data-bind="title"></h1>
+					<em>Release date: <time data-bind="release_date"></time></em>
+				</header>
+				
+				<img src="" alt=""  data-bind="cover" />
+
+				<p data-bind="description"></p>
+				
+				<footer>
+					<header>
+						<h1>Review scores</h1>
+					</header>
+					<ul data-bind="reviews">
+						<li>
+							<strong data-bind="score"></strong> 
+						</li>
+					</ul>
+				</footer>
+			
+			</section>
+		</section>
+	</article>
+
+	<!-- Libs -->
+	<script src="static/js/lib/routie.min.js"></script>
+	<script src="static/js/lib/ready.min.js" type="text/javascript"></script>
+	<script src="static/js/lib/qwery.min.js" type="text/javascript"></script>
+	<script src="static/js/lib/transparancy.min.js" type="text/javascript"></script>
+	<script src="static/js/lib/microajax.min.js" type="text/javascript"></script>
+
+	<!-- Application -->
+	<script src="static/js/app.js"></script>
+	
+</body>
+</html>

@@ -54,7 +54,7 @@
 			(geo_position_js.init())?ET.fire(GPS_AVAILABLE):ET.fire(GPS_UNAVAILABLE);
 		},
 		startInterval: function (event) {
-			//debug.message("GPS is beschikbaar, vraag positie.");
+			debug.message("GPS is beschikbaar, vraag positie.");
 			this.updatePosition();
 			interval = setInterval(this.updatePosition(), REFRESH_RATE);
 			ET.addListener(POSITION_UPDATED, this.checkLocations.bind(this));

@@ -2,45 +2,12 @@ var APP = APP || {};
 
 (function () {
 	'use strict';
-	// Data objecten
-	APP.page1 = {
-		title:'Pagina 1',
-		description:'Pagina 1 is de eerste pagina',
-		items: [
-			{
-				title: 'Item 1',
-				description: 'Item 1 is het eerste item'
-			}, {
-				title: 'Item 2',
-				description: 'Item 2 is het tweede item'
-			}, {
-				title: 'Item 3',
-				description: 'Item 3 is het derde item'
-			}, {
-				title: 'Item 4',
-				description: 'Item 4 is het vierde item'
-			}
-		]
-	};
 
-	APP.page2 = {
-		title:'Pagina 2',
-		description:'Pagina 2 is de tweede pagina'
-	};
-
-	APP.page3 = {
-		title:'Pagina 3',
-		description:'Pagina 3 is de derde pagina'
-	};
-	
 	// Controller Init
 	APP.controller = {
 		init: function () {
 			// Initialize router
 			APP.router.init();
-		},
-		exit: function () {
-
 		}
 	};
 
@@ -48,18 +15,11 @@ var APP = APP || {};
 	APP.router = {
 		init: function () {
 	  		routie({
-			    '/page1': function() {
-			    	APP.page.render('page1');
+			    '/movies': function() {
+			    	APP.page.render('movies');
 				},
-			    '/page2': function() {
-			    	APP.page.render('page2');
-			    },
-
-			    '/page3': function() {
-			    	APP.page.render('page3');
-			    },
 			    '*': function() {
-			    	APP.page.render('page1');
+			    	APP.page.render('movies');
 			    }
 			});
 		},
@@ -81,17 +41,28 @@ var APP = APP || {};
             if (!route) {
             	sections[0].classList.add('active');
             }
-
 		}
 	};
 
 	// Pages
 	APP.page = {
 		render: function (route) {
-			// http://javascriptweblog.wordpress.com/2010/04/19/how-evil-is-eval/
-			var data = eval('APP.'+route);
+			console.log("ajax?");
 
-			Transparency.render(qwery('[data-route='+route+']')[0], data);
+			microAjax("http://dennistel.nl/movies", function (movieData) {
+	          	var data = JSON.parse(movieData);
+
+	          	var directives = {
+					cover: {
+						src: function(params) {
+							return this.cover;
+						}
+					}
+				};
+
+	          	Transparency.render(qwery('[data-route='+route+']')[0], data, directives);
+	        });
+
 			APP.router.change();
 		}
 	}
