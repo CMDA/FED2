@@ -39,7 +39,6 @@ Nico Brinkkemper n.brinkkemper@hva.nl
 * Huiswerk: Werkopdracht 5 uit les 2 afmaken. Lesopdracht IcanHasGeo verder uitwerken 
 Aan het begin van les 3 het -IcanHasGeo script naar Object Structuur- behandelen.
 
-
 * Nog meer leren over JavaScript?
 Kijk ook eens bij de JavaScript Cursussen [Lynda.com](http://www.lynda.com/JavaScript-training-tutorials/244-0.html)
 
@@ -87,7 +86,7 @@ Deze les gaan we beginnen met het opzetten van de basis score app (Web App Skele
  4. Breakdown maken van de 3 pagina's Schedule.html, Ranking.html, Game.html
  5. Het script omzetten naar losse bestanden
 
-### Opdrachten
+###Opdrachten
 
 ####6: Breakdown maken van de 3 pagina's voor de score app: schedule.html, ranking.html, game.html
 Maak aan de hand van de voorbeeld html pagina's een breakdown van de score app. Welke pagina's zijn er? Hoe noem je je namespace? Welke functionaliteiten gaat de app per pagina bevatten?
