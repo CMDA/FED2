@@ -1,4 +1,4 @@
-CMDA201314-Fed2 Les 3
+ CMDA201314-Fed2 Les 3
 =====================
 
 #Les 3: Fork You
@@ -132,13 +132,15 @@ Lesdoelen: Wat hebben we behandeld?
 
 Werkwijze en planning van het vak > op naar deeltoets1
 
-Huiswerk aankondigen: Hoe ver moet je zijn?
 
+**Huiswerk aankondigen: Hoe ver moet je zijn?**
 
+* Weekly Nerd [les 4](http://weeklynerd.tumblr.com/tagged/fed1314)
 
+* Huiswerk: Maak een breakdown van de score app en zet de basis voor deze app op met gestructureerde javascript code en micro libraries (dom ready, router, template engine, selector engine). Zie werkopdrachten 6, 7, 8 & 9 uit les 3.
 
-
-
+* Nog meer leren over JavaScript?
+Kijk ook eens bij de JavaScript Is Sexy [javascriptissexy.com](javascriptissexy.com)
 
 
 
