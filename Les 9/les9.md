@@ -1,11 +1,10 @@
-CMDA201314-Fed2 Les 6
+CMDA201314-Fed2 Les 9
 =====================
 
-#Les 6: Data Post
-*Aan de slag met data: Post data naar de server met Ajax en een Api
+#Les 9: Test or Die
+*Debugging en testen van je Webapp*
 
-[tShirt](http://www.neatoshop.com/product/Kiss-My-CSS)
-
+[T-Shirt It must be User error](http://www.zazzle.co.uk/it_must_be_a_user_error_t_shirt-235554340431674874)
 
 
 ###Docenten
@@ -74,6 +73,5 @@ CMDA201314-Fed2 Les 6
 **Werkwijze en planning van het vak**
 
 **Huiswerk aankondigen**
-
 
 

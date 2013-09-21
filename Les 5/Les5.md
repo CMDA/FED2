@@ -1,12 +1,17 @@
 CMDA201314-Fed2 Les 5
 =====================
 
-#Les 5: 
+#Les 5: Hip Hip Array
+*Aan de slag met data. Een Api gebruiken om data van een server te laden
 
-[tShirt_backbone](http://kngly.com/produkts/female/001)
+[tShirt Hip Hip Array](https://www.neatoshop.com/product/Hip-Hip-Array)
+
 
 ###Docenten
-* 
+* Koop Reynders k.g.reynders@hva.nl   
+* Joost Faber j.faber@hva.nl  
+* Dennis Tel dennis.tel@hva.nl   
+* Nico Brinkkemper n.brinkkemper@hva.nl  
 
 ###Lesdoelen
 

@@ -1,67 +1,80 @@
 CMDA201314-Fed2 Les 8
 =====================
 
-#Les 8: Crashtest: Interface & Interactie
+#Les 8: Got Code?
+*Interface & Interactiepatronen*
+
+[tShirt Got Code?](http://www.zazzle.com/got_code_shirt-235181433578776102)
 
 
 [T-Shirt It must be User error](http://www.thinkgeek.com/product/59fe/)
 
 
-
 ###Docenten
-Koop Reynders k.g.reynders@hva.nl 
-
-Joost Faber j.faber@hva.nl
+* Koop Reynders k.g.reynders@hva.nl   
+* Joost Faber j.faber@hva.nl  
+* Dennis Tel dennis.tel@hva.nl   
+* Nico Brinkkemper n.brinkkemper@hva.nl  
 
 ###Lesdoelen
+
 1. 
 
 
+
 ###Programma (200 minuten)
-
-1. Huishoudelijke mededelingen (20)
-2. Weely Nerd (30)
-3. Feedback en evaluatie (20)
-4. Werkopdrachten (120)
-5. Terugkijken (20)
-
-##1. Huishoudelijke mededelingen - 5 minuten (5/200)
-**Materiaal:** - 
-**Opstelling:** Gymzaal
-
-Wat gaan we doen?
-Toernooi uitleggen + wat je moet opleveren. 
-intranet pagina met [Maakopdracht](http://intra.iam.hva.nl/content/1213/verdieping2/frontend_2/maakopdracht/)
+1. Huishoudelijke mededelingen (10)
+2. Weekly Nerd (30) 
+3. Werkopdrachten (100)
+4. Terugkijken (10) 
 
 
-##2. Weekley Nerd - 30 minuten ()
-
-##3. Feedback en evaluatie van het vak - 15 minuten ()
-
-##4. Werkopdrachten - 120 minuten ()
-Werken in de les aan de Webapp
+##0. Voorbereiden voor deze les
+**Huiswerk voor deze les:**
 
 
 
+##1. Huishoudelijke mededelingen - 10 minuten (10/200)
+**Materiaal:** Papier, pen, beamer 
+**Opstelling:** College opstelling
 
-##5. Terugkijken - 20 minuten (200/200)
-**Materiaal** Intranet
-**Opstelling** - 
 
-Leerdoelen van het vak: Wat hebben we behandeld en wat heb je geleerd?
+##2. Opdrachten bespreken - 30 minunten (40/200)
+**Materiaal:** Laptop, beamer, internet
+**Opstelling:** College opstelling
 
-1. Intentie van het vak op intranet
-2. Wat kun je nu maken? Mobiel Score app van Leaguevine
-3. Wat is een Frontend developer? 
-	1. Verhaal
-	2. Hoe hebben we hieraan gewerkt? [Weekley Nerd](http://weeklynerd.tumblr.com) Eerste post, Artikelen over Javascript, Webscripts, Performance, Css, Crossbrowser development, Vectors, Mobile Design patterns, Transities
-	3. Tentamen: Voorbeeldvraag over het  artikel A Dao of Webdesign & Concept to Code : Code literacy in UX
-	3. 	De toekomst van Fed? Presenatie Vasilis van Gemert - Bedenker van de [Daily Nerd](http://dailynerd.nl)
-4. succes!
+###Opdrachten
+
+####8: 
+
+
+##2. De Weekly Nerd - 30 minuten (70/200)
+**Materiaal:** Naambordje, 
+**Opstelling:** Tafels in de een rondevorm
 
 
 
 
+##3. Werkopdrachten - 120 minuten (190/200)
+**Materiaal:** Laptop, beamer, internet
+**Opstelling:** Werkeilanden
 
+
+###Opdrachten
+
+####9: 
+
+
+
+
+##4. Terugkijken - 10 minuten (200/200)
+**Materiaal** - 
+**Opstelling** -  
+
+**Lesdoelen: Wat hebben we behandeld? **
+
+**Werkwijze en planning van het vak**
+
+**Huiswerk aankondigen**
 
 
