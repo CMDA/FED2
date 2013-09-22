@@ -15,10 +15,10 @@ Dennis Tel dennis.tel@hva.nl
 Nico Brinkkemper n.brinkkemper@hva.nl  
 
 ###Lesdoelen
-1. Weekly Nerd: Wat is Frontend development?
-2. Gestructureerd programmeren
+1. Weekly Nerd: Wat is Frontend development? 
+2. Gestructureerd programmeren in JavaScript 
 3. Basis web app skeleton op kunnen zetten 
-4. Micro libs kunnen implementeren
+4. Micro libs kunnen implementeren 
 5. Elkaars code kunnen reviewen 
 
 ###Programma (200 minuten)
@@ -41,7 +41,8 @@ Nico Brinkkemper n.brinkkemper@hva.nl
 * Nog meer leren over JavaScript?
 Kijk ook eens bij de JavaScript Is Sexy [javascriptissexy.com](javascriptissexy.com)
 
-##1. Huishoudelijke mededelingen - 10 minuten (10/200)
+
+##1. Huishoudelijke mededelingen - 10 minuten (5/200)
 **Materiaal:** - 
 **Opstelling:** College opstelling
 
@@ -50,7 +51,7 @@ Wat gaan we doen
 Programma voor vandaag
 
 
-##2. Opdrachten bespreken - 30 minuten (30/200)
+##2. Opdrachten bespreken - 30 minuten (35/200)
 **Materiaal:** Papier en pen voor aantekeningen
 **Opstelling:** Rijen, college opstelling
 
@@ -66,17 +67,17 @@ Maak een eerste opzet van je score app. Het skeleton bevat deze elementen:
 
 Code van student bespreken?
 
-##3. De Weekly Nerd - 30 minuten (60/200)
+##3. De Weekly Nerd - 30 minuten (65/200)
 **Materiaal:** -
 **Opstelling:** klas in 3 groepen van 15
 
 
-##4. Werkopdrachten - 120 minuten (190/200)
+##4. Werkopdrachten - 120 minuten (185/200)
 **Materiaal** Laptop en internet  
 **Opstelling** Werkeilanden 2- / 3-tallen
 
 
-### Opdrachten
+###Opdrachten
 
 
 ####8: Router
@@ -101,6 +102,7 @@ Review elkaars code via Github.
 1. In je mail heb je een notificatie gekregen met een voorstel voor een aanpassing aan een bestand (een 'Pull request'). Volg de link
 2. Bekijk of je de aanpassing wil doorvoeren ('File changes')
 3. Merge de pull request
+4. 
 
 ####11: Data ophalen vanaf API (les 5)
 Voeg aan je applicatie een ajax script toe (micro library: 'microajax') en haal data op vanaf de api url: http://dennistel.nl/movies. Voeg een pagina 'films' toe aan je applicatie en render de html met de opgehaalde data op deze pagina.  
@@ -119,7 +121,7 @@ Criteria
 Rooster
 
 
-##5. Terugkijken - 10 minuten (200/200)
+##5. Terugkijken - 5 minuten (200/200)
 **Materiaal** Intranet
 **Opstelling** - 
 
@@ -127,8 +129,8 @@ Lesdoelen: Wat hebben we behandeld?
 
 Werkwijze en planning van het vak > op naar deeltoets1
 
-Huiswerk aankondigen: Hoe ver moet je zijn?
 
+**Huiswerk aankondigen: Hoe ver moet je zijn?**
 
 
 
