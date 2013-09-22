@@ -102,8 +102,8 @@ Review elkaars code via Github.
 2. Bekijk of je de aanpassing wil doorvoeren ('File changes')
 3. Merge de pull request
 
-####11: Data ophalen vanaf API
-Voeg aan je applicatie een ajax script toe (micro library: 'microajax') en haal data op vanaf de api url: http://dennistel.nl/movies. 
+####11: Data ophalen vanaf API (les 5)
+Voeg aan je applicatie een ajax script toe (micro library: 'microajax') en haal data op vanaf de api url: http://dennistel.nl/movies. Voeg een pagina 'films' toe aan je applicatie en render de html met de opgehaalde data op deze pagina.  
 
 ###Wat hebben we gedaan?
 
