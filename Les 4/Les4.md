@@ -107,6 +107,32 @@ Review elkaars code via Github.
 ####11: Data ophalen vanaf API (les 5)
 Voeg aan je applicatie een ajax script toe (micro library: 'microajax') en haal data op vanaf de api url: http://dennistel.nl/movies. Voeg een pagina 'films' toe aan je applicatie en render de html met de opgehaalde data op deze pagina.  
 
+#####Snelle studenten
+**Klas 1 **
+
+* Mik de Vries
+* Léon Martens
+* Sanne 't Hooft
+* Gavin Lighart
+* Levi Zimmerman
+* Roan Zuman
+* Senny Kalidien
+* Alexander van der Mije
+* David Dam?
+* Sander Vervaart?
+* Justin Lek?
+
+**Klas 2**
+
+* Machiel Banen
+* Davide de Lusenet
+* Rowan
+* Frank
+* Ted
+* 
+
+
+
 ###Wat hebben we gedaan?
 
 Voor de score app hebben we een eerste basis structuur opgezet, het skeleton. Waarin we routes naar de verschillende pagina's hebben gedfinieerd en data met behulp van templates omzetten naar html.
@@ -115,10 +141,40 @@ Volgende week gaan we werken met een API, Json binnenhalen /GET. Data komt dan n
 
 ###Deeltoets 1 uitleggen (10 minuten)
 
-Opdracht
-Materiaal
-Criteria
-Rooster
+**Opdracht**
+
+Je code moet op Github staan én je moet je code meenemen in een editor op een laptop
+
+De Webapp is een single page website die het doet in de browser, De Webapp bestaat minimaal uit een Schedule, Game en Ranking deel
+
+De Webapp is gestructureerd opgebouwd met een Namespace, een anonymous self invoking function en een controler object
+
+Er is gebruik gemaakt van een Router waarmee je tussen de verschillende onderdelen kan navigeren
+
+De HTML wordt per onderdeel gerenderd met behulp van een templating-library. De data komt uit een statisch data object
+
+Student kan de code van een mede student uitleggen en waar nodig verbeteren.
+
+**Materiaal**
+op Github
+
+
+**Criteria**
+- Waarom is het af te raden om veel globale variabelen en objecten te gebruiken- Leg uit wat een closure is. Wijs aan in de code van de andere student- Wat is het verschil tussen een object literal en een object constructor? 
+[OOP in javascript](http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/)
+
+[wat is 'this'](http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/)
+
+[wat is object literal?](http://javascriptissexy.com/javascript-objects-in-detail/)
+
+[Closure](http://javascriptissexy.com/understand-javascript-closures-with-ease/)
+
+
+
+**Rooster op Moodle**
+Iedereen erin?
+
+
 
 
 ##5. Terugkijken - 5 minuten (200/200)
@@ -132,6 +188,39 @@ Werkwijze en planning van het vak > op naar deeltoets1
 
 **Huiswerk aankondigen: Hoe ver moet je zijn?**
 
+Aanstaande donderdag heb je een Web app skeleton
+
+
+Weekly Nerd [les 5](http://weeklynerd.tumblr.com/tagged/fed1314)
+
+
+Redactie Klas 1, Les 5
+Gavin
+.. ?
+
+
+
+Redactie Klas 1, Les 6
+Jeffrey
+Ivo
+Raymond
+.. ?
+
+
+Redactie Klas 2, Les 5
+Ron
+Marvin
+David
+Jesse
+Jeffrey
+
+
+Redactie Klas 2, Les 6
+Lars
+Jip
+Frank
+Claire
+Mark H
 
 
 
