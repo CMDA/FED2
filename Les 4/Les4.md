@@ -125,11 +125,26 @@ Voeg aan je applicatie een ajax script toe (micro library: 'microajax') en haal 
 **Klas 2**
 
 * Machiel Banen
-* Davide de Lusenet
-* Rowan
-* Frank
-* Ted
-* 
+* David de Lusenet
+* Rowan Blokdijk
+* Frank Kalk
+* Ted Voorend
+* Lars Hisken
+* Jim van Zummeren
+* Alexander Eerenberg
+* Jesse Eikema
+* Jordy Pauw
+* Guus Kolk
+* Jurgen Ploeger
+* Jip Roos
+* Marijek Delder
+* Ali Sahin
+* Nan Damhuis
+* Jurian Koning
+* Rizki Calame
+* Hidde Statema
+* Michelle Gemmeke
+* Jeffrey Bouva
 
 
 
@@ -142,6 +157,8 @@ Volgende week gaan we werken met een API, Json binnenhalen /GET. Data komt dan n
 ###Deeltoets 1 uitleggen (10 minuten)
 
 **Opdracht**
+
+Zie deeltoets beschrijving op [intranet](http://intra.iam.hva.nl/content/1314/verdieping2/frontend_2//lesprogramma/#deeltoets1)
 
 Je code moet op Github staan én je moet je code meenemen in een editor op een laptop
 
@@ -156,12 +173,14 @@ De HTML wordt per onderdeel gerenderd met behulp van een templating-library. De 
 Student kan de code van een mede student uitleggen en waar nodig verbeteren.
 
 **Materiaal**
-op Github
+0p [Github](https://github.com/CMDA/FED2/tree/master/Deeltoets%201)
 
 
 **Criteria**
+Voorbeeld vragen:
 - Waarom is het af te raden om veel globale variabelen en objecten te gebruiken- Leg uit wat een closure is. Wijs aan in de code van de andere student- Wat is het verschil tussen een object literal en een object constructor? 
-[OOP in javascript](http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/)
+
+Lees meer op Javascriptissexy over:[OOP in javascript](http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/)
 
 [wat is 'this'](http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/)
 
@@ -188,7 +207,7 @@ Werkwijze en planning van het vak > op naar deeltoets1
 
 **Huiswerk aankondigen: Hoe ver moet je zijn?**
 
-Aanstaande donderdag heb je een Web app skeleton
+Aanstaande donderdag heb je een Web app skeleton. Tijdens les 5 gaan we leren met Ajax Json data laden van een externe server. 
 
 
 Weekly Nerd [les 5](http://weeklynerd.tumblr.com/tagged/fed1314)
