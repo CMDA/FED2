@@ -110,6 +110,8 @@ Voeg aan je applicatie een ajax script toe (micro library: 'microajax') en haal 
 #####Snelle studenten
 **Klas 1 **
 
+* David den Toom <
+* Justin Lek < 
 * Mik de Vries
 * Léon Martens
 * Sanne 't Hooft
@@ -118,33 +120,32 @@ Voeg aan je applicatie een ajax script toe (micro library: 'microajax') en haal 
 * Roan Zuman 
 * Senny Kalidien
 * Alexander van der Mije
-* David den Toom <
 * Sander Vervaart 
-* Justin Lek < 
+
 
 **Klas 2**
 
+* Lars Hisken <
+* Jeffrey Bouva <
 * Machiel Banen <
+* Rizki Calame <
+* Hidde Statema <
+* Jip Roos <
 * David de Lusenet
 * Rowan Blokdijk
 * Frank Kalk 
 * Ted Voorend
-* Lars Hisken <
 * Jim van Zummeren 
 * Alexander Eerenberg
 * Jesse Eikema
 * Jordy Pauw
 * Guus Kolk
 * Jurgen Ploeger
-* Jip Roos <
 * Marijke Delder
 * Ali Sahin
 * Nan Damhuis
 * Jurian Koning
-* Rizki Calame <
-* Hidde Statema <
 * Michelle Gemmeke
-* Jeffrey Bouva <
 
 
 

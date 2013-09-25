@@ -41,6 +41,8 @@ CMDA201314-Fed2 Les 5
 **Opstelling:** College opstelling
 
 Over Ajax, Json en server API's
+Open data? City SDK (zie mail van Mattijs)
+Project 6 opdracht gemeente dienst Vervoer, app Moet ik rennen
 
 
 
@@ -60,12 +62,18 @@ Over Ajax, Json en server API's
 ###Opdrachten
 
 ####11.1: JSON ophalen vanaf API 
-Voeg aan je applicatie een ajax script toe (micro library: 'microajax') en haal data op vanaf de api url: http://dennistel.nl/movies. Voeg een pagina 'films' toe aan je applicatie en render de html met de opgehaalde data op deze pagina.
+Voeg aan je applicatie een ajax script toe (micro library: 'microajax') en haal data op vanaf de api url: http://dennistel.nl/movies. 
 
 ####11.2: Data parsen en Templating:
+Voeg een pagina 'films' toe aan je applicatie en render de html met de opgehaalde data op deze pagina.
 
 
-####11.3: Selectors?
+####11.3: Leaguevine API gebruiken
+**Json ophalen**
+Voeg aan je applicatie een micro library toe om met ajax Json te laden. Haal data op vanaf de api url: http://dennistel.nl/movies. 
+
+**Data parsen en templating**
+Voeg objecten aan je applicatie toe en render de html met de opgehaalde data op deze pagina.
 
 
 
