@@ -137,7 +137,7 @@ Voeg aan je applicatie een ajax script toe (micro library: 'microajax') en haal 
 * Guus Kolk
 * Jurgen Ploeger
 * Jip Roos <
-* Marijek Delder
+* Marijke Delder
 * Ali Sahin
 * Nan Damhuis
 * Jurian Koning
