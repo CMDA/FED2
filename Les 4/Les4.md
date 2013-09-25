@@ -115,36 +115,36 @@ Voeg aan je applicatie een ajax script toe (micro library: 'microajax') en haal 
 * Sanne 't Hooft
 * Gavin Lighart
 * Levi Zimmerman
-* Roan Zuman
+* Roan Zuman 
 * Senny Kalidien
 * Alexander van der Mije
-* David Dam?
-* Sander Vervaart?
-* Justin Lek?
+* David den Toom <
+* Sander Vervaart 
+* Justin Lek < 
 
 **Klas 2**
 
-* Machiel Banen
+* Machiel Banen <
 * David de Lusenet
 * Rowan Blokdijk
-* Frank Kalk
+* Frank Kalk 
 * Ted Voorend
-* Lars Hisken
-* Jim van Zummeren
+* Lars Hisken <
+* Jim van Zummeren 
 * Alexander Eerenberg
 * Jesse Eikema
 * Jordy Pauw
 * Guus Kolk
 * Jurgen Ploeger
-* Jip Roos
+* Jip Roos <
 * Marijek Delder
 * Ali Sahin
 * Nan Damhuis
 * Jurian Koning
-* Rizki Calame
-* Hidde Statema
+* Rizki Calame <
+* Hidde Statema <
 * Michelle Gemmeke
-* Jeffrey Bouva
+* Jeffrey Bouva <
 
 
 
