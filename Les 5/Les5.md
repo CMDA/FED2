@@ -42,7 +42,7 @@ Project 6 opdracht gemeente dienst Vervoer, app Moet ik rennen
 
 ##2. De Weekly Nerd - 30 minuten (70/200)
 **Materiaal:** Naambordje, 
-**Opstelling:** Tafels in de een rondevorm
+**Opstelling:** Tafels in een rondevorm
 
 ##3. Werkopdrachten - 120 minuten (190/200)
 **Materiaal:** Laptop, beamer, internet
