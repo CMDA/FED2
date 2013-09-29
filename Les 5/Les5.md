@@ -1,11 +1,9 @@
 CMDA201314-Fed2 Les 5
 =====================
-
 #Les 5: Hip Hip Array
 **Aan de slag met data. Een Api gebruiken om data van een server te laden**
 
 [tShirt Hip Hip Array](https://www.neatoshop.com/product/Hip-Hip-Array)
-
 
 ###Docenten
 * Koop Reynders k.g.reynders@hva.nl   
@@ -14,10 +12,8 @@ CMDA201314-Fed2 Les 5
 * Nico Brinkkemper n.brinkkemper@hva.nl  
 
 ###Lesdoelen
-
-1. 
-
-
+1. Weekly Nerd: Wat is Frontend development? 
+2. Leren werken met API, JSON en AJAX 
 
 ###Programma (200 minuten)
 1. Huishoudelijke mededelingen (10)
@@ -46,19 +42,13 @@ Open data? City SDK (zie mail van Mattijs)
 Project 6 opdracht gemeente dienst Vervoer, app Moet ik rennen
 
 
-
-
 ##2. De Weekly Nerd - 30 minuten (70/200)
 **Materiaal:** Naambordje, 
 **Opstelling:** Tafels in de een rondevorm
 
-
-
-
 ##3. Werkopdrachten - 120 minuten (190/200)
 **Materiaal:** Laptop, beamer, internet
 **Opstelling:** Werkeilanden
-
 
 ###Opdrachten
 
