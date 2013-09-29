@@ -35,7 +35,7 @@ Weekly Nerd
 **Materiaal:** Laptop, beamer, internet
 **Opstelling:** College opstelling
 
-Over Ajax, Json en server API's
+Over Ajax, JSON en server API's
 Open data,  City SDK 
 Project 6 opdracht gemeente dienst Vervoer, app Moet ik rennen
 
@@ -57,8 +57,8 @@ Voeg aan je applicatie een ajax script toe (micro library: 'microajax') en haal 
 Voeg een pagina 'films' toe aan je applicatie en render de html met de opgehaalde data op deze pagina.
 
 ####11.3: Leaguevine API gebruiken
-**Json ophalen**
-Voeg aan je applicatie een micro library toe om met ajax Json te laden. Haal data op vanaf de api url: http://dennistel.nl/movies. 
+**JSON ophalen**
+Voeg aan je applicatie een micro library toe om met Ajax JSON te laden. Haal data op vanaf de api url: http://dennistel.nl/movies. 
 
 **Data parsen en templating**
 Voeg objecten aan je applicatie toe en render de html met de opgehaalde data op deze pagina.
