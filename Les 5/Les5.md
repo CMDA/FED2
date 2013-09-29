@@ -21,8 +21,9 @@ CMDA201314-Fed2 Les 5
 
 ###Programma (200 minuten)
 1. Huishoudelijke mededelingen (10)
-2. Weekly Nerd (30) 
-3. Werkopdrachten (100)
+2. Mini College (30) 
+3. Weekly Nerd (30)
+3. Werkopdrachten (120)
 4. Terugkijken (10) 
 
 
