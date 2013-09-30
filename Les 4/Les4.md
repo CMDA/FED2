@@ -140,6 +140,7 @@ Voeg aan je applicatie een ajax script toe (micro library: 'microajax') en haal 
 * Jesse Eikema
 * Jordy Pauw
 * Guus Kolk
+* Sjoerd Valk
 * Jurgen Ploeger
 * Marijke Delder
 * Ali Sahin
