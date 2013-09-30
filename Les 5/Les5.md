@@ -51,17 +51,20 @@ Project 6 opdracht gemeente dienst Vervoer, app Moet ik rennen
 ###Opdrachten
 
 ####11.1: JSON ophalen vanaf API 
-Voeg aan je applicatie een ajax script toe (micro library: 'microajax') en haal data op vanaf de api url: http://dennistel.nl/movies. 
+Voeg aan je applicatie een ajax library toe en haal data op vanaf de api url: http://dennistel.nl/movies. De library moet data kunnen ophalen en data kunnen posten.
 
 ####11.2: Data parsen en Templating:
 Voeg een pagina 'films' toe aan je applicatie en render de html met de opgehaalde data op deze pagina.
 
 ####11.3: Leaguevine API gebruiken
-**JSON ophalen**
-Voeg aan je applicatie een micro library toe om met Ajax JSON te laden. Haal data op vanaf de api url: http://dennistel.nl/movies. 
+**JSON ophalen**   
+- Maak een account aan op Leaguevine  
 
-**Data parsen en templating**
-Voeg objecten aan je applicatie toe en render de html met de opgehaalde data op deze pagina.
+- Bestudeer de API reference van Leaguevine: [Leaguevine API](https://www.leaguevine.com/docs/api/)  
+
+- Bekijk het datamodel van Leaguevine: [Leaguevine Datamodel](https://github.com/CMDA/FED2/tree/master/Les 5/Werkopdrachten/Leaguevine/leaguevine_api_schema.jpg)  
+
+- Haal met behulp van de API data op vanaf de url: [https://www.leaguevine.com/tournaments/19389/autumn-2013/](https://www.leaguevine.com/tournaments/19389/autumn-2013/)  
 
 ##4. Terugkijken - 10 minuten (200/200)
 **Materiaal** - 
