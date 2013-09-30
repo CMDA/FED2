@@ -64,7 +64,7 @@ Voeg een pagina 'films' toe aan je applicatie en render de html met de opgehaald
 
 - Bekijk het datamodel van Leaguevine: [Leaguevine Datamodel](https://github.com/CMDA/FED2/tree/master/Les 5/Werkopdrachten/Leaguevine/leaguevine_api_schema.jpg)  
 
-- Haal met behulp van de API data op vanaf de url: [https://www.leaguevine.com/tournaments/18519/threesome/](https://www.leaguevine.com/tournaments/18519/threesome/)  
+- Haal met behulp van de API data op vanaf de url: [https://www.leaguevine.com/tournaments/19389/autumn-2013/](https://www.leaguevine.com/tournaments/19389/autumn-2013/)  
 
 ##4. Terugkijken - 10 minuten (200/200)
 **Materiaal** - 
