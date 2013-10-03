@@ -71,15 +71,15 @@ Wat gaan we maken? **Een Score App voor een frisbee toernooi.**
 
 - [Wat is frisbee?](https://www.youtube.com/watch?v=O-6mHYXyd9s&list=PL6A2F23BA889D1D37)
 - [Wat is Windmill Windup?](https://vimeo.com/10879232)
-- Hoe moet een score app werken en hoe ziet die eruit? 
+- Hoe moet een score app werken en hoe ziet zoiets eruit? 
 	1. [Realiteit van een frisbee toernooi](http://www.youtube.com/watch?v=SHCKGJr4ols&feature=player_embedded#t=0)
-	2. Gebruikers scenario: 
+	2. Gebruikers scenario (welke funtionaliteiten heb je nodig): 
 		- scores moeten meteen binnen zijn voor de volgende wedstrijden
 		- live scores worden gevolgd door anders spelers en publiek
 		- Scores en schedule worden bekeken door teams. (vergelijken van scores, teams, ranking?)
 	3. [Welke pagina's?](https://m.leaguevine.com/)
 	4. Probleem met netwerk, verbinding = local cache en synchronisatie
-	
+
 
 
 ##4. Terugkijken - 10 minuten (200/200)
@@ -133,7 +133,12 @@ Wie doen de Weekly Nerd voor les 6
 	
 
 	Klas 2
-	- 
+	- Lars
+	- mark
+	- Jip
+	- Claire
+	- Frank
+	
 		
 
 Wie doen de Weekly Nerd voor les 7
@@ -147,7 +152,12 @@ Wie doen de Weekly Nerd voor les 7
 	
 
 	Klas 2
-	- 
+	- Marciano
+	- Lex
+	- Mehdi
+	- Steve
+	- Yarich
+	- Benjamin
 
 
 
