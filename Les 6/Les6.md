@@ -1,10 +1,10 @@
 CMDA201314-Fed2 Les 6
 =====================
 
-#Les 6: Data Post
+#Les 6: When all else fails, manipulate the data
 **Aan de slag met data: Post data naar de server met Ajax en een Api**
 
-[tShirt](http://www.)
+[tShirt](http://www.prettygoodgoods.org/products/117501-manipulate-the-data-tshirt)
 
 ###Docenten
 * Koop Reynders k.g.reynders@hva.nl   
