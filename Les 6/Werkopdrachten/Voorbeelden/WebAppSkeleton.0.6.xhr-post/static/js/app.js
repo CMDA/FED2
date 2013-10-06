@@ -25,7 +25,7 @@ var APP = APP || {};
 
 			// Set request headers
 			xhr.setRequestHeader('Content-type','application/json');
-			xhr.setRequestHeader('Authorization','bearer 82996312dc');
+			xhr.setRequestHeader('Authorization','bearer [access token]');
 			
 			// Send request (with data as a json string)
 			xhr.send(postData);
