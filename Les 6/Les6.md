@@ -78,10 +78,33 @@ Om de performance van je Web App te verbeteren kan je data in/uit localStorage o
 **Opstelling** -  
 
 **Lesdoelen: Wat hebben we behandeld? **
+Zie lesdoelen:
+
+1. Weekly Nerd: Wat is Frontend development? 
+2. Leren werken met API's, JSON en AJAX 
+3. Data updaten op de server
+
 
 **Werkwijze en planning van het vak**
 
+Je hebt nu een webapp die data van Leaguevie gebruikt. De webapp bestaat uit de 'pagina's' (lees: onderdelen)
+
+1. Schedule pagina (hoe laat speelt wie tegen wie?)
+2. Game/scoring pagina (scores bijhouden van een wedstrijd)
+3. Ranking/Pool pagina (lijst teams in een pool)
+
+
 **Huiswerk aankondigen**
+
+Huiswerk: Werkopdracht 12.1 & 12.2 van les 6 afmaken. Lesopdracht data posten. 
+
+Tip: Werk je Webapp uit in een breakdown. 
+
+- Uit welke onderdelen bestaat je Webapp? Werk een screen flow uit en een technische breakdown:
+	- Hoe kom je per 'pagina' aan de data die je nodig hebt? Welke call doe je naar de Leaguevine API? 
+	- Als je een POST score doet welke informatie heb je dan nodig? game_id, team_1_score, team_2_score, is_final (boolean)
+	- Als je een score post heb je een acces_token nodig. Gebruik deze 82996312dc
+
 
 
 
