@@ -105,7 +105,7 @@ Wie doen de Weekly Nerd voor les 7
 	- Milan
 	- Bart Simons
 	- Mail leenarts
-	- Justin (?)
+	- Justin
 	
 	Klas 2
 	- Marciano
@@ -114,6 +114,18 @@ Wie doen de Weekly Nerd voor les 7
 	- Steve
 	- Yarich
 	- Benjamin
+	
+Wie doet de Weekly Nerd voor les 8?
+
+	Klas 1
+	- volgende week afspreken
+	-
+
+	Klas 2
+	- Sjoerd V
+	- Ted
+	- 
+	
 
 
 Huiswerk: Werkopdracht 12.1 & 12.2 van les 6 afmaken. (Lesopdracht data posten) Begin van les 7 gaan we deze opdracht bespreken. Daarna gaan we aan de interface klussen
@@ -125,6 +137,19 @@ Tip: Werk je Webapp uit in een breakdown.
 	- Hoe kom je per 'pagina' aan de data die je nodig hebt? Welke call doe je naar de Leaguevine API? 
 	- Als je een POST score doet welke informatie heb je dan nodig? game_id, team_1_score, team_2_score, is_final (boolean)
 	- Als je een score post heb je een acces_token nodig. Gebruik deze 82996312dc
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
