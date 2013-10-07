@@ -137,7 +137,7 @@ Wie doen de Weekly Nerd voor les 6
 	- mark
 	- Jip
 	- Claire
-	- Frank
+	- Frank K
 	
 		
 
@@ -148,7 +148,10 @@ Wie doen de Weekly Nerd voor les 7
 	- Roan
 	- Sander
 	- Milan
-	- Justin
+	- Bart Simons
+	- Mail leenarts
+	- Justin (?)
+	
 	
 
 	Klas 2

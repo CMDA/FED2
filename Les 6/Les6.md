@@ -96,6 +96,26 @@ Je hebt nu een webapp die data van Leaguevie gebruikt. De webapp bestaat uit de 
 
 **Huiswerk aankondigen**
 
+Wie doen de Weekly Nerd voor les 7
+
+	Klas 1
+	- Paul
+	- Roan
+	- Sander
+	- Milan
+	- Bart Simons
+	- Mail leenarts
+	- Justin (?)
+	
+	Klas 2
+	- Marciano
+	- Lex
+	- Mehdi
+	- Steve
+	- Yarich
+	- Benjamin
+
+
 Huiswerk: Werkopdracht 12.1 & 12.2 van les 6 afmaken. (Lesopdracht data posten) Begin van les 7 gaan we deze opdracht bespreken. Daarna gaan we aan de interface klussen
 
 

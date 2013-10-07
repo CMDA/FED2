@@ -215,34 +215,38 @@ Aanstaande donderdag heb je een Web app skeleton. Tijdens les 5 gaan we leren me
 Weekly Nerd [les 5](http://weeklynerd.tumblr.com/tagged/fed1314)
 
 
-Redactie Klas 1, Les 5
-Gavin
-.. ?
+**Redactie Les 5**
+
+	Klas 1
+	- Gavin
+	- ..
 
 
-
-Redactie Klas 1, Les 6
-Jeffrey
-Ivo
-Raymond
-.. ?
-
-
-Redactie Klas 2, Les 5
-Ron
-Marvin
-David
-Jesse
-Jeffrey
+	Klas 2
+	- Ron
+	- Marvin
+	- David
+	- Jesse
+	- Jeffrey
 
 
-Redactie Klas 2, Les 6
-Lars
-Jip
-Frank
-Claire
-Mark H
+**Redactie Les 6**
 
+	Klas 1
+	- Alexander
+	- Sjors
+	- Michael G
+	- Rilli
+	- Shiresh
+	
+
+	Klas 2
+	- Lars
+	- mark
+	- Jip
+	- Claire
+	- Frank K
+	
 
 
 
