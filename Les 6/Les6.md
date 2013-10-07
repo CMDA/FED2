@@ -16,8 +16,10 @@ CMDA201314-Fed2 Les 6
 
 ###Lesdoelen
 
-1. 
-
+1. Weekly Nerd: Wat is Frontend development? 
+2. Leren van data posten naar een server
+3. Asynchroon laden en posten van data
+4. Technische implicaties begrijpen van synchronisatie van extern gemanipuleerde data
 
 
 ###Programma (200 minuten)
@@ -49,6 +51,10 @@ CMDA201314-Fed2 Les 6
 ###Opdrachten
 
 ####11.3: 
+Hoe kun je JSON  data extern ophalen
+en 
+Hoe organiseer je deze data in je Webapp
+Wat komt waar te staan? verschillende concepten
 
 
 ##2. De Weekly Nerd - 30 minuten (70/200)
