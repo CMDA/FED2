@@ -96,11 +96,12 @@ Je hebt nu een webapp die data van Leaguevie gebruikt. De webapp bestaat uit de 
 
 **Huiswerk aankondigen**
 
-Huiswerk: Werkopdracht 12.1 & 12.2 van les 6 afmaken. Lesopdracht data posten. 
+Huiswerk: Werkopdracht 12.1 & 12.2 van les 6 afmaken. (Lesopdracht data posten) Begin van les 7 gaan we deze opdracht bespreken. Daarna gaan we aan de interface klussen
+
 
 Tip: Werk je Webapp uit in een breakdown. 
 
-- Uit welke onderdelen bestaat je Webapp? Werk een screen flow uit en een technische breakdown:
+- Uit welke onderdelen bestaat je Webapp? Werk een screen flow uit én een technische breakdown:
 	- Hoe kom je per 'pagina' aan de data die je nodig hebt? Welke call doe je naar de Leaguevine API? 
 	- Als je een POST score doet welke informatie heb je dan nodig? game_id, team_1_score, team_2_score, is_final (boolean)
 	- Als je een score post heb je een acces_token nodig. Gebruik deze 82996312dc
