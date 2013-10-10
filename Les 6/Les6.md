@@ -99,13 +99,13 @@ Je hebt nu een webapp die data van Leaguevie gebruikt. De webapp bestaat uit de 
 Wie doen de Weekly Nerd voor les 7
 
 	Klas 1
-	- Paul
-	- Roan
-	- Sander
-	- Milan
-	- Bart Simons
-	- Mail leenarts
-	- Justin
+	- Bart simons
+	- Maik Leenarts
+	- Sander Verwaart
+	- Roan Zuman
+	- Milan Basink
+	- Paul rookhuizen
+	- Justin (?)
 	
 	Klas 2
 	- Marciano

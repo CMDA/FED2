@@ -138,21 +138,18 @@ Wie doen de Weekly Nerd voor les 6
 	- Jip
 	- Claire
 	- Frank K
-	
 		
 
 Wie doen de Weekly Nerd voor les 7
 
 	Klas 1
-	- Paul
-	- Roan
-	- Sander
-	- Milan
-	- Bart Simons
-	- Mail leenarts
+	- Bart simons
+	- Maik Leenarts
+	- Sander Verwaart
+	- Roan Zuman
+	- Milan Basink
+	- Paul rookhuizen
 	- Justin (?)
-	
-	
 
 	Klas 2
 	- Marciano
