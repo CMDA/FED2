@@ -6,6 +6,8 @@ CMDA201314-Fed2 Les 7
 
 [tShirt Kss My CSS](http://www.neatoshop.com/product/Kiss-My-CSS)
 
+les 7 gaat over het programmeren van de interface en interactiepatronen. In de les werk je verder aan de eindopdracht en gaan we een screen-flow en technische breakdown maken. Hoe komt een gebruiker van de ene state naar de andere? Hoe programmeer je feedback als je met Ajax data van de server ophaalt en je moet wachten?
+
 
 ###Docenten
 * Koop Reynders k.g.reynders@hva.nl   
