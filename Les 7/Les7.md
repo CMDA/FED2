@@ -111,8 +111,60 @@ en hoe goed snappen ze alles, schaal 1,2,3,4,5
 
 **Lesdoelen: Wat hebben we behandeld? **
 
+2. Data updaten op de server - gebruik pool id & filters !
+3. Feedback scripten - als je a-synchroon (ajax) data gaat ophalen geef dan feedback terug aan de gebruiker
+4. Interface patronen toepassen <<< ? hoe ver ben jij? Je hebt nu een Screen flow en Technische breakdown.
+
+
+
+
 **Werkwijze en planning van het vak**
 
+Les 8 gaan we verder met voorbeelden van Interface en interactie patronen.
+
+In les 8 doen we ook een code review via Github. Al je code moet op Github staan (Alexander!)
+
+Volgende week maandag 21 oktober klussen? Wie?
+
+
+Eindopdracht:
+Een mobile WebApp
+die minimaal bestaat uit 3 delen:
+
+- Schedule
+- Pool/ranking 
+- Game/score
+
+De data voor de WebApp komt van het toernooi 'Autumn 2013' die op Leaguevine wordt gehost.
+
+De code van de WebApp is gestructureerd opgebouwd. Er is gebruik gemaakt van de verschillende design principes en best practices die in de lessen zijn behandeld, bijvoorbeeld namespace, controler, page render, change, events en een data object. De data die je gebruikt wordt geladen en gepost met behulp van ajax en json-data. In je code maak je gebruik van duidelijke //comments en je kan laten zien hoe je de Console gebruikt in je werk process en hoe de Network werkt in de Inspect elements
+
+De benodigde functionaliteiten heb je uitgewerkt in een screen flow en technische breakdown. De functionaliteiten heb je geprogrammeerd met behulp van verschillende js micro libraries, bijvoorbeeld een dom-ready library, templating, selector engine en interface/interactie api's.
+
+Naast bovenstaande zit in de WebApp minimaal:
+
+- Feedback naar de gebruiker als je data laadt, bv loading feedback of een tekstuele feedback als er wordt gesynchroniseerd
+- Functionele animatie, bv een  Scroll-to navigatie van page naar page
+- Gebruik van een gesture navigatie, bv swipe om games te scoren of  
+
+
+
+
+
+
 **Huiswerk aankondigen**
+
+Minimaal 3 'paginas' renderen met Leaguevine data
+	Get data
+	Post gamescore
+	Feedback
+
+Webapp moet het doen op je mobiel!
+
+Hoe ga je van pagina naar pagina? scroll-to-navigate
+Animaties toevoegen? page-flipper
+Data synchroniseren? pull-to-refresh
+
+
 
 
