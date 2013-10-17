@@ -5,9 +5,14 @@ CMDA201314-Fed2 Les 8
 *Interface & Interactiepatronen*
 
 [tShirt Got Code?](http://www.zazzle.com/got_code_shirt-235181433578776102)
+les 8 gaat over het programmeren van de interface en interactiepatronen. In de les werk je verder aan de eindopdracht en gaan we functionele animaties en gestures implementeren. 
+
+[T-Shirt It must be User error](http://www.zazzle.com/it_must_be_user_error_tees-235797644708160457)
+Ook gaan we tijd besteden aan een Code review. Doet je Webapp het? 
 
 
-[T-Shirt It must be User error](http://www.thinkgeek.com/product/59fe/)
+
+
 
 
 ###Docenten
@@ -31,6 +36,22 @@ CMDA201314-Fed2 Les 8
 
 ##0. Voorbereiden voor deze les
 **Huiswerk voor deze les:**
+
+* Weekly Nerd [les 8](http://weeklynerd.tumblr.com/tagged/fed1314)
+
+* Je hebt minimaal 3 'paginas' die gerendered worden met Leaguevine data
+	- Schedule
+	- Pool/ranking 
+	- Game/score
+	
+* Je hebt een postscore functionaliteit
+
+* Je hebt feedback naar de user als er data wordt gestuurd en/of opgehaald van Leaguevine
+
+* Interface & interactie programmeren. Webapp moet het doen op je mobiel!
+	- Hoe ga je van pagina naar pagina? scroll-to-navigate
+	- Animaties toevoegen? page-flipper
+	- Data synchroniseren? pull-to-refresh
 
 
 

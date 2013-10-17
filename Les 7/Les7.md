@@ -122,49 +122,49 @@ en hoe goed snappen ze alles, schaal 1,2,3,4,5
 
 Les 8 gaan we verder met voorbeelden van Interface en interactie patronen.
 
-In les 8 doen we ook een code review via Github. Al je code moet op Github staan (Alexander!)
+In les 8 doen we ook een code review via Github. Al je code moet op Github staan
 
-Volgende week maandag 21 oktober klussen? Wie?
+Volgende week maandag 21 oktober klusles van 1000-1400
 
 
-Eindopdracht:
-Een mobile WebApp
-die minimaal bestaat uit 3 delen:
+De **eindopdracht**: is een WebApp voor de mobiel die minimaal bestaat uit 3 delen:
 
 - Schedule
 - Pool/ranking 
 - Game/score
 
-De data voor de WebApp komt van het toernooi 'Autumn 2013' die op Leaguevine wordt gehost.
+De data voor de WebApp komt van het toernooi '[Autumn 2013](https://www.leaguevine.com/tournaments/19389/autumn-2013/pools/)' dat op Leaguevine wordt gehost.
 
-De code van de WebApp is gestructureerd opgebouwd. Er is gebruik gemaakt van de verschillende design principes en best practices die in de lessen zijn behandeld, bijvoorbeeld namespace, controler, page render, change, events en een data object. De data die je gebruikt wordt geladen en gepost met behulp van ajax en json-data. In je code maak je gebruik van duidelijke //comments en je kan laten zien hoe je de Console gebruikt in je werk process en hoe de Network werkt in de Inspect elements
+De code van de WebApp is gestructureerd opgebouwd. Er is gebruik gemaakt van de verschillende design principes en best practices die in de lessen zijn behandeld, bijvoorbeeld namespace, controler, page render, change, events en een data object. De data die je gebruikt wordt geladen en gepost met behulp van ajax en json-data. In je code maak je gebruik van duidelijke comments en je kan laten zien hoe je de Console gebruikt in je werkprocess en hoe de Network werkt in de Inspect elements
 
 De benodigde functionaliteiten heb je uitgewerkt in een screen flow en technische breakdown. De functionaliteiten heb je geprogrammeerd met behulp van verschillende js micro libraries, bijvoorbeeld een dom-ready library, templating, selector engine en interface/interactie api's.
 
 Naast bovenstaande zit in de WebApp minimaal:
 
-- Feedback naar de gebruiker als je data laadt, bv loading feedback of een tekstuele feedback als er wordt gesynchroniseerd
-- Functionele animatie, bv een  Scroll-to navigatie van page naar page
-- Gebruik van een gesture navigatie, bv swipe om games te scoren of  
-
-
+- Feedback naar de gebruiker als je data laadt, bv loading feedback of een tekstuele feedback als er json-data wordt gesynchroniseerd
+- Functionele animatie, bv een  Scroll-to navigatie voor elke state
+- Gebruik van een gesture navigatie, bv swipe om games te scoren
 
 
 
 
 **Huiswerk aankondigen**
 
-Minimaal 3 'paginas' renderen met Leaguevine data
-	Get data
-	Post gamescore
-	Feedback
+* Je hebt minimaal 3 'paginas' die gerendered met Leaguevine data
+	
+	- Schedule
+	- Pool/ranking 
+	- Game/score
+	
+* Je hebt een postscore functionaliteit
 
-Webapp moet het doen op je mobiel!
+* Je hebt feedback naar de user als er data wordt gestuurd en/of opgehaald van Leaguevine
 
-Hoe ga je van pagina naar pagina? scroll-to-navigate
-Animaties toevoegen? page-flipper
-Data synchroniseren? pull-to-refresh
 
+* Interface & interactie programmeren. Webapp moet het doen op je mobiel!
+	- Hoe ga je van pagina naar pagina? scroll-to-navigate
+	- Animaties toevoegen? page-flipper
+	- Data synchroniseren? pull-to-refresh
 
 
 
