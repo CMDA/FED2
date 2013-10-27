@@ -96,15 +96,11 @@ en hoe goed snappen ze alles, schaal 1,2,3,4,5
 - Technsiche breakdown: Hoe kom je per 'pagina' aan de data die je nodig hebt? Hoe ziet je data object eruit? Welke call doe je naar de Leaguevine API? Welke informatie heb je dan nodig? game_id, team_1_score, team_2_score, is_final (boolean)? 
 
 
-####14: Scroll-to navigatie
+####14: Interactie patronen toepassen
 
-
-####15: Page-flipper
-
-
-####16: Pull-to-refresh
-
-
+* Scroll to navigatie
+* Page-flipper
+* Pull-to-refresh
 
 
 ##4. Terugkijken - 10 minuten (200/200)

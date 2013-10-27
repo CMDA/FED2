@@ -11,10 +11,6 @@ les 8 gaat over het programmeren van de interface en interactiepatronen. In de l
 Ook gaan we tijd besteden aan een Code review. Doet je Webapp het? 
 
 
-
-
-
-
 ###Docenten
 * Koop Reynders k.g.reynders@hva.nl   
 * Joost Faber j.faber@hva.nl  
@@ -23,13 +19,17 @@ Ook gaan we tijd besteden aan een Code review. Doet je Webapp het?
 
 ###Lesdoelen
 
-1. 
+1. Code review
+2. Interactie patronen toepassen
+3. JavaScript performance optimalisaties
+4. Weekly Nerd, wat is een Front-End Developer
 
 
 
 ###Programma (200 minuten)
 1. Huishoudelijke mededelingen (10)
-2. Weekly Nerd (30) 
+2. Opdrachten bespreken (30)
+3. Weekly Nerd (30) 
 3. Werkopdrachten (100)
 4. Terugkijken (10) 
 
@@ -66,7 +66,11 @@ Ook gaan we tijd besteden aan een Code review. Doet je Webapp het?
 
 ###Opdrachten
 
-####8: 
+####14: Interactie patronen toepassen
+
+* Scroll to navigatie
+* Page-flipper
+* Pull-to-refresh
 
 
 ##2. De Weekly Nerd - 30 minuten (70/200)
@@ -83,7 +87,27 @@ Ook gaan we tijd besteden aan een Code review. Doet je Webapp het?
 
 ###Opdrachten
 
-####9: 
+####15: Code review via Github
+Review elkaars code in tweetallen via Github. Doe dit door middel van Pull Request. De code review (uitvoeren/ontvangen) is een AVV voor de eindtoets.
+
+Let bij de code review op o.a. deze best practices:
+
+* Don't use global variables/objects
+* Use short clear (meaningful) names
+* Constructor function start with capital
+* Constants with all captials
+* camelCase the rest
+* Place external scripts at the bottom of the page
+* Comment your code
+* Indent your code
+* ["Best Practices for a Faster Web App with HTML5"](http://www.html5rocks.com/en/tutorials/speed/quick/)
+
+####16: Tweak 'n Tune de interface
+Verder werken aan de interface en interactie patronen
+
+####17: JavaScript performance optimalisaties (extra)
+* Experimenteer met de mogelijkheden van de HTML 5 api's [LocalStorage](http://www.html5rocks.com/en/tutorials/offline/whats-offline/) en [Webworkers](http://www.html5rocks.com/en/tutorials/workers/basics/)
+* Algemene performance optimalisaties voor het web: ["Make The Web Faster"](https://developers.google.com/speed/articles/)
 
 
 
