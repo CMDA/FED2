@@ -108,6 +108,7 @@ Verder werken aan de interface en interactie patronen
 ####17: JavaScript performance optimalisaties (extra)
 * Experimenteer met de mogelijkheden van de HTML 5 api's [LocalStorage](http://www.html5rocks.com/en/tutorials/offline/whats-offline/) en [Webworkers](http://www.html5rocks.com/en/tutorials/workers/basics/)
 * Algemene performance optimalisaties voor het web: ["Make The Web Faster"](https://developers.google.com/speed/articles/)
+* En een advanced article: ["Improving the Performance of your HTML5 App"](http://www.html5rocks.com/en/tutorials/speed/html5/)
 
 
 
