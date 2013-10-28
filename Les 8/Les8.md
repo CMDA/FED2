@@ -90,6 +90,18 @@ Ook gaan we tijd besteden aan een Code review. Doet je Webapp het?
 ####15: Code review via Github
 Review elkaars code in tweetallen via Github. Doe dit door middel van Pull Request. De code review (uitvoeren/ontvangen) is een AVV voor de eindtoets.
 
+Review elkaars code via Github.
+
+Reviewer:
+
+Ga naar project/repository van peer programmer op Guthub
+Open het bestand dat je wil reviewen
+Bestudeer de code
+Kies 'Edit' om aanpassingen te kunnen doen
+Na eventuele aanpassingen voeg je onderaan een beschrijving van de aanpassing toe en kies je voor 'Propose file change'
+Kies vervolgens 'Send pull request'
+Code monkie: 1. In je mail heb je een notificatie gekregen met een voorstel voor een aanpassing aan een bestand (een 'Pull request'). Volg de link 2. Bekijk of je de aanpassing wil doorvoeren ('File changes') 3. Merge de pull request 4.
+
 Let bij de code review op o.a. deze best practices:
 
 * Don't use global variables/objects
