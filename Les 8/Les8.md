@@ -94,13 +94,18 @@ Review elkaars code via Github.
 
 Reviewer:
 
-Ga naar project/repository van peer programmer op Guthub
-Open het bestand dat je wil reviewen
-Bestudeer de code
-Kies 'Edit' om aanpassingen te kunnen doen
-Na eventuele aanpassingen voeg je onderaan een beschrijving van de aanpassing toe en kies je voor 'Propose file change'
-Kies vervolgens 'Send pull request'
-Code monkie: 1. In je mail heb je een notificatie gekregen met een voorstel voor een aanpassing aan een bestand (een 'Pull request'). Volg de link 2. Bekijk of je de aanpassing wil doorvoeren ('File changes') 3. Merge de pull request 4.
+1. Ga naar project/repository van peer programmer op Github  
+2. Open het bestand dat je wil reviewen  
+3. Bestudeer de code  
+4. Kies 'Edit' om aanpassingen te kunnen doen 
+5. Na eventuele aanpassingen voeg je onderaan een beschrijving van de aanpassing toe en kies je voor 'Propose file change'  
+6. Kies vervolgens 'Send pull request'  
+
+Code monkie:  
+ 
+1. In je mail heb je een notificatie gekregen met een voorstel voor een  aanpassing aan een bestand (een 'Pull request'). Volg de link   
+2. Bekijk of je de aanpassing   wil doorvoeren ('File changes')   
+3. Merge de pull request  
 
 Let bij de code review op o.a. deze best practices:
 
