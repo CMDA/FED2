@@ -186,7 +186,7 @@ Het tentamen bestaat uit 5 vragen over de stof. De Duur van de toets is maximaal
 Per vraag krijg je een definitie/uitleg vraag en een inzicht vraag.
 
 Bijvoorbeeld:
-Voorbeeld vraag: Over het artikel [Responsive Workflow van Mark Boulton]()
+Voorbeeld vraag: Over het artikel [Responsive Workflow van Mark Boulton](http://www.markboulton.co.uk/journal/responsive-summit-workflow)
 1 - a) De schrijver vertelt op een gegeven moment dat de ‘oude’ workflow (ontwerp methode) voor het vormgeven van een webpagina niet werkt voor responsive design. Hoe heet deze manier van werken en wat houdt deze oude workflow precies in?
 1 - b) Waar ligt volgens Mark Boulton het probleem binnen deze workflow? En leg uit of je hier mee eens bent en waarom.
 
