@@ -129,10 +129,64 @@ Verder werken aan de interface en interactie patronen
 **Materiaal** - 
 **Opstelling** -  
 
-**Lesdoelen: Wat hebben we behandeld? **
+**Lesdoelen: Wat hebben we behandeld in de hele reeks? **
 
-**Werkwijze en planning van het vak**
+[Intentie van het vak](http://intra.iam.hva.nl/content/1314/verdieping2/frontend_2/studiegids/)
 
-**Huiswerk aankondigen**
+Ook willen we je kennis en vaardigheden bieden om je verder te ontwikkelen als [Frontend developer](http://intra.iam.hva.nl/content/algemeen/beroepsrollen/frontend_developer/) Ook door deuren open te zetten naar meer literatuur, tools, werkmethoden, werkwijzen …
 
+Wat is een Frontend developer
+
+Maar ook, als je de sprong hebt gewaagd, om nog beter te worden als  [interaction designer](http://intra.iam.hva.nl/content/algemeen/beroepsrollen/interaction_designer/) en/of [Interface designer](http://intra.iam.hva.nl/content/algemeen/beroepsrollen/visual_interface_designer/) en misschien zelfs [Content designer](http://intra.iam.hva.nl/content/algemeen/beroepsrollen/content_manager/)
+Een CMD-er is breed opgeleid, weet heel veel van het WEB en kan het, zo nodig ook MAKEN. Eigen prototypes. Respopnsive design realiseren in de browser, interactie patronen maken, UX+ animatie scripten in je interface
+
+Op de opleiding CMDA leer je alles over het ontwerpen van online interactieve media.  
+Dit betekent het **BEGRIJPEN**, **BEDENKEN** en **MAKEN** van online interactieve media toepassingen zoals websites, mobiele applicaties en interactieve televisie.
+
+
+
+
+
+
+**Criteria eindopdracht voor mondeling**
+
+**Eindopdracht**
+
+De eindopdracht: is een WebApp voor de mobiel die minimaal bestaat uit 3 delen:
+
+ - Schedule
+ - Pool/ranking 
+ - Game/score
+	
+De data voor de WebApp komt van het toernooi [Autumn 2013](https://www.leaguevine.com/tournaments/19389/autumn-2013/) dat op Leaguevine wordt gehost.
+
+De code van de WebApp is gestructureerd opgebouwd. Er is gebruik gemaakt van de verschillende design principes en best practices die in de lessen zijn behandeld, bijvoorbeeld namespace, controler, page render, change, events en een data object. De data die je gebruikt wordt geladen en gepost met behulp van ajax en json-data. 
+
+In je code maak je gebruik van duidelijke comments en je kan laten zien hoe je de Console gebruikt in je werkprocess en hoe de Network werkt in de Inspect elements
+
+De benodigde functionaliteiten heb je uitgewerkt in een screen flow en technische breakdown. 
+
+De functionaliteiten heb je geprogrammeerd met behulp van verschillende js micro libraries, bijvoorbeeld een dom-ready library, templating, selector engine en interface/interactie api's.
+
+Naast bovenstaande zit in de WebApp minimaal:
+
+ - Feedback naar de gebruiker als je data laadt, bv loading feedback of een tekstuele feedback als er json-data wordt geladen
+ - Functionele animatie, bv een  Scroll-to navigatie voor elke state
+ - Gebruik van een gesture navigatie, bv swipe om games te scoren
+
+
+
+**Aankondiging tentamen**
+
+Als je geen redactie hebt gedaan en/of je hebt meer dan 1 keer niet gepresteerd tijdens de Weekly Nerd moet je een tentamen doen over de artikelen die zijn besproken. Op Moodle staat een lijst met studenten die het tentamen moeten doen.
+
+Voor klas 1 moeten alle artikelen worden gelezen op de [Tumblr van klas 1](http://weeklynerd.tumblr.com/tagged/klas1) en voor klas 2 die artikelen die zijn getagged met [klas 2](http://weeklynerd.tumblr.com/tagged/klas2)
+
+Het tentamen bestaat uit 5 vragen over de stof. De Duur van de toets is maximaal 150 minuten je mag aantekeningen erbij houden. Tijdens het tentamen is het niet toegestaan te communiceren met je telefoon, laptop, tablet of ander apparaat.
+Per vraag krijg je een definitie/uitleg vraag en een inzicht vraag.
+
+Bijvoorbeeld:
+Voorbeeld vraag: Over het artikel [Responsive Workflow van Mark Boulton]()
+1 - a) De schrijver vertelt op een gegeven moment dat de ‘oude’ workflow (ontwerp methode) voor het vormgeven van een webpagina niet werkt voor responsive design. Hoe heet deze manier van werken en wat houdt deze oude workflow precies in?
+1 - b) Waar ligt volgens Mark Boulton het probleem binnen deze workflow? En leg uit of je hier mee eens bent en waarom.
 

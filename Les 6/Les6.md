@@ -124,7 +124,10 @@ Wie doet de Weekly Nerd voor les 8?
 	Klas 2
 	- Sjoerd V
 	- Ted
-	- 
+	- Marijke
+	- Rowan
+
+
 	
 
 
