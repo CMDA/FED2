@@ -180,7 +180,7 @@ Naast bovenstaande zit in de WebApp minimaal:
 
 Als je geen redactie hebt gedaan en/of je hebt meer dan 1 keer niet gepresteerd tijdens de Weekly Nerd moet je een tentamen doen over de artikelen die zijn besproken. Op Moodle staat een lijst met studenten die het tentamen moeten doen.
 
-Voor klas 1 moeten alle artikelen worden gelezen op de [Tumblr van klas 1](http://weeklynerd.tumblr.com/tagged/klas1) en voor klas 2 die artikelen die zijn getagged met [klas 2](http://weeklynerd.tumblr.com/tagged/klas2)
+Voor klas 1 moeten alle artikelen worden gelezen op de Weekly Nerd blog van  [klas 1](http://weeklynerd.tumblr.com/tagged/klas1) en voor klas 2 de artikelen die zijn getagged met [klas 2](http://weeklynerd.tumblr.com/tagged/klas2)
 
 Het tentamen bestaat uit 5 vragen over de stof. De Duur van de toets is maximaal 150 minuten je mag aantekeningen erbij houden. Tijdens het tentamen is het niet toegestaan te communiceren met je telefoon, laptop, tablet of ander apparaat.
 Per vraag krijg je een definitie/uitleg vraag en een inzicht vraag.
