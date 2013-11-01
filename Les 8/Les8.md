@@ -190,3 +190,15 @@ Voorbeeld vraag: Over het artikel [Responsive Workflow van Mark Boulton](http://
 1 - a) De schrijver vertelt op een gegeven moment dat de ‘oude’ workflow (ontwerp methode) voor het vormgeven van een webpagina niet werkt voor responsive design. Hoe heet deze manier van werken en wat houdt deze oude workflow precies in?
 1 - b) Waar ligt volgens Mark Boulton het probleem binnen deze workflow? En leg uit of je hier mee eens bent en waarom.
 
+
+**intranet mededeling**
+
+Beste studenten, FED 2 is bijna voorbij.
+
+Aanstaande maandag is het mondeling voor de eindopdracht. je kan je hiervoor inschrijven in Moodle. De criteria staan in het lesprogramma op Github en op de vakpagina.
+
+Volgende week donderdag is het tentamen voor de studenten die meer dan 1 sessie hebben gemist van de Weekly Nerd sessies en/of die geen redactie hebben gedaan. Op Moodle staat ene lijst met studenten voor wie dit geldt.
+
+groeten en succes !
+Koop en Joost
+
