@@ -31,7 +31,7 @@ Ook gaan we tijd besteden aan een Code review. Doet je Webapp het?
 2. Opdrachten bespreken (30)
 3. Weekly Nerd (30) 
 3. Werkopdrachten (100)
-4. Terugkijken (10) 
+4. Terugkijken (30) 
 
 
 ##0. Voorbereiden voor deze les
@@ -73,14 +73,27 @@ Ook gaan we tijd besteden aan een Code review. Doet je Webapp het?
 * Pull-to-refresh
 
 
-##2. De Weekly Nerd - 30 minuten (70/200)
+##3. De Weekly Nerd - 30 minuten (70/200)
 **Materiaal:** Naambordje, 
 **Opstelling:** Tafels in de een rondevorm
 
+**Klas 1 leest:** [NodeJS, TDD & Angular](http://weeklynerd.tumblr.com/post/64212621122/nodejs-tdd-angular)
+
+- [Node.js and the new web front-end](http://www.nczonline.net/blog/2013/10/07/node-js-and-the-new-web-front-end/)
+- [Why Node.js rocks the middle-end](http://blog.getify.com/why-node-js-rocks-the-middle-end/)
+- [Discussion on Test Driven Development at SDC2010](http://emilybache.blogspot.nl/2010/03/discussion-on-tdd-at-sdc2010.html)
+- [AngularJS: 6 Common Pitfalls Using Scopes](http://thenittygritty.co/angularjs-pitfalls-using-scopes)
+- [Data Binding in Angular](http://docs.angularjs.org/guide/dev_guide.templates.databinding)
+
+**Klas 2 leest:** [Frontend de beroepsrol](http://weeklynerd.tumblr.com/post/65227938799/frontend-de-beroepsrol)
+
+- [A day in the life of a front-end developer](https://medium.com/front-end-development/62bff4cf52a6)
+- [A Baseline for Front-End Developers](http://rmurphey.com/blog/2012/04/12/a-baseline-for-front-end-developers/)
+- [GitHub For Beginners: Don't Get Scared, Get Started](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1#awesm=~olifScVPEHffro)
+- [The best career advice I’ve received](http://www.nczonline.net/blog/2013/10/15/the-best-career-advice-ive-received/)
 
 
-
-##3. Werkopdrachten - 120 minuten (190/200)
+##4. Werkopdrachten - 100 minuten (190/200)
 **Materiaal:** Laptop, beamer, internet
 **Opstelling:** Werkeilanden
 
@@ -130,11 +143,11 @@ Verder werken aan de interface en interactie patronen
 
 
 
-##4. Terugkijken - 10 minuten (200/200)
+##5. Terugkijken - 20 minuten (200/200)
 **Materiaal** - 
 **Opstelling** -  
 
-**Lesdoelen: Wat hebben we behandeld in de hele reeks? **
+**Lesdoelen: Wat hebben we behandeld in de hele reeks?**
 
 [Intentie van het vak](http://intra.iam.hva.nl/content/1314/verdieping2/frontend_2/studiegids/)
 

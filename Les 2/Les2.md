@@ -91,41 +91,22 @@ Lesdoelen en programma van vandaag doorspreken.
 
 ##3. De Weekly Nerd - 30 minuten (65/200)
 **Materiaal:** -
-**Opstelling:** klas in 2 groepen? 2 grote eilanden
+**Opstelling:** klas in 2 of 3 groepen 2 grote eilanden en in de Medialounge
 
 **Weekly Nerd blog over de toekomst van webdevelopment**
 
-**[Concept to Code : Code literacy in UX](http://uxmag.com/articles/concept-to-code)**
-Waar ging dit ook alweer over?
-Code literacy: the ability to identify, understand, interpret, create, communicate, and use rules that shape and reshape information in order to participate fully in the creation of new information == UX professionals
-How Literate Should We Be?
-not all of us need to master visual design === not all of us need to master code
-We should also take care to understand the principles of code
-- The enthusiast
-- The mash-up artist
-- The inventor
-- The wizard
-Ways to Start Thinking About Code
-- Code as pattern
-- Code as material
-- Code as narrative
-- Code as play
+Klas 1 en 2 lezen: [(Future++ == JavaScript) ? true (klas 1 en klas 2 - les 2)](http://weeklynerd.tumblr.com/tagged/les2)
+De eerste post van de Weekly Nerd over de Frontend developer, 3 (belangrijke) artikelen van het V1 vak Frontend development en de toekomst van webdev technieken. Waarom gaan we eigenelijk Javascript behandelen in deze lessenreeks?
 
-Code as pattern / Code as material:
-**[Is JavaScript de toekomst van Frontend development?](http://mashable.com/2012/11/12/javascript/)** Waarom is in deze lessenreeks gekozen voor JavaScript? 
-In het artikel staat: "JavaScript is the programming language that makes a website interactive"
-en "JavaScript is the only client-side scripting language"
-en "JavaScript Runs in a browser, you don’t need to download software to use it"
+Artikelen
 
-In de commentaren is te lezen: "JavaScript, so it’s not just a web scripting language"
-Maar ook "I don’t even understand how we came to this. Javascript is a primitive combination of functional, procedural and object orientated programming, while doing all of those BADLY. Why can’t we just use C# or Java for client side?"
+- [Concept to Code  Code literacy in UX - Ryan Betts](http://uxmag.com/articles/concept-to-code)
+- [Responsive workflow - Mark Boulton](http://www.markboulton.co.uk/journal/responsive-summit-workflow)
+- [Responsive the one tool - Mark Boulton](http://www.markboulton.co.uk/journal/responsive-summit-the-one-tool)
+- [responsive homepage Microsoft.com - Trent Walton](http://trentwalton.com/2012/10/03/a-new-microsoft-com/)
 
-Lees dan ook dit artikel over [**the Next Big Language**](http://steve-yegge.blogspot.nl/2007/02/next-big-language.html) van Steve Yegge. Een paar jaar geleden schreef hij een blogpost over NBL, de volgende (web) programeer taal, en waarom dit de nieuwe taal hét zal gaan worden. Hij noemt nergens dat het JavaScript was waar hij over schreef. Een paar jaar later heeft hij dat toegegeven.
-
-Klik door naar: [How JavaScript & HTML5 Are Remaking the Web](http://mashable.com/2011/03/17/javascript-html5/)
- "HTML5 is no longer just a buzz word. It — along with JavaScript and CSS3 — is quickly helping reshape perceptions of what a web browser and web standards can achieve"
-Wat zie je nog meer?
-
+- [Is JavaScript the Future of Programming? - Dani Fankhauser](http://mashable.com/2012/11/12/javascript/)
+- [How JavaScript & HTML5 Are Remaking the Web - Christina Warren](http://mashable.com/2011/03/17/javascript-html5/)
 
 
 

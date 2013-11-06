@@ -70,6 +70,36 @@ Van objecten voorbeeld IcanHasGeo naar Object Structuur.
 **Materiaal:** -
 **Opstelling:** klas in 3 groepen van 15
 
+Klas 1 leest: [Javascript: Performance & compatibility (klas 1 - les 3)](http://weeklynerd.tumblr.com/post/60957303363/javascript-performance-compatibility)
+
+- [Progressive Enhancement: Zed’s Dead, Baby - Tom Dale](http://tomdale.net/2013/09/progressive-enhancement-is-dead/)
+- [Maybe Progressive Enhancement is the Wrong Term - Tom Dale](http://tomdale.net/2013/09/maybe-progressive-enhancement-is-the-wrong-term/)
+
+- [Why mobile web apps are slow](http://sealedabstract.com/rants/why-mobile-web-apps-are-slow/)
+
+- [Out-growing Jquery](http://tech.pro/blog/1385/out-growing-jquery)
+
+- [Javascript BEST PRACTICES PART 1](http://www.thinkful.com/learn/javascript-best-practices-1/Allow-for-Configuration-and-Translation?utm_source=javascriptweekly&utm_medium=email)
+
+- [Creating a Mobile-First Responsive Web Design](http://www.html5rocks.com/en/mobile/responsivedesign/)
+
+
+**Klas 2 leest** [JavaScript framworks versus micro libraries (klas 2 - les 3)](http://weeklynerd.tumblr.com/post/61125367316/javascript-framworks-versus-micro-libraries)
+
+- [extjs a dream or a nightmare](https://www.markhamstra.com/extjs/2013/extjs-dream-nightmare)
+- [What is extjs and why do i care](http://blog.probonogeek.org/2009/02/what-is-extjs-and-why-do-i-care/)
+- [Build AJAX applications with Ext JS](http://www.scribd.com/doc/36289723/Build-Ajax-Applications-With-Extjs)
+
+- [Quo JS Micro JavaScript Library
+that simplifies your mobile projects](http://quojs.tapquo.com)
+- [Rapid mobile web development with QuoJS](http://www.stumbleupon.com/su/15vXyS)
+
+- [The pro's and cons of Javascript Micro Frameworks](http://addyosmani.com/blog/prosconsmicroframeworks/)
+
+- [Google Group discussie: Monoliths vs. Microlibraries](https://groups.google.com/forum/#!msg/comp.lang.javascript/uh2ghGHvaEY/Yjbon)
+
+
+
 
 ##4. Werkopdrachten - 120 minuten (190/200)
 **Materiaal** Laptop en internet  

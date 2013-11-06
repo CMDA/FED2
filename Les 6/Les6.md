@@ -21,9 +21,10 @@ CMDA201314-Fed2 Les 6
 
 ###Programma (200 minuten)
 1. Huishoudelijke mededelingen (10)
-2. Weekly Nerd (30) 
-3. Werkopdrachten (100)
-4. Terugkijken (10) 
+2. Opdrachten bespreken (30)
+3. Weekly Nerd (30) 
+4. Werkopdrachten (120)
+5. Terugkijken (10) 
 
 ##0. Voorbereiden voor deze les
 **Huiswerk voor deze les:**
@@ -54,11 +55,32 @@ Wat komt waar te staan? verschillende concepten
 - Haal met behulp van de API data op van ons toernooi: [https://www.leaguevine.com/tournaments/19389/autumn-2013/](https://www.leaguevine.com/tournaments/19389/autumn-2013/) 
 
 
-##2. De Weekly Nerd - 30 minuten (70/200)
+##3. De Weekly Nerd - 30 minuten (70/200)
 **Materiaal:** Naambordje, 
 **Opstelling:** Tafels in de een rondevorm
 
-##3. Werkopdrachten - 120 minuten (190/200)
+
+**Klas 1 leest:** [Front-end Development & Serverside vs Client-side](http://weeklynerd.tumblr.com/post/62974131195/front-end-development-serverside-vs-client-side)
+
+- [Back-end vs. Front-end](http://liquidblog.co.za/2013/back-end-vs-front-end/)
+- [Front-end development should cease to be a profession](http://nerd.vasilis.nl/front-end-development-should-cease-to-be-a-profession/)
+- [A Proposal: Renaming Backend/Frontend to Application/UI Developers - See more at: http://theothersideofcode.com/renaming-backend-frontend-to-application-ui-developers#sthash.iomZ2eAI.dpuf](http://theothersideofcode.com/renaming-backend-frontend-to-application-ui-developers)
+- [Client-side vs. Server-side](http://skillcrush.com/2012/07/30/client-side-vs-server-side/)
+- [HTML rendering : client or server ?](http://nicollet.net/2012/07/html-rendering-client-or-server)
+
+
+
+**Klas 2 leest:** [National “Security” Agency](http://weeklynerd.tumblr.com/post/63101290908/national-security-agency)
+
+- [What is PRISM](http://gizmodo.com/what-is-prism-511875267)
+- [Edward Snowden: the whistleblower behind the NSA surveillance revelations](http://www.theguardian.com/world/2013/jun/09/edward-snowden-nsa-whistleblower-surveillance)
+- [Hoofd NSA: surveillanceprogramma's voorkwamen terrorisme in Europa](http://tweakers.net/nieuws/90513/hoofd-nsa-surveillanceprogrammas-voorkwamen-terrorisme-in-europa.html)
+- [How NSA’s Prism affects you, and how to protect yourself from being spied on](http://www.extremetech.com/extreme/157777-how-nsas-prism-affects-you-and-how-to-protect-yourself-from-being-spied-on/2)
+
+
+
+
+##4. Werkopdrachten - 120 minuten (190/200)
 **Materiaal:** Laptop, beamer, internet
 **Opstelling:** Werkeilanden
 
@@ -73,7 +95,7 @@ Zodra er data opgehaald of gepost wordt van en naar de API, kan het zijn dat er 
 ####12.3:LocalStorage en synchronisatie  
 Om de performance van je Web App te verbeteren kan je data in/uit localStorage opslaan/ophalen. Met een synchronisatie script kijk je of er "onderwater" updates met de API nodig zijn.
 
-##4. Terugkijken - 10 minuten (200/200)
+##5. Terugkijken - 10 minuten (200/200)
 **Materiaal** - 
 **Opstelling** -  
 
