@@ -25,9 +25,10 @@ les 7 gaat over het programmeren van de interface en interactiepatronen. In de l
 
 ###Programma (200 minuten)
 1. Huishoudelijke mededelingen (10)
-2. Weekly Nerd (30) 
-3. Werkopdrachten (100)
-4. Terugkijken (10) 
+2. Opdrachten besprekeken (30)
+3. Weekly Nerd (30) 
+4. Werkopdrachten (120)
+5. Terugkijken (10) 
 
 
 ##0. Voorbereiden voor deze les
@@ -72,14 +73,36 @@ Dat die je binnenhaalt stop je in je eigen darta object.
 
 
 
-##2. De Weekly Nerd - 30 minuten (70/200)
+##3. De Weekly Nerd - 30 minuten (70/200)
 **Materiaal:** Naambordje, 
 **Opstelling:** Tafels in de een rondevorm
 
 
+**Klas 1 leest:** [Privacy, Preprocessors and Coffeescript](http://weeklynerd.tumblr.com/post/63558334760/privacy-preprocessors-and-coffeescript)
+
+- [Stop Worrying About Privacy, Start Caring About Identity](http://www.wired.com/insights/2013/07/stop-worrying-about-privacy-and-start-caring-about-identity/)
+- [The Post-Privacy World](http://www.wired.com/insights/2013/07/the-post-privacy-world/)
+
+- [Why I Don't Use CoffeeScript](http://oscargodson.com/posts/why-i-dont-use-coffeescript.html)
+- [A Case For Using CoffeeScript](http://www.codethinked.com/a-case-for-using-coffeescript)
+
+- [Using a CSS Preprocessor – pros and cons from the front line](http://www.nosleepforsheep.com/development/using-a-css-preprocessor/)
+- [The problem with CSS pre-processors](http://blog.millermedeiros.com/the-problem-with-css-pre-processors/)
 
 
-##3. Werkopdrachten - 120 minuten (190/200)
+
+**Klas 2 leest:** [Hoe belangrijk Ethisch programmeren wel niet is…](http://weeklynerd.tumblr.com/post/63726499581/hoe-belangrijk-ethisch-programmeren-wel-niet-is)
+
+- [Everyday cybercrime -- and what you can do about it](http://www.ted.com/talks/james_lyne_everyday_cybercrime_and_what_you_can_do_about_it.html)
+- [Software Issues 3: The Ethics of Programming](http://www.informit.com/articles/article.aspx?p=21268)
+- [26 Ethics of Computer Programming](http://analogperceptionz.blogspot.nl/2011/01/26-ethics-of-computer-programming.html)
+- [Ethics in Programming](http://www.algorithm.co.il/blogs/programming/ethics-in-programming/)
+- [Computer Programming Code of Ethics](http://www.ehow.com/about_6401964_computer-programming-code-ethics.html)
+- [What not to do. Black Hat SEO techniques](http://www.openglobal.co.uk/articles/93-what-not-to-do-black-hat-seo-techniques.html)
+
+
+
+##4. Werkopdrachten - 120 minuten (190/200)
 **Materiaal:** Laptop, beamer, internet
 **Opstelling:** Werkeilanden
 
@@ -103,7 +126,7 @@ en hoe goed snappen ze alles, schaal 1,2,3,4,5
 * Pull-to-refresh
 
 
-##4. Terugkijken - 10 minuten (200/200)
+##5. Terugkijken - 10 minuten (200/200)
 **Materiaal** - 
 **Opstelling** -  
 

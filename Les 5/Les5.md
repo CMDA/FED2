@@ -20,8 +20,8 @@ CMDA201314-Fed2 Les 5
 1. Huishoudelijke mededelingen (10)
 2. Mini College (30) 
 3. Weekly Nerd (30)
-3. Werkopdrachten (120)
-4. Terugkijken (10) 
+4. Werkopdrachten (120)
+5. Terugkijken (10) 
 
 ##0. Voorbereiden voor deze les
 **Huiswerk voor les 5:**
@@ -40,11 +40,25 @@ Open data,  City SDK
 Project 6 opdracht gemeente dienst Vervoer, app Moet ik rennen
 
 
-##2. De Weekly Nerd - 30 minuten (70/200)
+##3. De Weekly Nerd - 30 minuten (70/200)
 **Materiaal:** Naambordje, 
 **Opstelling:** Tafels in een rondevorm
 
-##3. Werkopdrachten - 120 minuten (190/200)
+**Klas 1 leest:** [Geen post ontvangen]
+- In de les bekeken en besproken de film [Connecting](http://vimeo.com/52861634). Met de 18 minuten durende documentaire Connecting onderzoekt Microsoft Windows Phone de toekomst van Interaction Design en Ux. Aan het woord zijn een aantal designers van grote bedrijven. Hoe kijken zij naar de toekomst, of zitten we er al in?  
+ 
+
+**Klas 2 leest:** [If (javaScript > otherScript) { javaScript.wins(); };](http://weeklynerd.tumblr.com/post/62258647499/if-javascript-otherscript-javascript-wins)
+
+- [Should you learn Coffeescript?](http://net.tutsplus.com/articles/interviews/should-you-learn-coffeescript/)
+- [Microsoft TypeScript: the JavaScript we need, or a solution looking for a problem?](http://arstechnica.com/information-technology/2012/10/microsoft-typescript-the-javascript-we-need-or-a-solution-looking-for-a-problem/)
+- [php vs node.js](http://webapplog.com/php-vs-node-js/)
+- [Node.js vs. Ruby on Rails: How They Fare in the Community](http://devopsangle.com/2012/08/06/node-js-vs-ruby-on-rails-how-they-fare-in-the-community/)
+- [Ruby on Rails vs. Node.js at LinkedIn](http://www.infoq.com/news/2012/10/Ruby-on-Rails-Node-js-LinkedIn)
+
+
+
+##4. Werkopdrachten - 120 minuten (190/200)
 **Materiaal:** Laptop, beamer, internet
 **Opstelling:** Werkeilanden
 
@@ -82,7 +96,7 @@ Wat gaan we maken? **Een Score App voor een frisbee toernooi.**
 
 
 
-##4. Terugkijken - 10 minuten (200/200)
+##5. Terugkijken - 10 minuten (200/200)
 **Materiaal** - 
 **Opstelling** -  
 

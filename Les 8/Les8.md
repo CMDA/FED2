@@ -31,7 +31,7 @@ Ook gaan we tijd besteden aan een Code review. Doet je Webapp het?
 2. Opdrachten bespreken (30)
 3. Weekly Nerd (30) 
 3. Werkopdrachten (100)
-4. Terugkijken (10) 
+4. Terugkijken (30) 
 
 
 ##0. Voorbereiden voor deze les
@@ -73,14 +73,27 @@ Ook gaan we tijd besteden aan een Code review. Doet je Webapp het?
 * Pull-to-refresh
 
 
-##2. De Weekly Nerd - 30 minuten (70/200)
+##3. De Weekly Nerd - 30 minuten (70/200)
 **Materiaal:** Naambordje, 
 **Opstelling:** Tafels in de een rondevorm
 
+**Klas 1 leest:** [NodeJS, TDD & Angular](http://weeklynerd.tumblr.com/post/64212621122/nodejs-tdd-angular)
+
+- [Node.js and the new web front-end](http://www.nczonline.net/blog/2013/10/07/node-js-and-the-new-web-front-end/)
+- [Why Node.js rocks the middle-end](http://blog.getify.com/why-node-js-rocks-the-middle-end/)
+- [Discussion on Test Driven Development at SDC2010](http://emilybache.blogspot.nl/2010/03/discussion-on-tdd-at-sdc2010.html)
+- [AngularJS: 6 Common Pitfalls Using Scopes](http://thenittygritty.co/angularjs-pitfalls-using-scopes)
+- [Data Binding in Angular](http://docs.angularjs.org/guide/dev_guide.templates.databinding)
+
+**Klas 2 leest:** [Frontend de beroepsrol](http://weeklynerd.tumblr.com/post/65227938799/frontend-de-beroepsrol)
+
+- [A day in the life of a front-end developer](https://medium.com/front-end-development/62bff4cf52a6)
+- [A Baseline for Front-End Developers](http://rmurphey.com/blog/2012/04/12/a-baseline-for-front-end-developers/)
+- [GitHub For Beginners: Don't Get Scared, Get Started](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1#awesm=~olifScVPEHffro)
+- [The best career advice I’ve received](http://www.nczonline.net/blog/2013/10/15/the-best-career-advice-ive-received/)
 
 
-
-##3. Werkopdrachten - 120 minuten (190/200)
+##4. Werkopdrachten - 100 minuten (190/200)
 **Materiaal:** Laptop, beamer, internet
 **Opstelling:** Werkeilanden
 
@@ -130,14 +143,80 @@ Verder werken aan de interface en interactie patronen
 
 
 
-##4. Terugkijken - 10 minuten (200/200)
+##5. Terugkijken - 20 minuten (200/200)
 **Materiaal** - 
 **Opstelling** -  
 
-**Lesdoelen: Wat hebben we behandeld? **
+**Lesdoelen: Wat hebben we behandeld in de hele reeks?**
 
-**Werkwijze en planning van het vak**
+[Intentie van het vak](http://intra.iam.hva.nl/content/1314/verdieping2/frontend_2/studiegids/)
 
-**Huiswerk aankondigen**
+Ook willen we je kennis en vaardigheden bieden om je verder te ontwikkelen als [Frontend developer](http://intra.iam.hva.nl/content/algemeen/beroepsrollen/frontend_developer/) Ook door deuren open te zetten naar meer literatuur, tools, werkmethoden, werkwijzen …
 
+Wat is een Frontend developer
+
+Maar ook, als je de sprong hebt gewaagd, om nog beter te worden als  [interaction designer](http://intra.iam.hva.nl/content/algemeen/beroepsrollen/interaction_designer/) en/of [Interface designer](http://intra.iam.hva.nl/content/algemeen/beroepsrollen/visual_interface_designer/) en misschien zelfs [Content designer](http://intra.iam.hva.nl/content/algemeen/beroepsrollen/content_manager/)
+Een CMD-er is breed opgeleid, weet heel veel van het WEB en kan het, zo nodig ook MAKEN. Eigen prototypes. Respopnsive design realiseren in de browser, interactie patronen maken, UX+ animatie scripten in je interface
+
+Op de opleiding CMDA leer je alles over het ontwerpen van online interactieve media.  
+Dit betekent het **BEGRIJPEN**, **BEDENKEN** en **MAKEN** van online interactieve media toepassingen zoals websites, mobiele applicaties en interactieve televisie.
+
+
+
+
+
+
+**Criteria eindopdracht voor mondeling**
+
+**Eindopdracht**
+
+De eindopdracht: is een WebApp voor de mobiel die minimaal bestaat uit 3 delen:
+
+ - Schedule
+ - Pool/ranking 
+ - Game/score
+	
+De data voor de WebApp komt van het toernooi [Autumn 2013](https://www.leaguevine.com/tournaments/19389/autumn-2013/) dat op Leaguevine wordt gehost.
+
+De code van de WebApp is gestructureerd opgebouwd. Er is gebruik gemaakt van de verschillende design principes en best practices die in de lessen zijn behandeld, bijvoorbeeld namespace, controler, page render, change, events en een data object. De data die je gebruikt wordt geladen en gepost met behulp van ajax en json-data. 
+
+In je code maak je gebruik van duidelijke comments en je kan laten zien hoe je de Console gebruikt in je werkprocess en hoe de Network werkt in de Inspect elements
+
+De benodigde functionaliteiten heb je uitgewerkt in een screen flow en technische breakdown. 
+
+De functionaliteiten heb je geprogrammeerd met behulp van verschillende js micro libraries, bijvoorbeeld een dom-ready library, templating, selector engine en interface/interactie api's.
+
+Naast bovenstaande zit in de WebApp minimaal:
+
+ - Feedback naar de gebruiker als je data laadt, bv loading feedback of een tekstuele feedback als er json-data wordt geladen
+ - Functionele animatie, bv een  Scroll-to navigatie voor elke state
+ - Gebruik van een gesture navigatie, bv swipe om games te scoren
+
+
+
+**Aankondiging tentamen**
+
+Als je geen redactie hebt gedaan en/of je hebt meer dan 1 keer niet gepresteerd tijdens de Weekly Nerd moet je een tentamen doen over de artikelen die zijn besproken. Op Moodle staat een lijst met studenten die het tentamen moeten doen.
+
+Voor klas 1 moeten alle artikelen worden gelezen op de Weekly Nerd blog van  [klas 1](http://weeklynerd.tumblr.com/tagged/klas1) en voor klas 2 de artikelen die zijn getagged met [klas 2](http://weeklynerd.tumblr.com/tagged/klas2)
+
+Het tentamen bestaat uit 5 vragen over de stof. De Duur van de toets is maximaal 150 minuten je mag aantekeningen erbij houden. Tijdens het tentamen is het niet toegestaan te communiceren met je telefoon, laptop, tablet of ander apparaat.
+Per vraag krijg je een definitie/uitleg vraag en een inzicht vraag.
+
+Bijvoorbeeld:
+Voorbeeld vraag: Over het artikel [Responsive Workflow van Mark Boulton](http://www.markboulton.co.uk/journal/responsive-summit-workflow)
+1 - a) De schrijver vertelt op een gegeven moment dat de ‘oude’ workflow (ontwerp methode) voor het vormgeven van een webpagina niet werkt voor responsive design. Hoe heet deze manier van werken en wat houdt deze oude workflow precies in?
+1 - b) Waar ligt volgens Mark Boulton het probleem binnen deze workflow? En leg uit of je hier mee eens bent en waarom.
+
+
+**intranet mededeling**
+
+Beste studenten, FED 2 is bijna voorbij.
+
+Aanstaande maandag is het mondeling voor de eindopdracht. je kan je hiervoor inschrijven in Moodle. De criteria staan in het lesprogramma op Github en op de vakpagina.
+
+Volgende week donderdag is het tentamen voor de studenten die meer dan 1 sessie hebben gemist van de Weekly Nerd sessies en/of die geen redactie hebben gedaan. Op Moodle staat ene lijst met studenten voor wie dit geldt.
+
+groeten en succes !
+Koop en Joost
 

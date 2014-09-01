@@ -72,6 +72,23 @@ Code van student bespreken?
 **Opstelling:** klas in 3 groepen van 15
 
 
+**Klas 1 leest** [javascript applicaties en structuur](http://weeklynerd.tumblr.com/post/61662290175/javascript-applicaties-en-structuur)
+
+- [A Detailed Overview of the Model-View-Controller (MVC) Coding Structure](http://www.onextrapixel.com/2012/03/14/a-detailed-overview-of-the-model-view-controller-mvc-coding-structure/)
+- [Don’t get tied to one JavaScript framework](http://www.joomlavision.com/tied-javascript-framework/)
+- [Rich JavaScript Applications – the Seven Frameworks (Throne of JS, 2012)](http://blog.stevensanderson.com/2012/08/01/rich-javascript-applications-the-seven-frameworks-throne-of-js-2012/)
+
+
+**Klas 2 leest** [HTML5 vs Flash](http://weeklynerd.tumblr.com/post/61792510109/html-5-vs-flash)
+
+- [Thoughts on Flash](http://www.apple.com/hotnews/thoughts-on-flash/)
+- [HTML5 vs Flash](http://blog.72lions.com/blog/2013/8/26/html5-vs-flash)
+- [HTML5 a blessing or a curse](http://www.develop-online.net/tools-and-tech/html5-a-blessing-or-a-curse/0117393)
+- [Why use HTML5 Canvas](http://webdesign.about.com/od/html5tags/a/why-use-html5-canvas.htm)
+- [Future Web Accessibility: canvas](http://webaim.org/blog/future-web-accessibility-html-canvas/)
+
+
+
 ##4. Werkopdrachten - 120 minuten (185/200)
 **Materiaal** Laptop en internet  
 **Opstelling** Werkeilanden 2- / 3-tallen
