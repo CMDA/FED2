@@ -3,29 +3,26 @@
  *	
  *
  */
-
-var OUTERSPACE = OS;
-var OS = OS || {};
+var OS = OS || {}; // OS is short for OUTERSPACE
 
 
 (function() {
 
-OS.application = {
-	init: function () {
-		OS.alien.speak()
+	OS.application = {
+		init: function () {
+			OS.alien.speak()
+		}
 	}
-}
 
-OS.alien = {
-	name: 'Robert Rock',
-	
-	speak: function () {
-		console.log('Hi, my name is ' + this.name);
+	OS.alien = {
+		name: 'Robert Rock',
+		
+		speak: function () {
+			console.log('Hi, my name is ' + this.name);
 
-		// console.log("This is:" + this.constructor);
+			console.log(this.constructor);
+		}
 	}
-}
 
-OS.application.init()
-
+	OS.application.init()
 })();

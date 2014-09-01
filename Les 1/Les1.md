@@ -14,8 +14,6 @@ Joost Faber j.faber@hva.nl
 Dennis Tel dennis.tel@hva.nl  
 Nico Brinkkemper n.brinkkemper@hva.nl  
 
-
-
 ###Lesdoelen
 
 * Werkwijze, leerdoelen en planning van het vak bespreken

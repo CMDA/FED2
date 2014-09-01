@@ -6,6 +6,8 @@
 
 // Create local scope with self-invoked function, passing jQuery
 (function ($) {
+	'use strict';
+
 	// Define constant variable
 	var BASE_IMAGE_URL = './static/images/';
 	
@@ -23,7 +25,8 @@
 		var self = this;
 		
 		// Add click handler to element
-		$(element).click(function(){
+		$(element).click(function(e){
+			e.preventDefault();
 			var action = $(this).attr('class');
 			var animation = $(this).attr('data-animation');
 			

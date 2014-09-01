@@ -12,11 +12,11 @@ function Alien(name) {
 		console.log('Hi, my name is ' + this.name);
 	}
 
-	// console.log("This issss: " + this.constructor);
+	console.log(this.constructor);
 }
 
 var rob = new Alien('Robert Rock');
-var roberta = new Alien('Roberta Rock');
+//var roberta = new Alien('Roberta Rock');
 
 
 rob.speak();

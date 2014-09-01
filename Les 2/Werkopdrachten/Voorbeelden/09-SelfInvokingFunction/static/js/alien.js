@@ -6,7 +6,7 @@
 
 var SPACE = SPACE || {};
 
-(function() { //self invoking anonieme functie 
+(function() { //self invoking anonymous function 
 
 	SPACE.alien = {
 		name: 'Robert Rock',
