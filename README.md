@@ -1,10 +1,10 @@
-CMDA201213-Fed2
+CMDA201415-Fed2
 ===============
 
 #Readme#
-Frontend 2 is een techniek van voor studenten CMD Amsterdam die Frontend developer willen worden.
-Het vak is een vervolg op Frontend development in de V1. 
-In Frontend 2 gaan we dieper in op technische mogelijkheden van HTML5 API's ==JavaScript. 
+Frontend 2 is een techniek van voor studenten CMD Amsterdam die Front-End Developer willen worden.
+Het vak is een vervolg op Front-End Development in de V1. 
+In Front-End 2 gaan we dieper in op technische mogelijkheden van JavaScript en HTML5 API's (== JavaScript). 
 Aan het eind van de cursus kun je een webapp maken met HTML5 API's en JavaScript. Je leert methoden om met meer developers tegelijk aan een project te werken, je leert (server) data verwerken en (responsive) layout en navigatie patronen realiseren.
 
 Het lesprogramma bestaat uit 9 lessen inclusief de eindtoets in lesweek 9. 
