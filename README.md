@@ -20,4 +20,3 @@ Deze repo bestaat uit:
 
 ##Letop##
 Het programma is in ontwikkeling en de uitwerking van sommige lessen kan nog tot een week van te voren veranderen.
-
