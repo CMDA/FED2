@@ -1,7 +1,17 @@
-function someOuterFunction () {
-	var someVar = "something";
+var person = {
+	name: 'Bob',
+	
+	speak: function () {
+		console.log('Hi, my name is ' + this.name);
+	},
 
-	function someInnerFunction () {
-		var someOthervar = someVar;
+	walk: function () {
+
+	},
+
+	eat: function () {
+
 	}
 }
+
+person.speak();

@@ -1,13 +1,9 @@
-function someFunction () {
-	var iterator = 1;
-	var max = 10;
-	var min = 0;
+function Person(name) { 
+	this.name = name;
+	
+	this.speak = function () {
+		console.log('Hi, my name is ' + this.name);
+	}
 }
 
-// or
-
-function someOtherFunction () {
-	var iterator = 1,
-		max = 10,
-		min = 0;
-}
+var bob = new Person('Bob');
