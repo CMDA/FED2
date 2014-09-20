@@ -18,5 +18,5 @@ Deze repo bestaat uit:
 - toetsopdrachten en criteria
 
 
-##Letop##
+##Let op##
 Het programma is in ontwikkeling en de uitwerking van sommige lessen kan nog tot een week van te voren veranderen.
