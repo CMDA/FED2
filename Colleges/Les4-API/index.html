@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<title>Front-End Development V2 Hoorcollege week 1</title>
+	<meta name="description" content="" />
+	<meta name="author" content="Joost Faber" />
+	<link href="static/css/style.css" rel="stylesheet" />
+	
+</head>
+<body class="impress-not-supported">
+
+	<section class="fallback-message">
+		<p>Jouw browser ondersteund bepaalde zaken in impress.js niet dus je krijgt een vereenvoudigde versie van de presentatie te zien.</p>
+		<p>Om deze presentatie te zien zoals hij bedoeld is gebruik je de laatste versie van <b>Chrome</b>, <b>Safari</b> of <b>Firefox</b>.</p>
+	</section>
+
+	<section id="impress" data-transition-duration="1000">
+	<!-- All the possible attributes used to position presentation steps, are:
+	* `data-x`, `data-y`, `data-z` - they define the position of **the center** of step element on the canvas in pixels; their default value is 0;
+	* `data-rotate-x`, `data-rotate-y`, 'data-rotate-z`, `data-rotate` - they define the rotation of the element around given axis in degrees; their default value is 0; `data-rotate` and `data-rotate-z` are exactly the same;
+	* `data-scale` - defines the scale of step element; default value is 1
+	-->
+
+<!-- INTRO -->
+
+		<section id="intro" class="step slide" data-x="0" data-y="-1000" data-rotate-x="-50">	
+			<article>
+				<h1>Frontend Development V2</h1>
+				<h2>Agenda</h2>
+
+				<ul>
+					<li>REST API</li>
+					<li>JSON</li>
+					<li>AJAX</li>
+					<li>Voorbeelden</li>				
+				</ul>
+			</article>	
+		</section>
+
+		<section id="api" class="step slide" data-x="1500" data-y="-1000" data-rotate-x="-50">	
+			<article>
+				<h1>Frontend Development V2</h1>
+				<h2>API</h2>
+
+				<p>	An application-programming interface (API) is a set of programming instructions and standards for accessing a Web-based software application or Web tool. A software company releases its API to the public so that other software developers can design products that are powered by its service.</p>
+
+			</article>	
+		</section>
+	
+
+		<section id="rest" class="step slide" data-x="3000" data-y="-1000" data-rotate-x="-50">	
+			<article>
+				<h1>Frontend Development V2</h1>
+				<h2>REST API</h2>
+
+				<ul>
+					<li>ReST = Representational State Transfer</li>
+					<li>Uses HTTP protocol to make calls between machines</li>
+					<li>REST is an architecture style for designing networked applications</li>
+					<li>HTTP requests are used to read, post and update data</li>
+				</ul>
+			</article>	
+		</section>
+
+		<section id="crud" class="step slide" data-x="4500" data-y="-1000" data-rotate-x="-50">	
+			<article>
+				<h1>Frontend Development V2</h1>
+				<h2>REST API - CRUD</h2>
+
+				<ul>
+					<li>CRUD = Create/Read/Update/Delete</li>
+					<li>Read uses GET request</li>
+					<li>Other use POST request</li>
+				</ul>
+			</article>	
+		</section>
+
+		<section id="json" class="step slide" data-x="6000" data-y="-1000" data-rotate-x="-50">	
+			<article>
+				<h1>Frontend Development V2</h1>
+				<h2>JSON</h2>
+				<ul>
+					<li>JSON = JavaScript Object Notation</li>
+					<li>JSON is a syntax for passing around objects that contain name/value pairs, arrays and other objects</li>
+					<li>Parsing JSON is much easier and quicker than XML, just 'eval' the JSON</li>
+					<li>JSON.parse(data) &amp; JSON.stringify(data)</li>
+				</ul>
+			</article>	
+		</section>
+
+		<section id="ajax" class="step slide" data-x="7500" data-y="-1000" data-rotate-x="-50">	
+			<article>
+				<h1>Frontend Development V2</h1>
+				<h2>AJAX</h2>
+				<ul>
+					<li>AJAX = Asynchronous JavaScript and XML</li>
+					<li>Uses XMLHttpRequest (XHR)</li>
+					<li>Data-driven as opposed to page-driven</li>
+					<li>AJAX is a web browser technology independent of web server software</li>
+
+				</ul>
+			</article>	
+		</section>
+
+
+		<section id="example" class="step slide" data-x="9000" data-y="-1000" data-rotate-x="-50">	
+			<article>
+				<h1>Frontend Development V2</h1>
+				<h2>Voorbeelden</h2>
+				<ul>
+					<li><a href="http://www.citysdk.eu/about-the-project/">CitySDK</a>: <br>digital services in urban environments, with open data</li>
+					<li>Facebook, Twitter, Google ... <a href="http://www.programmableweb.com/apis">Programmableweb.com</a></li>
+					<li>Code voorbeeld: <a href="http://dennistel.nl/movies">Dennis' favoriete films</a></li>
+				</ul>
+			</article>	
+		</section>
+	
+		
+
+	</section>
+
+
+<!-- Impress is gemaakt door Bartek Szopka	- http://bartaz.github.com/impress.js/#/bored	-->
+<script type="text/javascript" src="static/js/impress.js"></script>
+<script>impress().init();</script>
+<script type="text/javascript" src="static/js/cmdfuncties.js"></script>
+
+<script src="static/js/jquery-1.6.4.min.js" type="text/javascript"></script>
+<script src="static/js/nebula.js" type="text/javascript"></script>
+
+</body>
+</html>

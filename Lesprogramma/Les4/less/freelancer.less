@@ -59,6 +59,9 @@ hr.star-primary:after {
 hr.star-light {
     border-color: white;
 }
+.alternative hr.star-light {
+    border-color: @brand-primary;
+}
 
 hr.star-light:after {
     background-color: @brand-success;
@@ -82,7 +85,8 @@ hr.star-primary:after {
 }
 .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus,
 .navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
-	color:@brand-success;
+	color:@alternative;
+	background-color:@brand-success;
 }
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
 	background-color:@brand-success;
@@ -192,7 +196,7 @@ section.alternative,
 section.alternative header,
 section.alternative hr.star-light:after {
 	background:@alternative;
-	color:#fff;
+	color:@brand-primary;
 }
 section .container .row:first-child {
 	margin-bottom: 3em
