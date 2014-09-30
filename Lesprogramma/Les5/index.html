@@ -214,7 +214,7 @@
 								<li><span class="glyphicon glyphicon-tag"></span> ...</li>
 								<li><span class="glyphicon glyphicon-tag"></span> ...</li>
 								<li><span class="glyphicon glyphicon-tag"></span> ...</li>
-								<li><span class="glyphicon glyphicon-tag"></span> .../li>
+								<li><span class="glyphicon glyphicon-tag"></span> ...</li>
 								<li><span class="glyphicon glyphicon-tag"></span> ...</li>
 								<li><span class="glyphicon glyphicon-tag"></span> ...</li>
 								<li><span class="glyphicon glyphicon-tag"></span> ...</li>
@@ -243,11 +243,12 @@
 					<div class="panel-body">
 						<ol>
 							<li>Voeg de <a href="http://underscorejs.org/"><span class="glyphicon glyphicon-link"></span>Underscore.js</a> library toe aan je vendor folder</li>
-							<li>Gebruik de 'where' function om door de JSON data te kunnen zoeken</li>
-							<li>Gebruik de 'sortBy' functie om de data te kunnen sorteren</li>
-							<li>Gebruik de 'groupBy' functie om de data te kunnen groeperen (bijvoorbeeld op genre)</li>
-							<li>...</li>
-							<li>Koppel de bovenstaande functies ieder aan een route/state met routie.js</li>
+							<li>Gebruik de 'map' en 'reduce' functies om de reviews per films samen te voegen tot een gemiddelde score</li>
+							<li>Gebruik de 'filter' functie om door de films te kunnen filteren op genre. Doe dit met behulp van een route '#/movies/genre/:genre</li>
+							<li>Gebruik de 'where' functie om te kunnen zoeken</li>
+							<li>Gebruik de 'sortBy' functie om te kunnen sorteren</li>
+							<li>Gebruik de 'groupBy' functie om te kunnen groeperen (bijvoorbeeld op genre)</li>
+							
 						</ol>
 							
 					</div>
@@ -257,8 +258,7 @@
 				<div class="panel panel-default">
 					<div class="panel-heading">20. Detailpagina</div>
 					<div class="panel-body">
-
-						Voeg met behulp van routie.js een detailpagina toe voor elke film in de lijst. De detailpagina bevat alle data die per film is opgenomen in de JSON response.
+						<p>Voeg met behulp van routie.js een detailpagina toe voor elke film in de lijst. De detailpagina bevat alle data die per film is opgenomen in de JSON response. Je kan hiervoor de route '#/movies/:id' gebruiken, maar mooier is '#/movies/:title' (converteer de title eerst naar een pretty url mbv een directive, bijvoorbeeld: the-shawshank-redemption)</p>
 
 					</div>
 				</div>
