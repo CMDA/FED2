@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<title>Front-End Development V2 Hoorcollege week 1</title>
+	<meta name="description" content="" />
+	<meta name="author" content="Joost Faber" />
+	<link href="static/css/style.css" rel="stylesheet" />
+	
+</head>
+<body class="impress-not-supported">
+
+	<section class="fallback-message">
+		<p>Jouw browser ondersteund bepaalde zaken in impress.js niet dus je krijgt een vereenvoudigde versie van de presentatie te zien.</p>
+		<p>Om deze presentatie te zien zoals hij bedoeld is gebruik je de laatste versie van <b>Chrome</b>, <b>Safari</b> of <b>Firefox</b>.</p>
+	</section>
+
+	<section id="impress" data-transition-duration="1000">
+	<!-- All the possible attributes used to position presentation steps, are:
+	* `data-x`, `data-y`, `data-z` - they define the position of **the center** of step element on the canvas in pixels; their default value is 0;
+	* `data-rotate-x`, `data-rotate-y`, 'data-rotate-z`, `data-rotate` - they define the rotation of the element around given axis in degrees; their default value is 0; `data-rotate` and `data-rotate-z` are exactly the same;
+	* `data-scale` - defines the scale of step element; default value is 1
+	-->
+
+<!-- INTRO -->
+
+		<section id="intro" class="step slide" data-x="0" data-y="-1000" data-rotate-x="-50">	
+			<article>
+				<h1>Frontend Development V2</h1>
+				<h2>Agenda</h2>
+
+				<ul>
+					<li>Flexbox</li>
+					<li>Events / Gestures</li>
+					<li>Animations</li>
+					<li>Tips &amp; Tricks</li>				
+				</ul>
+			</article>	
+		</section>
+
+		<section id="flexbox" class="step slide" data-x="1500" data-y="-1000" data-rotate-x="-50">	
+			<article>
+				<h1>Frontend Development V2</h1>
+				<h2>Flexbox</h2>
+
+				<ul>
+					<li>Efficient way to lay out, align and distribute space among items in a container</li>
+					<li>A flex container expands items to fill available free space, or shrinks them to prevent overflow</li>
+					<li>Direction-agnostic</li>
+				</ul>
+
+				<small>source: <a href="http://css-tricks.com/snippets/css/a-guide-to-flexbox/">http://css-tricks.com/snippets/css/a-guide-to-flexbox/</a></small>
+
+			</article>	
+		</section>
+	
+
+		<section id="events" class="step slide" data-x="3000" data-y="-1000" data-rotate-x="-50">	
+			<article>
+				<h1>Frontend Development V2</h1>
+				<h2>Events</h2>
+
+				<ul>
+					<li>Router</li>
+					<li>Mouse events / Touch events</li>
+					<li>Event delegation (performance, works on dynamically added elements)</li>
+					<li>Cross device / Hammer.js</li>
+				</ul>
+			</article>	
+		</section>
+
+		<section id="animation" class="step slide" data-x="4500" data-y="-1000" data-rotate-x="-50">	
+			<article>
+				<h1>Frontend Development V2</h1>
+				<h2>Animation</h2>
+
+				<ul>
+					<li>Hardware Accelerated css transitions / animations (translate, scale, rotate, opacity) *</li>
+					<li>transitionEnd / animationEnd event</li>
+					<li>requestAnimationFrame v setTimeout</li>
+				</ul>
+
+				<small>* source: <a href="http://www.html5rocks.com/en/tutorials/speed/high-performance-animations/">http://www.html5rocks.com/en/tutorials/speed/high-performance-animations/</a></small>
+			</article>	
+		</section>
+
+		<section id="tips" class="step slide" data-x="6000" data-y="-1000" data-rotate-x="-50">	
+			<article>
+				<h1>Frontend Development V2</h1>
+				<h2>Tips &amp; Tricks</h2>
+				<ul>
+					<li></li>
+
+				</ul>
+			</article>	
+		</section>
+		
+	</section>
+
+
+<!-- Impress is gemaakt door Bartek Szopka	- http://bartaz.github.com/impress.js/#/bored	-->
+<script type="text/javascript" src="static/js/impress.js"></script>
+<script>impress().init();</script>
+<script type="text/javascript" src="static/js/cmdfuncties.js"></script>
+
+<script src="static/js/jquery-1.6.4.min.js" type="text/javascript"></script>
+<script src="static/js/nebula.js" type="text/javascript"></script>
+
+</body>
+</html>
