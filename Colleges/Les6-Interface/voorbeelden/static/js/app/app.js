@@ -22,15 +22,13 @@
 	ul.addEventListener('webkitTransitionEnd', function(){
 		header.classList.toggle('move');
 	});
-	
+
 	header.addEventListener('webkitTransitionEnd', function(){
 		ul.classList.toggle('move');
 	});
 	
 	// Touch events / Hammer.js
-	/*ul.addEventListener('touchstart', function(){
-		header.classList.toggle('move');
-	});*/
+	// http://www.html5rocks.com/en/mobile/touch/
 	var youCantTouchThis = new Hammer(section);
 
 	youCantTouchThis.on('panright panleft tap', function(ev) {
